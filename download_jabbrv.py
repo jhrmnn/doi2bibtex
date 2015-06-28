@@ -19,7 +19,7 @@ def chunker(lst, n):
 
 
 url_tmpl = 'http://www.issn.org/services/online-services/access-to-the-ltwa/?numpage={}'
-db_path = 'jabbrv.sqlite'
+db_path = 'jabbrv.db'
 
 
 def db_init():
