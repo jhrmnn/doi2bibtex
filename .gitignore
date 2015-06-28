@@ -2,5 +2,4 @@ test/references.txt
 test/test.bib
 *.downloaded
 unicode2latex/unicode.xml
-unicode2latex/unicode_latex.py
 unicode2latex/unicode2latex.db
