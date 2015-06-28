@@ -18,6 +18,8 @@ convert a list of DOIs into a useful bibtex file. This means that:
 	$ pip3 install beautifulsoup4 bibtexparser python-slugify
 	```
 
+- GNU `realpath`
+
 ## Installation
 
 ```bash
