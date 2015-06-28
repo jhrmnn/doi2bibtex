@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir=`dirname $0`
+dir=`dirname $(readlink $0)`
 cat \
     | python3 $dir/get_bibtex.py \
     | $dir/unicode2latex/unicode2latex.py -rb \
