@@ -2,7 +2,7 @@
 
 dbname = jabbrv.db
 
-all: unicode2latex $(dbname)
+all: unicode2latex
 
 unicode2latex:
 	$(MAKE) -C unicode2latex

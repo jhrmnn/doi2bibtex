@@ -36,3 +36,6 @@ $ doi2bibtex.sh <dois.txt >references.bib
 ## Notes
 
 ## Developer notes
+
+- Whenever pushing changes to `download_jabbrv.py` or `process.sql`, also update 
+	the `jabbrv.db` file if it changes.
