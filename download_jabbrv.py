@@ -18,14 +18,14 @@ def chunker(lst, n):
 
 
 url_tmpl = 'http://www.issn.org/services/online-services/access-to-the-ltwa/?numpage={}'
-db_path = 'jabbrev.sqlite'
+db_path = 'jabbrv.sqlite'
 
 
 def db_init():
     conn = sql.connect(db_path)
     cur = conn.cursor()
-    cur.execute('drop table if exists abbrevs')
-    cur.execute('create table abbrevs (full text, abbr text, lang text)')
+    cur.execute('drop table if exists abbrvs')
+    cur.execute('create table abbrvs (full text, abbr text, lang text)')
     conn.commit()
     conn.close()
 
@@ -78,7 +78,7 @@ def scraper(html_que):
             if not items:
                 continue
             db.append(tuple(it.text for it in items))
-        cur.executemany('insert into abbrevs values (?,?,?)', db)
+        cur.executemany('insert into abbrvs values (?,?,?)', db)
         conn.commit()
         html_que.task_done()
 
