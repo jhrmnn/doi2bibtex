@@ -1,4 +1,5 @@
 all: test.bib
+	diff -s $<.ref $<
 
 clean:
 	-rm test.bib references.txt

@@ -28,6 +28,14 @@ $ make
 
 This builds a couple of tools within the repository directory.
 
+```bash
+$ make test
+```
+
+This should print
+
+> Files test.bib.ref and test.bib are identical
+
 ## Usage
 
 ```bash

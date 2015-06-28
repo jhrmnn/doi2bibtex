@@ -1,0 +1,1333 @@
+@article{AmbrosettiJCP14.70,
+ author = {Alberto Ambrosetti and Anthony M. Reilly and Robert A. DiStasio and Alexandre Tkatchenko},
+ doi = {10.1063/1.4865104},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.4865104},
+ month = {may},
+ number = {18},
+ pages = {18A508},
+ publisher = {{AIP} Publishing},
+ title = {Long-range correlation energy calculated from coupled atomic response functions},
+ volume = {140},
+ year = {2014}
+}
+
+@article{AnderssonPRL96.36,
+ author = {Y. Andersson and D. C. Langreth and B. I. Lundqvist},
+ doi = {10.1103/physrevlett.76.102},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.76.102},
+ month = {jan},
+ number = {1},
+ pages = {102--105},
+ publisher = {American Physical Society ({APS})},
+ title = {van der Waals Interactions in Density-Functional Theory},
+ volume = {76},
+ year = {1996}
+}
+
+@article{AustinJCTC12.02,
+ author = {Amy Austin and George A. Petersson and Michael J. Frisch and Frank J. Dobek and Giovanni Scalmani and Kyle Throssell},
+ doi = {10.1021/ct300778e},
+ journal = {J. Chem. Theory Comput.},
+ link = {http://dx.doi.org/10.1021/ct300778e},
+ month = {dec},
+ number = {12},
+ pages = {4989--5007},
+ publisher = {American Chemical Society ({ACS})},
+ title = {A Density Functional with Spherical Atom Dispersion Terms},
+ volume = {8},
+ year = {2012}
+}
+
+@article{BeckeJCP05.67,
+ author = {Axel D. Becke and Erin R. Johnson},
+ doi = {10.1063/1.2065267},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.2065267},
+ number = {15},
+ pages = {154101},
+ publisher = {{AIP} Publishing},
+ title = {A density-functional model of the dispersion interaction},
+ volume = {123},
+ year = {2005}
+}
+
+@article{BeckeJCP05.c5,
+ author = {Axel D. Becke and Erin R. Johnson},
+ doi = {10.1063/1.1884601},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.1884601},
+ number = {15},
+ pages = {154104},
+ publisher = {{AIP} Publishing},
+ title = {Exchange-hole dipole moment and the dispersion interaction},
+ volume = {122},
+ year = {2005}
+}
+
+@article{BeckeJCP07.6d,
+ author = {Axel D. Becke and Erin R. Johnson},
+ doi = {10.1063/1.2795701},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.2795701},
+ number = {15},
+ pages = {154108},
+ publisher = {{AIP} Publishing},
+ title = {Exchange-hole dipole moment and the dispersion interaction revisited},
+ volume = {127},
+ year = {2007}
+}
+
+@article{BuckoJCP14.64,
+ author = {Tom{\'{a}}{\v{s}} Bu{\v{c}}ko and S{\'{e}}bastien Leb{\`{e}}gue and J{\'{a}}nos G. {\'{A}}ngy{\'{a}}n and J{\"{u}}rgen Hafner},
+ doi = {10.1063/1.4890003},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.4890003},
+ month = {jul},
+ number = {3},
+ pages = {034114},
+ publisher = {{AIP} Publishing},
+ title = {Extending the applicability of the Tkatchenko-Scheffler dispersion correction via iterative Hirshfeld partitioning},
+ volume = {141},
+ year = {2014}
+}
+
+@article{BuckoJCTC13.67,
+ author = {Tom{\'{a}}{\v{s}} Bu{\v{c}}ko and S{\'{e}}bastien Leb{\`{e}}gue and J{\"{u}}rgen Hafner and J{\'{a}}nos G. {\'{A}}ngy{\'{a}}n},
+ doi = {10.1021/ct400694h},
+ journal = {J. Chem. Theory Comput.},
+ link = {http://dx.doi.org/10.1021/ct400694h},
+ month = {oct},
+ number = {10},
+ pages = {4293--4299},
+ publisher = {American Chemical Society ({ACS})},
+ title = {Improved Density Dependent Correction for the Description of London Dispersion Forces},
+ volume = {9},
+ year = {2013}
+}
+
+@article{BuckoPRB13.93,
+ author = {Tom{\'{a}}{\v{s}} Bu{\v{c}}ko and S. Leb{\`{e}}gue and J{\"{u}}rgen Hafner and J. G. {\'{A}}ngy{\'{a}}n},
+ doi = {10.1103/physrevb.87.064110},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.87.064110},
+ month = {feb},
+ number = {6},
+ publisher = {American Physical Society ({APS})},
+ title = {Tkatchenko-Scheffler van der Waals correction method with and without self-consistent screening applied to solids},
+ volume = {87},
+ year = {2013}
+}
+
+@article{BurkeJCP12.31,
+ author = {Kieron Burke},
+ doi = {10.1063/1.4704546},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.4704546},
+ number = {15},
+ pages = {150901},
+ publisher = {{AIP} Publishing},
+ title = {Perspective on density functional theory},
+ volume = {136},
+ year = {2012}
+}
+
+@article{BurnsJCP11.67,
+ author = {Lori A. Burns and A{\'}lvaro Va{\'}zquez- Mayagoitia and Bobby G. Sumpter and C. David Sherrill},
+ doi = {10.1063/1.3545971},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.3545971},
+ number = {8},
+ pages = {084107},
+ publisher = {{AIP} Publishing},
+ title = {Density-functional approaches to noncovalent interactions: A comparison of dispersion corrections ({DFT}-D), exchange-hole dipole moment ({XDM}) theory, and specialized functionals},
+ volume = {134},
+ year = {2011}
+}
+
+@article{Chakarova-KackPRL06.94,
+ author = {Svetla D. Chakarova-K{\"{a}}ck and Elsebeth Schr{\"{o}}der and Bengt I. Lundqvist and David C. Langreth},
+ doi = {10.1103/physrevlett.96.146107},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.96.146107},
+ month = {apr},
+ number = {14},
+ publisher = {American Physical Society ({APS})},
+ title = {Application of van der Waals Density Functional to an Extended System: Adsorption of Benzene and Naphthalene on Graphite},
+ volume = {96},
+ year = {2006}
+}
+
+@article{CohenCR12.71,
+ author = {Aron J. Cohen and Paula Mori-S{\'{a}}nchez and Weitao Yang},
+ doi = {10.1021/cr200107z},
+ journal = {Chem. Rev.},
+ link = {http://dx.doi.org/10.1021/cr200107z},
+ month = {jan},
+ number = {1},
+ pages = {289--320},
+ publisher = {American Chemical Society ({ACS})},
+ title = {Challenges for Density Functional Theory},
+ volume = {112},
+ year = {2012}
+}
+
+@article{CooperPRB10.26,
+ author = {Valentino R. Cooper},
+ doi = {10.1103/physrevb.81.161104},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.81.161104},
+ month = {apr},
+ number = {16},
+ publisher = {American Physical Society ({APS})},
+ title = {Van der Waals density functional: An appropriate exchange functional},
+ volume = {81},
+ year = {2010}
+}
+
+@article{DiLabioCPL08.b8,
+ author = {Gino A. DiLabio},
+ doi = {10.1016/j.cplett.2008.02.110},
+ journal = {Chem. Phys. Lett.},
+ link = {http://dx.doi.org/10.1016/j.cplett.2008.02.110},
+ month = {apr},
+ number = {4-6},
+ pages = {348--353},
+ publisher = {Elsevier {BV}},
+ title = {Accurate treatment of van der Waals interactions using standard density functional theory methods with effective core-type potentials: Application to carbon-containing dimers},
+ volume = {455},
+ year = {2008}
+}
+
+@article{DionPRL04.1b,
+ author = {M. Dion and H. Rydberg and E. Schr{\"{o}}der and D. C. Langreth and B. I. Lundqvist},
+ doi = {10.1103/physrevlett.92.246401},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.92.246401},
+ month = {jun},
+ number = {24},
+ publisher = {American Physical Society ({APS})},
+ title = {Van der Waals Density Functional for General Geometries},
+ volume = {92},
+ year = {2004}
+}
+
+@article{DiStasioJPCM14.ef,
+ author = {Robert A DiStasio and Vivekanand V Gobre and Alexandre Tkatchenko},
+ doi = {10.1088/0953-8984/26/21/213202},
+ journal = {J. Phys.: Condens. Matter},
+ link = {http://dx.doi.org/10.1088/0953-8984/26/21/213202},
+ month = {may},
+ number = {21},
+ pages = {213202},
+ publisher = {{IOP} Publishing},
+ title = {Many-body van der Waals interactions in molecules and condensed matter},
+ volume = {26},
+ year = {2014}
+}
+
+@article{DobsonIJQC14.07,
+ author = {John F. Dobson},
+ doi = {10.1002/qua.24635},
+ journal = {Int. J. Quantum Chem.},
+ link = {http://dx.doi.org/10.1002/qua.24635},
+ month = {feb},
+ number = {18},
+ pages = {1157--1161},
+ publisher = {Wiley-Blackwell},
+ title = {Beyond pairwise additivity in London dispersion interactions},
+ volume = {114},
+ year = {2014}
+}
+
+@article{DobsonJPCM12.c8,
+ author = {John F Dobson and Tim Gould},
+ doi = {10.1088/0953-8984/24/7/073201},
+ journal = {J. Phys.: Condens. Matter},
+ link = {http://dx.doi.org/10.1088/0953-8984/24/7/073201},
+ month = {jan},
+ number = {7},
+ pages = {073201},
+ publisher = {{IOP} Publishing},
+ title = {Calculation of dispersion energies},
+ volume = {24},
+ year = {2012}
+}
+
+@article{DobsonPRL06.4c,
+ author = {John F. Dobson and Angela White and Angel Rubio},
+ doi = {10.1103/physrevlett.96.073201},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.96.073201},
+ month = {feb},
+ number = {7},
+ publisher = {American Physical Society ({APS})},
+ title = {Asymptotics of the Dispersion Interaction: Analytic Benchmarks for van der Waals Energy Functionals},
+ volume = {96},
+ year = {2006}
+}
+
+@article{FeynmanPR39.94,
+ author = {R. P. Feynman},
+ doi = {10.1103/physrev.56.340},
+ journal = {Phys. Rev.},
+ link = {http://dx.doi.org/10.1103/PhysRev.56.340},
+ month = {aug},
+ number = {4},
+ pages = {340--343},
+ publisher = {American Physical Society ({APS})},
+ title = {Forces in Molecules},
+ volume = {56},
+ year = {1939}
+}
+
+@article{FurchePRB01.4b,
+ author = {Filipp Furche},
+ doi = {10.1103/physrevb.64.195120},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.64.195120},
+ month = {oct},
+ number = {19},
+ publisher = {American Physical Society ({APS})},
+ title = {Molecular tests of the random phase approximation to the exchange-correlation energy functional},
+ volume = {64},
+ year = {2001}
+}
+
+@article{GobreNC13.b8,
+ author = {Vivekanand V. Gobre and Alexandre Tkatchenko},
+ doi = {10.1038/ncomms3341},
+ journal = {Nat. Commun.},
+ link = {http://dx.doi.org/10.1038/ncomms3341},
+ month = {aug},
+ publisher = {Nature Publishing Group},
+ title = {Scaling laws for van der Waals interactions in nanostructured materials},
+ volume = {4},
+ year = {2013}
+}
+
+@article{GrazianoJPCM12.bf,
+ author = {Gabriella Graziano and Ji{\v{r}}{\'{\i}} Klime{\v{s}} and Felix Fernandez-Alonso and Angelos Michaelides},
+ doi = {10.1088/0953-8984/24/42/424216},
+ journal = {J. Phys.: Condens. Matter},
+ link = {http://dx.doi.org/10.1088/0953-8984/24/42/424216},
+ month = {oct},
+ number = {42},
+ pages = {424216},
+ publisher = {{IOP} Publishing},
+ title = {Improved description of soft layered materials with van der Waals density functional theory},
+ volume = {24},
+ year = {2012}
+}
+
+@article{GulansPRB09.27,
+ author = {Andris Gulans and Martti J. Puska and Risto M. Nieminen},
+ doi = {10.1103/physrevb.79.201105},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.79.201105},
+ month = {may},
+ number = {20},
+ publisher = {American Physical Society ({APS})},
+ title = {Linear-scaling self-consistent implementation of the van der Waals density functional},
+ volume = {79},
+ year = {2009}
+}
+
+@article{HamadaPRB10.a2,
+ author = {Ikutaro Hamada and Minoru Otani},
+ doi = {10.1103/physrevb.82.153412},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.82.153412},
+ month = {oct},
+ number = {15},
+ publisher = {American Physical Society ({APS})},
+ title = {Comparative van der Waals density-functional study of graphene on metal surfaces},
+ volume = {82},
+ year = {2010}
+}
+
+@article{HamadaPRB14.be,
+ author = {Ikutaro Hamada},
+ doi = {10.1103/physrevb.89.121103},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.89.121103},
+ month = {mar},
+ number = {12},
+ publisher = {American Physical Society ({APS})},
+ title = {van der Waals density functional made accurate},
+ volume = {89},
+ year = {2014}
+}
+
+@article{HarlPRB08.23,
+ author = {Judith Harl and Georg Kresse},
+ doi = {10.1103/physrevb.77.045136},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.77.045136},
+ month = {jan},
+ number = {4},
+ publisher = {American Physical Society ({APS})},
+ title = {Cohesive energy curves for noble gas solids calculated by adiabatic connection fluctuation-dissipation theory},
+ volume = {77},
+ year = {2008}
+}
+
+@article{HermannJCP13.3e,
+ author = {Jan Hermann and Ota Bludsky{\'}},
+ doi = {10.1063/1.4813826},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.4813826},
+ number = {3},
+ pages = {034115},
+ publisher = {{AIP} Publishing},
+ title = {A novel correction scheme for {DFT}: A combined {vdW}-{DF}/{CCSD}(T) approach},
+ volume = {139},
+ year = {2013}
+}
+
+@article{HesselmanJCTC13.08,
+ author = {Andreas He{\ss}elmann},
+ doi = {10.1021/ct300735g},
+ journal = {J. Chem. Theory Comput.},
+ link = {http://dx.doi.org/10.1021/ct300735g},
+ month = {jan},
+ number = {1},
+ pages = {273--283},
+ publisher = {American Chemical Society ({ACS})},
+ title = {Assessment of a Nonlocal Correction Scheme to Semilocal Density Functional Theory Methods},
+ volume = {9},
+ year = {2013}
+}
+
+@article{HujoJCTC11.e9,
+ author = {Waldemar Hujo and Stefan Grimme},
+ doi = {10.1021/ct200644w},
+ journal = {J. Chem. Theory Comput.},
+ link = {http://dx.doi.org/10.1021/ct200644w},
+ month = {dec},
+ number = {12},
+ pages = {3866--3871},
+ publisher = {American Chemical Society ({ACS})},
+ title = {Performance of the van der Waals Density Functional {VV}10 and (hybrid){GGA} Variants for Thermochemistry and Noncovalent Interactions},
+ volume = {7},
+ year = {2011}
+}
+
+@article{JacobCMS14.f0,
+ author = {Christoph R. Jacob and Johannes Neugebauer},
+ doi = {10.1002/wcms.1175},
+ journal = {{WIREs} Comput. Mol Sci},
+ link = {http://dx.doi.org/10.1002/wcms.1175},
+ month = {jul},
+ number = {4},
+ pages = {325--362},
+ publisher = {Wiley-Blackwell},
+ title = {Subsystem density-functional theory},
+ volume = {4},
+ year = {2014}
+}
+
+@article{JohnsonJCP05.86,
+ author = {Erin R. Johnson and Axel D. Becke},
+ doi = {10.1063/1.1949201},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.1949201},
+ number = {2},
+ pages = {024101},
+ publisher = {{AIP} Publishing},
+ title = {A post-Hartree{\textendash}Fock model of intermolecular interactions},
+ volume = {123},
+ year = {2005}
+}
+
+@article{JohnsonJCP06.59,
+ author = {Erin R. Johnson and Axel D. Becke},
+ doi = {10.1063/1.2190220},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.2190220},
+ number = {17},
+ pages = {174104},
+ publisher = {{AIP} Publishing},
+ title = {A post-Hartree-Fock model of intermolecular interactions: Inclusion of higher-order corrections},
+ volume = {124},
+ year = {2006}
+}
+
+@article{JohnsonJPOC09.08,
+ author = {Erin R. Johnson and Iain D. Mackie and Gino A. DiLabio},
+ doi = {10.1002/poc.1606},
+ journal = {J. Phys. Org. Chem.},
+ link = {http://dx.doi.org/10.1002/poc.1606},
+ month = {dec},
+ number = {12},
+ pages = {1127--1135},
+ publisher = {Wiley-Blackwell},
+ title = {Dispersion interactions in density-functional theory},
+ volume = {22},
+ year = {2009}
+}
+
+@article{KannemannJCTC10.50,
+ author = {Felix O. Kannemann and Axel D. Becke},
+ doi = {10.1021/ct900699r},
+ journal = {J. Chem. Theory Comput.},
+ link = {http://dx.doi.org/10.1021/ct900699r},
+ month = {apr},
+ number = {4},
+ pages = {1081--1088},
+ publisher = {American Chemical Society ({ACS})},
+ title = {van der Waals Interactions in Density-Functional Theory: Intermolecular Complexes},
+ volume = {6},
+ year = {2010}
+}
+
+@article{KevorkyantsJCP14.6d,
+ author = {Ruslan Kevorkyants and Henk Eshuis and Michele Pavanello},
+ doi = {10.1063/1.4890839},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.4890839},
+ month = {jul},
+ number = {4},
+ pages = {044127},
+ publisher = {{AIP} Publishing},
+ title = {{FDE}-{vdW}: A van der Waals inclusive subsystem density-functional theory},
+ volume = {141},
+ year = {2014}
+}
+
+@article{KlimesJCP12.a8,
+ author = {Jir{\v}i{\'} Klimes{\v} and Angelos Michaelides},
+ doi = {10.1063/1.4754130},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.4754130},
+ number = {12},
+ pages = {120901},
+ publisher = {{AIP} Publishing},
+ title = {Perspective: Advances and challenges in treating van der Waals dispersion forces in density functional theory},
+ volume = {137},
+ year = {2012}
+}
+
+@article{KlimesJPCM09.91,
+ author = {Ji{\v{r}}{\'{\i}} Klime{\v{s}} and David R Bowler and Angelos Michaelides},
+ doi = {10.1088/0953-8984/22/2/022201},
+ journal = {J. Phys.: Condens. Matter},
+ link = {http://dx.doi.org/10.1088/0953-8984/22/2/022201},
+ month = {dec},
+ number = {2},
+ pages = {022201},
+ publisher = {{IOP} Publishing},
+ title = {Chemical accuracy for the van der Waals density functional},
+ volume = {22},
+ year = {2009}
+}
+
+@article{KlimesPRB11.b3,
+ author = {Ji{\v{r}}{\'{\i}} Klime{\v{s}} and David R. Bowler and Angelos Michaelides},
+ doi = {10.1103/physrevb.83.195131},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.83.195131},
+ month = {may},
+ number = {19},
+ publisher = {American Physical Society ({APS})},
+ title = {Van der Waals density functionals applied to solids},
+ volume = {83},
+ year = {2011}
+}
+
+@article{KummelRMP08.93,
+ author = {Stephan K{\"{u}}mmel and Leeor Kronik},
+ doi = {10.1103/revmodphys.80.3},
+ journal = {Rev. Mod. Phys.},
+ link = {http://dx.doi.org/10.1103/RevModPhys.80.3},
+ month = {jan},
+ number = {1},
+ pages = {3--60},
+ publisher = {American Physical Society ({APS})},
+ title = {Orbital-dependent density functionals: Theory and applications},
+ volume = {80},
+ year = {2008}
+}
+
+@article{LangrethIJQC04.08,
+ author = {D. C. Langreth and M. Dion and H. Rydberg and E. Schrder and P. Hyldgaard and B. I. Lundqvist},
+ doi = {10.1002/qua.20315},
+ journal = {Int. J. Quantum Chem.},
+ link = {http://dx.doi.org/10.1002/qua.20315},
+ number = {5},
+ pages = {599--610},
+ publisher = {Wiley-Blackwell},
+ title = {Van der Waals density functional theory with applications},
+ volume = {101},
+ year = {2004}
+}
+
+@article{LangrethJPCM09.66,
+ author = {D C Langreth and B I Lundqvist and S D Chakarova-K{\"{a}}ck and V R Cooper and M Dion and P Hyldgaard and A Kelkkanen and J Kleis and Lingzhu Kong and Shen Li and P G Moses and E Murray and A Puzder and H Rydberg and E Schr{\"{o}}der and T Thonhauser},
+ doi = {10.1088/0953-8984/21/8/084203},
+ journal = {J. Phys.: Condens. Matter},
+ link = {http://dx.doi.org/10.1088/0953-8984/21/8/084203},
+ month = {jan},
+ number = {8},
+ pages = {084203},
+ publisher = {{IOP} Publishing},
+ title = {A density functional for sparse matter},
+ volume = {21},
+ year = {2009}
+}
+
+@article{LangrethPRL10.3f,
+ author = {David C. Langreth and Bengt I. Lundqvist},
+ doi = {10.1103/physrevlett.104.099303},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.104.099303},
+ month = {mar},
+ number = {9},
+ publisher = {American Physical Society ({APS})},
+ title = {Comment on {\textquotedblleft}Nonlocal Van Der Waals Density Functional Made Simple{\textquotedblright}},
+ volume = {104},
+ year = {2010}
+}
+
+@article{LebeguePRL10.db,
+ author = {S. Leb{\`{e}}gue and J. Harl and Tim Gould and J. G. {\'{A}}ngy{\'{a}}n and G. Kresse and J. F. Dobson},
+ doi = {10.1103/physrevlett.105.196401},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.105.196401},
+ month = {nov},
+ number = {19},
+ publisher = {American Physical Society ({APS})},
+ title = {Cohesive Properties and Asymptotics of the Dispersion Interaction in Graphite by the Random Phase Approximation},
+ volume = {105},
+ year = {2010}
+}
+
+@article{LeePRB10.c2,
+ author = {Kyuho Lee and {\'{E}}amonn D. Murray and Lingzhu Kong and Bengt I. Lundqvist and David C. Langreth},
+ doi = {10.1103/physrevb.82.081101},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.82.081101},
+ month = {aug},
+ number = {8},
+ publisher = {American Physical Society ({APS})},
+ title = {Higher-accuracy van der Waals density functional},
+ volume = {82},
+ year = {2010}
+}
+
+@article{LilienfeldPRB05.49,
+ author = {O. Anatole von Lilienfeld and Ivano Tavernelli and Ursula Rothlisberger and Daniel Sebastiani},
+ doi = {10.1103/physrevb.71.195119},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.71.195119},
+ month = {may},
+ number = {19},
+ publisher = {American Physical Society ({APS})},
+ title = {Performance of optimized atom-centered potentials for weakly bonded systems using density functional theory},
+ volume = {71},
+ year = {2005}
+}
+
+@article{LilienfeldPRL04.4f,
+ author = {O. Anatole von Lilienfeld and Ivano Tavernelli and Ursula Rothlisberger and Daniel Sebastiani},
+ doi = {10.1103/physrevlett.93.153004},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.93.153004},
+ month = {oct},
+ number = {15},
+ publisher = {American Physical Society ({APS})},
+ title = {Optimization of Effective Atom Centered Potentials for London Dispersion Forces in Density Functional Theory},
+ volume = {93},
+ year = {2004}
+}
+
+@article{LuPRL09.1f,
+ author = {Deyu Lu and Yan Li and Dario Rocca and Giulia Galli},
+ doi = {10.1103/physrevlett.102.206411},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.102.206411},
+ month = {may},
+ number = {20},
+ publisher = {American Physical Society ({APS})},
+ title = {Ab~initio Calculation of van der Waals Bonded Molecular Crystals},
+ volume = {102},
+ year = {2009}
+}
+
+@article{MaromJCTC11.8d,
+ author = {Noa Marom and Alexandre Tkatchenko and Mariana Rossi and Vivekanand V. Gobre and Oded Hod and Matthias Scheffler and Leeor Kronik},
+ doi = {10.1021/ct2005616},
+ journal = {J. Chem. Theory Comput.},
+ link = {http://dx.doi.org/10.1021/ct2005616},
+ month = {dec},
+ number = {12},
+ pages = {3944--3951},
+ publisher = {American Chemical Society ({ACS})},
+ title = {Dispersion Interactions with Density-Functional Theory: Benchmarking Semiempirical and Interatomic Pairwise Corrected Density Functionals},
+ volume = {7},
+ year = {2011}
+}
+
+@article{MarzariRMP12.14,
+ author = {Nicola Marzari and Arash A. Mostofi and Jonathan R. Yates and Ivo Souza and David Vanderbilt},
+ doi = {10.1103/revmodphys.84.1419},
+ journal = {Rev. Mod. Phys.},
+ link = {http://dx.doi.org/10.1103/RevModPhys.84.1419},
+ month = {oct},
+ number = {4},
+ pages = {1419--1475},
+ publisher = {American Physical Society ({APS})},
+ title = {Maximally localized Wannier functions: Theory and applications},
+ volume = {84},
+ year = {2012}
+}
+
+@article{MercurioPRL10.3c,
+ author = {G. Mercurio and E. R. McNellis and I. Martin and S. Hagen and F. Leyssner and S. Soubatch and J. Meyer and M. Wolf and P. Tegeder and F. S. Tautz and K. Reuter},
+ doi = {10.1103/physrevlett.104.036102},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.104.036102},
+ month = {jan},
+ number = {3},
+ publisher = {American Physical Society ({APS})},
+ title = {Structure and Energetics of Azobenzene on Ag(111): Benchmarking Semiempirical Dispersion Correction Approaches},
+ volume = {104},
+ year = {2010}
+}
+
+@article{MittendorferPRB11.ba,
+ author = {F. Mittendorfer and A. Garhofer and J. Redinger and J. Klime{\v{s}} and J. Harl and G. Kresse},
+ doi = {10.1103/physrevb.84.201401},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.84.201401},
+ month = {nov},
+ number = {20},
+ publisher = {American Physical Society ({APS})},
+ title = {Graphene on Ni(111): Strong interaction and weak adsorption},
+ volume = {84},
+ year = {2011}
+}
+
+@article{MurrayJCTC09.62,
+ author = {E{\'}amonn D. Murray and Kyuho Lee and David C. Langreth},
+ doi = {10.1021/ct900365q},
+ journal = {J. Chem. Theory Comput.},
+ link = {http://dx.doi.org/10.1021/ct900365q},
+ month = {oct},
+ number = {10},
+ pages = {2754--2762},
+ publisher = {American Chemical Society ({ACS})},
+ title = {Investigation of Exchange Energy Density Functional Accuracy for Interacting Molecules},
+ volume = {5},
+ year = {2009}
+}
+
+@article{OlsenPRB12.6f,
+ author = {Thomas Olsen and Kristian S. Thygesen},
+ doi = {10.1103/physrevb.86.081103},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.86.081103},
+ month = {aug},
+ number = {8},
+ publisher = {American Physical Society ({APS})},
+ title = {Extending the random-phase approximation for electronic correlation energies: The renormalized adiabatic local density approximation},
+ volume = {86},
+ year = {2012}
+}
+
+@article{OlsenPRB13.3c,
+ author = {Thomas Olsen and Kristian S. Thygesen},
+ doi = {10.1103/physrevb.87.075111},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.87.075111},
+ month = {feb},
+ number = {7},
+ publisher = {American Physical Society ({APS})},
+ title = {Random phase approximation applied to solids, molecules, and graphene-metal interfaces: From van der Waals to covalent bonding},
+ volume = {87},
+ year = {2013}
+}
+
+@article{OlsenPRB13.63,
+ author = {Thomas Olsen and Kristian S. Thygesen},
+ doi = {10.1103/physrevb.88.115131},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.88.115131},
+ month = {sep},
+ number = {11},
+ publisher = {American Physical Society ({APS})},
+ title = {Beyond the random phase approximation: Improved description of short-range correlation by a renormalized adiabatic local density approximation},
+ volume = {88},
+ year = {2013}
+}
+
+@article{OlsenPRL11.01,
+ author = {Thomas Olsen and Jun Yan and Jens J. Mortensen and Kristian S. Thygesen},
+ doi = {10.1103/physrevlett.107.156401},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.107.156401},
+ month = {oct},
+ number = {15},
+ publisher = {American Physical Society ({APS})},
+ title = {Dispersive and Covalent Interactions between Graphene and Metal Surfaces from the Random Phase Approximation},
+ volume = {107},
+ year = {2011}
+}
+
+@article{Otero-de-la-RozaJCP12.6e,
+ author = {A. Otero-de-la-Roza and Erin R. Johnson},
+ doi = {10.1063/1.4705760},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.4705760},
+ number = {17},
+ pages = {174109},
+ publisher = {{AIP} Publishing},
+ title = {Van der Waals interactions in solids using the exchange-hole dipole moment model},
+ volume = {136},
+ year = {2012}
+}
+
+@article{Otero-de-la-RozaJCP12.84,
+ author = {A. Otero-de-la-Roza and Erin R. Johnson},
+ doi = {10.1063/1.4738961},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.4738961},
+ number = {5},
+ pages = {054103},
+ publisher = {{AIP} Publishing},
+ title = {A benchmark for non-covalent interactions in solids},
+ volume = {137},
+ year = {2012}
+}
+
+@article{PuzderJCP06.ef,
+ author = {Aaron Puzder and Maxime Dion and David C. Langreth},
+ doi = {10.1063/1.2189229},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.2189229},
+ number = {16},
+ pages = {164105},
+ publisher = {{AIP} Publishing},
+ title = {Binding energies in benzene dimers: Nonlocal density functional calculations},
+ volume = {124},
+ year = {2006}
+}
+
+@article{ReillyCS15.4d,
+ author = {Anthony M. Reilly and Alexandre Tkatchenko},
+ doi = {10.1039/c5sc00410a},
+ journal = {Chem. Sci.},
+ link = {http://dx.doi.org/10.1039/C5SC00410A},
+ number = {6},
+ pages = {3289--3301},
+ publisher = {Royal Society of Chemistry ({RSC})},
+ title = {van der Waals dispersion interactions in molecular materials: beyond pairwise additivity},
+ volume = {6},
+ year = {2015}
+}
+
+@article{ReillyJCP13.29,
+ author = {Anthony M. Reilly and Alexandre Tkatchenko},
+ doi = {10.1063/1.4812819},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.4812819},
+ number = {2},
+ pages = {024705},
+ publisher = {{AIP} Publishing},
+ title = {Understanding the role of vibrations, exact exchange, and many-body van der Waals interactions in the cohesive properties of molecular crystals},
+ volume = {139},
+ year = {2013}
+}
+
+@article{RenJMS12.12,
+ author = {Xinguo Ren and Patrick Rinke and Christian Joas and Matthias Scheffler},
+ doi = {10.1007/s10853-012-6570-4},
+ journal = {J. Mater. Sci.},
+ link = {http://dx.doi.org/10.1007/s10853-012-6570-4},
+ month = {jun},
+ number = {21},
+ pages = {7447--7471},
+ publisher = {Springer Science $\mathplus$ Business Media},
+ title = {Random-phase approximation and its applications in computational chemistry and materials science},
+ volume = {47},
+ year = {2012}
+}
+
+@article{RenPRL11.43,
+ author = {Xinguo Ren and Alexandre Tkatchenko and Patrick Rinke and Matthias Scheffler},
+ doi = {10.1103/physrevlett.106.153003},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.106.153003},
+ month = {apr},
+ number = {15},
+ publisher = {American Physical Society ({APS})},
+ title = {Beyond the Random-Phase Approximation for the Electron Correlation Energy: The Importance of Single Excitations},
+ volume = {106},
+ year = {2011}
+}
+
+@article{RezacJCTC11.76,
+ author = {Jan R{\v}eza{\'}c{\v} and Kevin E. Riley and Pavel Hobza},
+ doi = {10.1021/ct2002946},
+ journal = {J. Chem. Theory Comput.},
+ link = {http://dx.doi.org/10.1021/ct2002946},
+ month = {aug},
+ number = {8},
+ pages = {2427--2438},
+ publisher = {American Chemical Society ({ACS})},
+ title = {S66: A Well-balanced Database of Benchmark Interaction Energies Relevant to Biomolecular Structures},
+ volume = {7},
+ year = {2011}
+}
+
+@article{RisthausJCTC13.93,
+ author = {Tobias Risthaus and Stefan Grimme},
+ doi = {10.1021/ct301081n},
+ journal = {J. Chem. Theory Comput.},
+ link = {http://dx.doi.org/10.1021/ct301081n},
+ month = {mar},
+ number = {3},
+ pages = {1580--1591},
+ publisher = {American Chemical Society ({ACS})},
+ title = {Benchmarking of London Dispersion-Accounting Density Functional Theory Methods on Very Large Molecular Complexes},
+ volume = {9},
+ year = {2013}
+}
+
+@article{Roman-PerezPRL09.13,
+ author = {Guillermo Rom{\'{a}}n-P{\'{e}}rez and Jos{\'{e}} M. Soler},
+ doi = {10.1103/physrevlett.103.096102},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.103.096102},
+ month = {aug},
+ number = {9},
+ publisher = {American Physical Society ({APS})},
+ title = {Efficient Implementation of a van der Waals Density Functional: Application to Double-Wall Carbon Nanotubes},
+ volume = {103},
+ year = {2009}
+}
+
+@article{RuizPRL12.d3,
+ author = {Victor G. Ruiz and Wei Liu and Egbert Zojer and Matthias Scheffler and Alexandre Tkatchenko},
+ doi = {10.1103/physrevlett.108.146103},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.108.146103},
+ month = {apr},
+ number = {14},
+ publisher = {American Physical Society ({APS})},
+ title = {Density-Functional Theory with Screened van~der~Waals Interactions for the Modeling of Hybrid Inorganic-Organic Systems},
+ volume = {108},
+ year = {2012}
+}
+
+@article{RuzsinszkyCTC11.4b,
+ author = {Adrienn Ruzsinszky and John P. Perdew},
+ doi = {10.1016/j.comptc.2010.09.002},
+ journal = {Comput. Theor. Chem.},
+ link = {http://dx.doi.org/10.1016/j.comptc.2010.09.002},
+ month = {jan},
+ number = {1},
+ pages = {2--6},
+ publisher = {Elsevier {BV}},
+ title = {Twelve outstanding problems in ground-state density functional theory: A bouquet of puzzles},
+ volume = {963},
+ year = {2011}
+}
+
+@article{SabatiniPRB13.8f,
+ author = {Riccardo Sabatini and Tommaso Gorni and Stefano de Gironcoli},
+ doi = {10.1103/physrevb.87.041108},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.87.041108},
+ month = {jan},
+ number = {4},
+ publisher = {American Physical Society ({APS})},
+ title = {Nonlocal van der Waals density functional made simple and efficient},
+ volume = {87},
+ year = {2013}
+}
+
+@article{SantraJCP08.a7,
+ author = {Biswajit Santra and Angelos Michaelides and Martin Fuchs and Alexandre Tkatchenko and Claudia Filippi and Matthias Scheffler},
+ doi = {10.1063/1.3012573},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.3012573},
+ number = {19},
+ pages = {194111},
+ publisher = {{AIP} Publishing},
+ title = {On the accuracy of density-functional theory exchange-correlation functionals for H bonds in small water clusters. {II}. The water hexamer and van der Waals interactions},
+ volume = {129},
+ year = {2008}
+}
+
+@article{SatoJCP05.d0,
+ author = {Takeshi Sato and Takao Tsuneda and Kimihiko Hirao},
+ doi = {10.1063/1.2011396},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.2011396},
+ number = {10},
+ pages = {104307},
+ publisher = {{AIP} Publishing},
+ title = {A density-functional study on $\uppi$-aromatic interaction: Benzene dimer and naphthalene dimer},
+ volume = {123},
+ year = {2005}
+}
+
+@article{SatoJCP09.df,
+ author = {Takeshi Sato and Hiromi Nakai},
+ doi = {10.1063/1.3269802},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.3269802},
+ number = {22},
+ pages = {224104},
+ publisher = {{AIP} Publishing},
+ title = {Density functional method including weak interactions: Dispersion coefficients based on the local response approximation},
+ volume = {131},
+ year = {2009}
+}
+
+@article{ScuseriaJCP08.90,
+ author = {Gustavo E. Scuseria and Thomas M. Henderson and Danny C. Sorensen},
+ doi = {10.1063/1.3043729},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.3043729},
+ number = {23},
+ pages = {231101},
+ publisher = {{AIP} Publishing},
+ title = {The ground state correlation energy of the random phase approximation from a ring coupled cluster doubles approach},
+ volume = {129},
+ year = {2008}
+}
+
+@article{SilvestrelliJCP09.fd,
+ author = {Pier Luigi Silvestrelli and Karima Benyahia and Sonja Grubisic^ and Francesco Ancilotto and Flavio Toigo},
+ doi = {10.1063/1.3077288},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.3077288},
+ number = {7},
+ pages = {074702},
+ publisher = {{AIP} Publishing},
+ title = {Van der Waals interactions at surfaces by density functional theory using Wannier functions},
+ volume = {130},
+ year = {2009}
+}
+
+@article{SilvestrelliJPCA09.6e,
+ author = {Pier Luigi Silvestrelli},
+ doi = {10.1021/jp811138n},
+ journal = {J. Phys. Chem. A},
+ link = {http://dx.doi.org/10.1021/jp811138n},
+ month = {apr},
+ number = {17},
+ pages = {5224--5234},
+ publisher = {American Chemical Society ({ACS})},
+ title = {van der Waals Interactions in Density Functional Theory Using Wannier Functions},
+ volume = {113},
+ year = {2009}
+}
+
+@article{SilvestrelliPRB12.f0,
+ author = {Pier Luigi Silvestrelli and Alberto Ambrosetti and Sonja Grubisi{\^{c}} and Francesco Ancilotto},
+ doi = {10.1103/physrevb.85.165405},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.85.165405},
+ month = {apr},
+ number = {16},
+ publisher = {American Physical Society ({APS})},
+ title = {Adsorption of rare-gas atoms on Cu(111) and Pb(111) surfaces by van der Waals corrected density functional theory},
+ volume = {85},
+ year = {2012}
+}
+
+@article{SilvestrelliPRL08.b0,
+ author = {Pier Luigi Silvestrelli},
+ doi = {10.1103/physrevlett.100.053002},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.100.053002},
+ month = {feb},
+ number = {5},
+ publisher = {American Physical Society ({APS})},
+ title = {Van der Waals Interactions in {DFT} Made Easy by Wannier Functions},
+ volume = {100},
+ year = {2008}
+}
+
+@article{TaoPNAS11.20,
+ author = {J. Tao and J. P. Perdew and A. Ruzsinszky},
+ doi = {10.1073/pnas.1118245108},
+ journal = {Proc. Natl. Acad. Sci.},
+ link = {http://dx.doi.org/10.1073/pnas.1118245108},
+ month = {dec},
+ number = {1},
+ pages = {18--21},
+ publisher = {Proceedings of the National Academy of Sciences},
+ title = {Accurate van der Waals coefficients from density functional theory},
+ volume = {109},
+ year = {2011}
+}
+
+@article{TaoPRB10.5b,
+ author = {Jianmin Tao and John P. Perdew and Adrienn Ruzsinszky},
+ doi = {10.1103/physrevb.81.233102},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.81.233102},
+ month = {jun},
+ number = {23},
+ publisher = {American Physical Society ({APS})},
+ title = {Long-range van der Waals attraction and alkali-metal lattice constants},
+ volume = {81},
+ year = {2010}
+}
+
+@article{ThonhauserPRB07.b8,
+ author = {T. Thonhauser and Valentino R. Cooper and Shen Li and Aaron Puzder and Per Hyldgaard and David C. Langreth},
+ doi = {10.1103/physrevb.76.125112},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.76.125112},
+ month = {sep},
+ number = {12},
+ publisher = {American Physical Society ({APS})},
+ title = {Van der Waals density functional: Self-consistent potential and the nature of the van der Waals bond},
+ volume = {76},
+ year = {2007}
+}
+
+@article{TkatchenkoAFM14.ea,
+ author = {Alexandre Tkatchenko},
+ doi = {10.1002/adfm.201403029},
+ journal = {Adv. Funct. Mater.},
+ link = {http://dx.doi.org/10.1002/adfm.201403029},
+ month = {dec},
+ number = {13},
+ pages = {2054--2061},
+ publisher = {Wiley-Blackwell},
+ title = {Current Understanding of Van der Waals Effects in Realistic Materials},
+ volume = {25},
+ year = {2014}
+}
+
+@article{TkatchenkoJCP13.dc,
+ author = {Alexandre Tkatchenko and Alberto Ambrosetti and Robert A. DiStasio},
+ doi = {10.1063/1.4789814},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.4789814},
+ number = {7},
+ pages = {074106},
+ publisher = {{AIP} Publishing},
+ title = {Interatomic methods for the dispersion energy derived from the adiabatic connection fluctuation-dissipation theorem},
+ volume = {138},
+ year = {2013}
+}
+
+@article{TkatchenkoPRL09.03,
+ author = {Alexandre Tkatchenko and Matthias Scheffler},
+ doi = {10.1103/physrevlett.102.073005},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.102.073005},
+ month = {feb},
+ number = {7},
+ publisher = {American Physical Society ({APS})},
+ title = {Accurate Molecular Van Der Waals Interactions from Ground-State Electron Density and Free-Atom Reference Data},
+ volume = {102},
+ year = {2009}
+}
+
+@article{TkatchenkoPRL12.a2,
+ author = {Alexandre Tkatchenko and Robert A. DiStasio and Roberto Car and Matthias Scheffler},
+ doi = {10.1103/physrevlett.108.236402},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.108.236402},
+ month = {jun},
+ number = {23},
+ publisher = {American Physical Society ({APS})},
+ title = {Accurate and Efficient Method for Many-Body van der Waals Interactions},
+ volume = {108},
+ year = {2012}
+}
+
+@article{ToulousePRL09.a9,
+ author = {Julien Toulouse and Iann C. Gerber and Georg Jansen and Andreas Savin and J{\'{a}}nos G. {\'{A}}ngy{\'{a}}n},
+ doi = {10.1103/physrevlett.102.096404},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.102.096404},
+ month = {mar},
+ number = {9},
+ publisher = {American Physical Society ({APS})},
+ title = {Adiabatic-Connection Fluctuation-Dissipation Density-Functional Theory Based on Range Separation},
+ volume = {102},
+ year = {2009}
+}
+
+@article{VaninPRB10.59,
+ author = {M. Vanin and J. J. Mortensen and A. K. Kelkkanen and J. M. Garcia-Lastra and K. S. Thygesen and K. W. Jacobsen},
+ doi = {10.1103/physrevb.81.081408},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.81.081408},
+ month = {feb},
+ number = {8},
+ publisher = {American Physical Society ({APS})},
+ title = {Graphene on metals: A van der Waals density functional study},
+ volume = {81},
+ year = {2010}
+}
+
+@article{VydrovJCP08.f6,
+ author = {Oleg A. Vydrov and Qin Wu and Troy Van Voorhis},
+ doi = {10.1063/1.2948400},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.2948400},
+ number = {1},
+ pages = {014106},
+ publisher = {{AIP} Publishing},
+ title = {Self-consistent implementation of a nonlocal van der Waals density functional with a Gaussian basis set},
+ volume = {129},
+ year = {2008}
+}
+
+@article{VydrovJCP09.00,
+ author = {Oleg A. Vydrov and Troy Van Voorhis},
+ doi = {10.1063/1.3079684},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.3079684},
+ number = {10},
+ pages = {104105},
+ publisher = {{AIP} Publishing},
+ title = {Improving the accuracy of the nonlocal van der Waals density functional with minimal empiricism},
+ volume = {130},
+ year = {2009}
+}
+
+@article{VydrovJCP10.20,
+ author = {Oleg A. Vydrov and Troy Van Voorhis},
+ doi = {10.1063/1.3521275},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.3521275},
+ number = {24},
+ pages = {244103},
+ publisher = {{AIP} Publishing},
+ title = {Nonlocal van der Waals density functional: The simpler the better},
+ volume = {133},
+ year = {2010}
+}
+
+@article{VydrovJCTC12.5c,
+ author = {Oleg A. Vydrov and Troy Van Voorhis},
+ doi = {10.1021/ct300081y},
+ journal = {J. Chem. Theory Comput.},
+ link = {http://dx.doi.org/10.1021/ct300081y},
+ month = {jun},
+ number = {6},
+ pages = {1929--1934},
+ publisher = {American Chemical Society ({ACS})},
+ title = {Benchmark Assessment of the Accuracy of Several van der Waals Density Functionals},
+ volume = {8},
+ year = {2012}
+}
+
+@article{VydrovPRA10.f6,
+ author = {Oleg A. Vydrov and Troy Van Voorhis},
+ doi = {10.1103/physreva.81.062708},
+ journal = {Phys. Rev. A},
+ link = {http://dx.doi.org/10.1103/PhysRevA.81.062708},
+ month = {jun},
+ number = {6},
+ publisher = {American Physical Society ({APS})},
+ title = {Dispersion interactions from a local polarizability model},
+ volume = {81},
+ year = {2010}
+}
+
+@article{VydrovPRL09.f8,
+ author = {Oleg A. Vydrov and Troy Van Voorhis},
+ doi = {10.1103/physrevlett.103.063004},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.103.063004},
+ month = {aug},
+ number = {6},
+ publisher = {American Physical Society ({APS})},
+ title = {Nonlocal van der Waals Density Functional Made Simple},
+ volume = {103},
+ year = {2009}
+}
+
+@article{VydrovPRL10.1e,
+ author = {Oleg A. Vydrov and Troy Van Voorhis},
+ doi = {10.1103/physrevlett.104.099304},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.104.099304},
+ month = {mar},
+ number = {9},
+ publisher = {American Physical Society ({APS})},
+ title = {Vydrov and Van Voorhis Reply:},
+ volume = {104},
+ year = {2010}
+}
+
+@article{WangJCP11.9e,
+ author = {Jue Wang and G. Roma{\'}n-Pe{\'}rez and Jose M. Soler and Emilio Artacho and M.-V. Ferna{\'}ndez-Serra},
+ doi = {10.1063/1.3521268},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.3521268},
+ number = {2},
+ pages = {024516},
+ publisher = {{AIP} Publishing},
+ title = {Density, structure, and dynamics of water: The effect of van der Waals interactions},
+ volume = {134},
+ year = {2011}
+}
+
+@article{WellendorffPRB12.e2,
+ author = {Jess Wellendorff and Keld T. Lundgaard and Andreas M{\o}gelh{\o}j and Vivien Petzold and David D. Landis and Jens K. N{\o}rskov and Thomas Bligaard and Karsten W. Jacobsen},
+ doi = {10.1103/physrevb.85.235149},
+ journal = {Phys. Rev. B},
+ link = {http://dx.doi.org/10.1103/PhysRevB.85.235149},
+ month = {jun},
+ number = {23},
+ publisher = {American Physical Society ({APS})},
+ title = {Density functionals for surface science: Exchange-correlation model development with Bayesian error estimation},
+ volume = {85},
+ year = {2012}
+}
+
+@article{WesolowskiJPC93.8b,
+ author = {Tomasz Adam Wesolowski and Arieh Warshel},
+ doi = {10.1021/j100132a040},
+ journal = {J. Phys. Chem.},
+ link = {http://dx.doi.org/10.1021/j100132a040},
+ month = {jul},
+ number = {30},
+ pages = {8050--8053},
+ publisher = {American Chemical Society ({ACS})},
+ title = {Frozen density functional approach for ab initio calculations of solvated molecules},
+ volume = {97},
+ year = {1993}
+}
+
+@article{ZhangPRL11.8f,
+ author = {Guo-Xu Zhang and Alexandre Tkatchenko and Joachim Paier and Heiko Appel and Matthias Scheffler},
+ doi = {10.1103/physrevlett.107.245501},
+ journal = {Phys. Rev. Lett.},
+ link = {http://dx.doi.org/10.1103/PhysRevLett.107.245501},
+ month = {dec},
+ number = {24},
+ publisher = {American Physical Society ({APS})},
+ title = {van der Waals Interactions in Ionic and Semiconductor Solids},
+ volume = {107},
+ year = {2011}
+}
+
+@article{ZhuJCP10.85,
+ author = {Wuming Zhu and Julien Toulouse and Andreas Savin and Ja{\'}nos G. A{\'}ngya{\'}n},
+ doi = {10.1063/1.3431616},
+ journal = {J. Chem. Phys.},
+ link = {http://dx.doi.org/10.1063/1.3431616},
+ number = {24},
+ pages = {244108},
+ publisher = {{AIP} Publishing},
+ title = {Range-separated density-functional theory with random phase approximation applied to noncovalent intermolecular interactions},
+ volume = {132},
+ year = {2010}
+}
+
+
