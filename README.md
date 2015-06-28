@@ -41,5 +41,5 @@ $ doi2bibtex.sh <dois.txt >references.bib
 
 ## Developer notes
 
-- Whenever pushing changes to `download_jabbrv.py` or `process.sql`, also update 
-	the `jabbrv.db` file if it changes.
+- Whenever pushing changes to `download_abbrv.py` or `process.sql`, also update 
+	the `abbrv.db` file if it changes.
