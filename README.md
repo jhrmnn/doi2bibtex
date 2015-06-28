@@ -12,7 +12,11 @@ convert a list of DOIs into a useful bibtex file. This means that:
 ## Dependencies
 
 - Python 3 with [BeautifulSoup][bs], [bibtexparser][bibparser] and 
-	[python-slugify][slugify]
+	[python-slugify][slugify]. The modules can be installed with
+
+	```bash
+	$ pip3 install beautifulsoup4 bibtexparser python-slugify
+	```
 
 ## Installation
 
