@@ -16,6 +16,7 @@ def worker(queue, results):
         results.append(response)
         queue.task_done()
 
+
 dois = Queue()
 db = []
 for l in sys.stdin:
