@@ -8,6 +8,7 @@ from threading import Thread
 
 
 def chunker(lst, n):
+    """Divides lst to n chunks so that their sizes differ at most by one."""
     k = len(lst)//n
     nleft = len(lst)-n*k
     sizes = nleft*[k+1] + (n-nleft)*[k]
@@ -40,7 +41,7 @@ def get_page_count():
 
 db_init()
 n_pages = get_page_count()
-n_downloaded = Value('i', 0)
+n_downloaded = Value('i', 0)  # shared counter
 
 
 def downloader(url_que, html_que):
@@ -60,6 +61,7 @@ def downloader(url_que, html_que):
             with n_downloaded.get_lock():
                 n_downloaded.value += 1
                 print('{}/{} downloaded'.format(n_downloaded.value, n_pages))
+        finally:
             url_que.task_done()
 
 
