@@ -1,16 +1,13 @@
-all: unicode_latex.py
+all: unicode2latex.db
 
 update:
-	make -B pythonize.xslt unicode.xml
+	make -B unicode.xml
 
 clean:
-	-rm *.py *.xml *.xslt
+	-rm *.db *.xml
 
-unicode_latex.py: unicode.xml pythonize.xslt
-	xslty $< $(word 2, $^) | python3 -c 'import sys, bs4; print(bs4.BeautifulSoup(sys.stdin).text)' >$@
-
-pythonize.xslt:
-	curl https://gist.githubusercontent.com/piquadrat/798546/raw/cbc1ee6deb8d2ff192dd3543ddfcc5d2db839ae4/unicode_to_latex.xslt >$@
+unicode2latex.db: unicode.xml process_xml.py
+	python3 $(word 2, $^) <$<
 
 unicode.xml:
 	curl http://www.w3.org/Math/characters/unicode.xml >$@
