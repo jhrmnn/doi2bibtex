@@ -33,7 +33,7 @@ def db_init():
 
 def get_page_count():
     with urlopen(url_tmpl.format(1)) as rsp:
-        html = rsp.read().decode('utf-8')
+        html = rsp.read().decode()
     n = int(BeautifulSoup(html).find('span', class_='extend').a.text)
     print('{} pages to be downloaded'.format(n))
     return n
@@ -52,7 +52,7 @@ def downloader(url_que, html_que):
             return
         try:
             with urlopen(url) as rsp:
-                html = rsp.read().decode('utf-8')
+                html = rsp.read().decode()
         except:
             print('error: {} not downloaded, will try again'.format(url))
             url_que.put(url)

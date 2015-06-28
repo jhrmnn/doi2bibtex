@@ -7,7 +7,7 @@ import re
 import os
 
 
-ignored = ['of', 'the']
+ignored = ['of', 'the', 'and']
 corrections = {
     'Nat': 'Nature',
     'Comms': 'Communications'
