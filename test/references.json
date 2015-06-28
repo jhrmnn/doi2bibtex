@@ -1,0 +1,4595 @@
+[
+	{
+		"id": 10,
+		"type": "article-journal",
+		"title": "Perspective on density functional theory",
+		"container-title": "The Journal of chemical physics",
+		"page": "150901",
+		"volume": "136",
+		"issue": "15",
+		"abstract": "Density functional theory (DFT) is an incredible success story. The low computational cost, combined with useful (but not yet chemical) accuracy, has made DFT a standard technique in most branches of chemistry and materials science. Electronic structure problems in a dazzling variety of fields are currently being tackled. However, DFT has many limitations in its present form: too many approximations, failures for strongly correlated systems, too slow for liquids, etc. This perspective reviews some recent progress and ongoing challenges.",
+		"URL": "http://www.ncbi.nlm.nih.gov/pubmed/22519306",
+		"DOI": "10.1063/1.4704546",
+		"ISSN": "1089-7690",
+		"note": "00267 \nbibtex: burke_perspective_2012",
+		"author": [
+			{
+				"family": "Burke",
+				"given": "Kieron"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": 12,
+		"type": "article-journal",
+		"title": "Asymptotics of the Dispersion Interaction: Analytic Benchmarks for van der Waals Energy Functionals",
+		"container-title": "Physical Review Letters",
+		"page": "073201",
+		"volume": "96",
+		"issue": "7",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.96.073201",
+		"DOI": "10.1103/PhysRevLett.96.073201",
+		"ISSN": "0031-9007",
+		"note": "00204 \nbibtex: dobson_asymptotics_2006",
+		"author": [
+			{
+				"family": "Dobson",
+				"given": "John F."
+			},
+			{
+				"family": "White",
+				"given": "Angela"
+			},
+			{
+				"family": "Rubio",
+				"given": "Angel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 18,
+		"type": "article-journal",
+		"title": "Vydrov and Van Voorhis Reply",
+		"container-title": "Physical Review Letters",
+		"page": "099304",
+		"volume": "104",
+		"issue": "9",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.104.099304",
+		"DOI": "10.1103/PhysRevLett.104.099304",
+		"ISSN": "0031-9007",
+		"note": "00012 \nbibtex: vydrov_vydrov_2010",
+		"author": [
+			{
+				"family": "Vydrov",
+				"given": "Oleg A."
+			},
+			{
+				"family": "Van Voorhis",
+				"given": "Troy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": 24,
+		"type": "article-journal",
+		"title": "Long-range correlation energy calculated from coupled atomic response functions",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "18A508",
+		"volume": "140",
+		"issue": "18",
+		"source": "scitation.aip.org",
+		"abstract": "An accurate determination of the electron correlation energy is an essential prerequisite for describing the structure, stability, and function in a wide variety of systems. Therefore, the development of efficient approaches for the calculation of the correlation energy (and hence the dispersion energy as well) is essential and such methods can be coupled with many density-functional approximations, local methods for the electron correlation energy, and even interatomic force fields. In this work, we build upon the previously developed many-body dispersion (MBD) framework, which is intimately linked to the random-phase approximation for the correlation energy. We separate the correlation energy into short-range contributions that are modeled by semi-local functionals and long-range contributions that are calculated by mapping the complex all-electron problem onto a set of atomic response functions coupled in the dipole approximation. We propose an effective range-separation of the coupling between the atomic response functions that extends the already broad applicability of the MBD method to non-metallic materials with highly anisotropic responses, such as layered nanostructures. Application to a variety of high-quality benchmark datasets illustrates the accuracy and applicability of the improved MBD approach, which offers the prospect of first-principles modeling of large structurally complex systems with an accurate description of the long-range correlation energy.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/140/18/10.1063/1.4865104",
+		"DOI": "10.1063/1.4865104",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: ambrosetti_longrange_2014",
+		"journalAbbreviation": "J. Chem. Phys.",
+		"author": [
+			{
+				"family": "Ambrosetti",
+				"given": "Alberto"
+			},
+			{
+				"family": "Reilly",
+				"given": "Anthony M."
+			},
+			{
+				"family": "DiStasio",
+				"given": "Robert A., Jr."
+			},
+			{
+				"family": "Tkatchenko",
+				"given": "Alexandre"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					5,
+					14
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": 34,
+		"type": "article-journal",
+		"title": "Van der Waals density functional: Self-consistent potential and the nature of the van der Waals bond",
+		"container-title": "Journal of Chemical Theory and Computation",
+		"page": "125112",
+		"volume": "76",
+		"issue": "12",
+		"abstract": "We derive the exchange-correlation potential corresponding to the nonlocal van der Waals density functional {[}M. Dion, H. Rydberg, E. Schroder, D. C. Langreth, and B. I. Lundqvist, Phys. Rev. Lett. 92, 246401 (2004)]. We use this potential for a self-consistent calculation of the ground state properties of a number of van der Waals complexes as well as crystalline silicon. For the latter, where little or no van der Waals interaction is expected, we find that the results are mostly determined by semilocal exchange and correlation as in standard generalized gradient approximations (GGA), with the fully nonlocal term giving little effect. On the other hand, our results for the van der Waals complexes show that the self-consistency has little effect on the atomic interaction energy and structure at equilibrium distances. This finding validates previous calculations with the same functional that treated the fully nonlocal term as a post-GGA perturbation. A comparison of our results with wave-function calculations demonstrates the usefulness of our approach. The exchange-correlation potential also allows us to calculate Hellmann-Feynman forces, hence providing the means for efficient geometry relaxations as well as unleashing the potential use of other standard techniques that depend on the self-consistent charge distribution. The nature of the van der Waals bond is discussed in terms of the self-consistent bonding charge.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.76.125112",
+		"DOI": "10.1103/PhysRevB.76.125112",
+		"ISSN": "1098-0121",
+		"note": "00456 \nbibtex: thonhauser_van_2007",
+		"author": [
+			{
+				"family": "Thonhauser",
+				"given": "T."
+			},
+			{
+				"family": "Cooper",
+				"given": "Valentino R."
+			},
+			{
+				"family": "Li",
+				"given": "Shen"
+			},
+			{
+				"family": "Puzder",
+				"given": "Aaron"
+			},
+			{
+				"family": "Hyldgaard",
+				"given": "Per"
+			},
+			{
+				"family": "Langreth",
+				"given": "David C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": 44,
+		"type": "article-journal",
+		"title": "Long-range van der Waals attraction and alkali-metal lattice constants",
+		"container-title": "Physical Review B",
+		"page": "233102",
+		"volume": "81",
+		"issue": "23",
+		"source": "APS",
+		"abstract": "While the short-range part of the van der Waals (vdW) interaction can be described by semilocal density functionals, the long range cannot. By respecting two uniform electron gas and other exact limits, we construct a nonlocal density functional for the long-range coefficient C6. C8 and C10 may be determined empirically from C6. Then we estimate the effect of the core-core vdW attraction upon the lattice constants of the alkali metals, including dynamic valence-electron screening. This attraction is important for the softest metals, shrinking the lattice constant of Cs by 0.1 Å.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.81.233102",
+		"DOI": "10.1103/PhysRevB.81.233102",
+		"note": "00031 \nbibtex: tao_longrange_2010",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Tao",
+				"given": "Jianmin"
+			},
+			{
+				"family": "Perdew",
+				"given": "John P."
+			},
+			{
+				"family": "Ruzsinszky",
+				"given": "Adrienn"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					6,
+					11
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2013",
+					10,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": 48,
+		"type": "article-journal",
+		"title": "Assessment of a Nonlocal Correction Scheme to Semilocal Density Functional Theory Methods",
+		"container-title": "Journal of Chemical Theory and Computation",
+		"page": "273–283",
+		"volume": "9",
+		"issue": "1",
+		"URL": "http://pubs.acs.org/doi/abs/10.1021/ct300735g",
+		"DOI": "10.1021/ct300735g",
+		"ISSN": "1549-9618",
+		"note": "00008 \nbibtex: heselmann_assessment_2012",
+		"author": [
+			{
+				"family": "Heßelmann",
+				"given": "Andreas"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": 60,
+		"type": "article-journal",
+		"title": "Extending the random-phase approximation for electronic correlation energies: The renormalized adiabatic local density approximation",
+		"container-title": "Physical Review B",
+		"page": "081103",
+		"volume": "86",
+		"issue": "8",
+		"source": "APS",
+		"abstract": "The adiabatic connection fluctuation-dissipation theorem with the random phase approximation (RPA) has recently been applied with success to obtain correlation energies of a variety of chemical and solid state systems. The main merit of this approach is the improved description of dispersive forces while chemical bond strengths and absolute correlation energies are systematically underestimated. In this work we extend the RPA by including a parameter-free renormalized version of the adiabatic local-density (ALDA) exchange-correlation kernel. The renormalization consists of a (local) truncation of the ALDA kernel for wave vectors q>2kF, which is found to yield excellent results for the homogeneous electron gas. In addition, the kernel significantly improves both the absolute correlation energies and atomization energies of small molecules over RPA and ALDA. The renormalization can be straightforwardly applied to other adiabatic local kernels.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.86.081103",
+		"DOI": "10.1103/PhysRevB.86.081103",
+		"note": "00015 \nbibtex: olsen_extending_2012",
+		"shortTitle": "Extending the random-phase approximation for electronic correlation energies",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Olsen",
+				"given": "Thomas"
+			},
+			{
+				"family": "Thygesen",
+				"given": "Kristian S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					8,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					4,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": 87,
+		"type": "article-journal",
+		"title": "Comment on “Nonlocal Van Der Waals Density Functional Made Simple”",
+		"container-title": "Physical Review Letters",
+		"page": "099303",
+		"volume": "104",
+		"issue": "9",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.104.099303",
+		"DOI": "10.1103/PhysRevLett.104.099303",
+		"ISSN": "0031-9007",
+		"note": "00015 \nbibtex: langreth_comment_2010",
+		"author": [
+			{
+				"family": "Langreth",
+				"given": "David C."
+			},
+			{
+				"family": "Lundqvist",
+				"given": "Bengt I."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": 89,
+		"type": "article-journal",
+		"title": "Higher-accuracy van der Waals density functional",
+		"container-title": "Physical Review B",
+		"page": "081101",
+		"volume": "82",
+		"issue": "8",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.82.081101",
+		"DOI": "10.1103/PhysRevB.82.081101",
+		"ISSN": "1098-0121",
+		"note": "00587 \nbibtex: lee_higheraccuracy_2010",
+		"author": [
+			{
+				"family": "Lee",
+				"given": "Kyuho"
+			},
+			{
+				"family": "Murray",
+				"given": "Éamonn D."
+			},
+			{
+				"family": "Kong",
+				"given": "Lingzhu"
+			},
+			{
+				"family": "Lundqvist",
+				"given": "Bengt I."
+			},
+			{
+				"family": "Langreth",
+				"given": "David C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": 98,
+		"type": "article-journal",
+		"title": "Nonlocal van der Waals Density Functional Made Simple",
+		"container-title": "Physical Review Letters",
+		"page": "063004",
+		"volume": "103",
+		"issue": "6",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.103.063004",
+		"DOI": "10.1103/PhysRevLett.103.063004",
+		"ISSN": "0031-9007",
+		"note": "00184 \nbibtex: vydrov_nonlocal_2009",
+		"author": [
+			{
+				"family": "Vydrov",
+				"given": "Oleg A."
+			},
+			{
+				"family": "Van Voorhis",
+				"given": "Troy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": 122,
+		"type": "article-journal",
+		"title": "S66: A Well-balanced Database of Benchmark Interaction Energies Relevant to Biomolecular Structures",
+		"container-title": "Journal of Chemical Theory and Computation",
+		"page": "2427-2438",
+		"volume": "7",
+		"issue": "8",
+		"source": "ACS Publications",
+		"abstract": "With numerous new quantum chemistry methods being developed in recent years and the promise of even more new methods to be developed in the near future, it is clearly critical that highly accurate, well-balanced, reference data for many different atomic and molecular properties be available for the parametrization and validation of these methods. One area of research that is of particular importance in many areas of chemistry, biology, and material science is the study of noncovalent interactions. Because these interactions are often strongly influenced by correlation effects, it is necessary to use computationally expensive high-order wave function methods to describe them accurately. Here, we present a large new database of interaction energies calculated using an accurate CCSD(T)/CBS scheme. Data are presented for 66 molecular complexes, at their reference equilibrium geometries and at 8 points systematically exploring their dissociation curves; in total, the database contains 594 points: 66 at equilibrium geometries, and 528 in dissociation curves. The data set is designed to cover the most common types of noncovalent interactions in biomolecules, while keeping a balanced representation of dispersion and electrostatic contributions. The data set is therefore well suited for testing and development of methods applicable to bioorganic systems. In addition to the benchmark CCSD(T) results, we also provide decompositions of the interaction energies by means of DFT-SAPT calculations. The data set was used to test several correlated QM methods, including those parametrized specifically for noncovalent interactions. Among these, the SCS-MI-CCSD method outperforms all other tested methods, with a root-mean-square error of 0.08 kcal/mol for the S66 data set.",
+		"URL": "http://dx.doi.org/10.1021/ct2002946",
+		"DOI": "10.1021/ct2002946",
+		"ISSN": "1549-9618",
+		"note": "00001 \nbibtex: rezac_s66_2011",
+		"shortTitle": "S66",
+		"journalAbbreviation": "J. Chem. Theory Comput.",
+		"author": [
+			{
+				"family": "Řezáč",
+				"given": "Jan"
+			},
+			{
+				"family": "Riley",
+				"given": "Kevin E."
+			},
+			{
+				"family": "Hobza",
+				"given": "Pavel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					8,
+					9
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2013",
+					11,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": 130,
+		"type": "article-journal",
+		"title": "Accurate and Efficient Method for Many-Body van der Waals Interactions",
+		"container-title": "Physical Review Letters",
+		"page": "236402",
+		"volume": "108",
+		"issue": "23",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.108.236402",
+		"DOI": "10.1103/PhysRevLett.108.236402",
+		"ISSN": "0031-9007",
+		"note": "bibtex: tkatchenko_accurate_2012",
+		"journalAbbreviation": "Phys. Rev. Lett.",
+		"author": [
+			{
+				"family": "Tkatchenko",
+				"given": "Alexandre"
+			},
+			{
+				"family": "DiStasio",
+				"given": "Robert A."
+			},
+			{
+				"family": "Car",
+				"given": "Roberto"
+			},
+			{
+				"family": "Scheffler",
+				"given": "Matthias"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": 134,
+		"type": "article-journal",
+		"title": "A Density Functional with Spherical Atom Dispersion Terms",
+		"container-title": "Journal of Chemical Theory and Computation",
+		"page": "4989–5007",
+		"volume": "8",
+		"issue": "12",
+		"URL": "http://pubs.acs.org/doi/abs/10.1021/ct300778e",
+		"DOI": "10.1021/ct300778e",
+		"ISSN": "1549-9618",
+		"note": "00025 \nbibtex: austin_density_2012",
+		"author": [
+			{
+				"family": "Austin",
+				"given": "Amy"
+			},
+			{
+				"family": "Petersson",
+				"given": "George a."
+			},
+			{
+				"family": "Frisch",
+				"given": "Michael J."
+			},
+			{
+				"family": "Dobek",
+				"given": "Frank J."
+			},
+			{
+				"family": "Scalmani",
+				"given": "Giovanni"
+			},
+			{
+				"family": "Throssell",
+				"given": "Kyle"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": 135,
+		"type": "article-journal",
+		"title": "Van der Waals Density Functional for General Geometries",
+		"container-title": "Physical Review Letters",
+		"page": "246401",
+		"volume": "92",
+		"issue": "24",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.92.246401",
+		"DOI": "10.1103/PhysRevLett.92.246401",
+		"ISSN": "0031-9007",
+		"note": "01872 \nbibtex: dion_van_2004",
+		"author": [
+			{
+				"family": "Dion",
+				"given": "M."
+			},
+			{
+				"family": "Rydberg",
+				"given": "H."
+			},
+			{
+				"family": "Schröder",
+				"given": "E."
+			},
+			{
+				"family": "Langreth",
+				"given": "D. C."
+			},
+			{
+				"family": "Lundqvist",
+				"given": "B. I."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": 136,
+		"type": "article-journal",
+		"title": "Improving the accuracy of the nonlocal van der Waals density functional with minimal empiricism",
+		"container-title": "The Journal of chemical physics",
+		"page": "104105",
+		"volume": "130",
+		"issue": "10",
+		"abstract": "The nonlocal van der Waals density functional (vdW-DF) captures the essential physics of the dispersion interaction not only in the asymptotic regime but also for a general case of overlapping fragment densities. A balanced treatment of other energetic contributions, such as exchange, is crucial if we aim for accurate description of various properties of weakly bound systems. In this paper, the vdW-DF correlation functional is modified to make it better compatible with accurate exchange functionals. We suggest a slightly simplified construction of the nonlocal correlation, yielding more accurate asymptotic C(6) coefficients. We also derive a gradient correction, containing a parameter that can be adjusted to suit an exchange functional of choice. We devise a particularly apt combination of exchange and correlation terms, which satisfies many important constraints and performs well for our benchmark tests.",
+		"URL": "http://www.ncbi.nlm.nih.gov/pubmed/19292521",
+		"DOI": "10.1063/1.3079684",
+		"ISSN": "1089-7690",
+		"note": "00088 \nbibtex: vydrov_improving_2009",
+		"author": [
+			{
+				"family": "Vydrov",
+				"given": "Oleg A."
+			},
+			{
+				"family": "Van Voorhis",
+				"given": "Troy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": 139,
+		"type": "article-journal",
+		"title": "Van der Waals density functionals applied to solids",
+		"container-title": "Physical Review B",
+		"page": "195131",
+		"volume": "83",
+		"issue": "19",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.83.195131",
+		"DOI": "10.1103/PhysRevB.83.195131",
+		"ISSN": "1098-0121",
+		"note": "00586 \nbibtex: klimes_van_2011",
+		"author": [
+			{
+				"family": "Klimeš",
+				"given": "Jiří"
+			},
+			{
+				"family": "Bowler",
+				"given": "David R."
+			},
+			{
+				"family": "Michaelides",
+				"given": "Angelos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": 143,
+		"type": "article-journal",
+		"title": "Forces in Molecules",
+		"container-title": "Physical Review",
+		"page": "340-343",
+		"volume": "56",
+		"issue": "4",
+		"source": "APS",
+		"abstract": "Formulas have been developed to calculate the forces in a molecular system directly, rather than indirectly through the agency of energy. This permits an independent calculation of the slope of the curves of energy vs. position of the nuclei, and may thus increase the accuracy, or decrease the labor involved in the calculation of these curves. The force on a nucleus in an atomic system is shown to be just the classical electrostatic force that would be exerted on this nucleus by other nuclei and by the electrons' charge distribution. Qualitative implications of this are discussed.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRev.56.340",
+		"DOI": "10.1103/PhysRev.56.340",
+		"note": "02926 \nbibtex: feynman_forces_1939",
+		"journalAbbreviation": "Phys. Rev.",
+		"author": [
+			{
+				"family": "Feynman",
+				"given": "R. P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1939",
+					8,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					4,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": 145,
+		"type": "article-journal",
+		"title": "Efficient Implementation of a van der Waals Density Functional: Application to Double-Wall Carbon Nanotubes",
+		"container-title": "Physical Review Letters",
+		"page": "096102",
+		"volume": "103",
+		"issue": "9",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.103.096102",
+		"DOI": "10.1103/PhysRevLett.103.096102",
+		"ISSN": "0031-9007",
+		"note": "00457 \nbibtex: roman-perez_efficient_2009",
+		"author": [
+			{
+				"family": "Román-Pérez",
+				"given": "Guillermo"
+			},
+			{
+				"family": "Soler",
+				"given": "José"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": 151,
+		"type": "article-journal",
+		"title": "Accurate van der Waals coefficients from density functional theory",
+		"container-title": "Proceedings of the National Academy of Sciences",
+		"page": "18-21",
+		"volume": "109",
+		"issue": "1",
+		"source": "www.pnas.org",
+		"abstract": "The van der Waals interaction is a weak, long-range correlation, arising from quantum electronic charge fluctuations. This interaction affects many properties of materials. A simple and yet accurate estimate of this effect will facilitate computer simulation of complex molecular materials and drug design. Here we develop a fast approach for accurate evaluation of dynamic multipole polarizabilities and van der Waals (vdW) coefficients of all orders from the electron density and static multipole polarizabilities of each atom or other spherical object, without empirical fitting. Our dynamic polarizabilities (dipole, quadrupole, octupole, etc.) are exact in the zero- and high-frequency limits, and exact at all frequencies for a metallic sphere of uniform density. Our theory predicts dynamic multipole polarizabilities in excellent agreement with more expensive many-body methods, and yields therefrom vdW coefficients C6, C8, C10 for atom pairs with a mean absolute relative error of only 3%.",
+		"URL": "http://www.pnas.org/content/109/1/18",
+		"DOI": "10.1073/pnas.1118245108",
+		"ISSN": "0027-8424, 1091-6490",
+		"note": "00025 \nPMID: 22205765 \nbibtex: tao_accurate_2012",
+		"journalAbbreviation": "PNAS",
+		"language": "en",
+		"author": [
+			{
+				"family": "Tao",
+				"given": "Jianmin"
+			},
+			{
+				"family": "Perdew",
+				"given": "John P."
+			},
+			{
+				"family": "Ruzsinszky",
+				"given": "Adrienn"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					1,
+					3
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2013",
+					10,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": 156,
+		"type": "article-journal",
+		"title": "Understanding the role of vibrations, exact exchange, and many-body van der Waals interactions in the cohesive properties of molecular crystals",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "024705",
+		"volume": "139",
+		"issue": "2",
+		"source": "scitation.aip.org",
+		"abstract": "The development and application of computational methods for studying molecular crystals, particularly density-functional theory (DFT), is a large and ever-growing field, driven by their numerous applications. Here we expand on our recent study of the importance of many-body van der Waals interactions in molecular crystals [A. M. Reilly and A. Tkatchenko, J. Phys. Chem. Lett.4, 1028 (Year: 2013)10.1021/jz400226x], with a larger database of 23 molecular crystals. Particular attention has been paid to the role of the vibrational contributions that are required to compare experiment sublimation enthalpies with calculated lattice energies, employing both phonon calculations and experimental heat-capacity data to provide harmonic and anharmonic estimates of the vibrational contributions. Exact exchange, which is rarely considered in DFT studies of molecular crystals, is shown to have a significant contribution to lattice energies, systematically improving agreement between theory and experiment. When the vibrational and exact-exchange contributions are coupled with a many-body approach to dispersion, DFT yields a mean absolute error (3.92 kJ/mol) within the coveted “chemical accuracy” target (4.2 kJ/mol). The role of many-body dispersion for structures has also been investigated for a subset of the database, showing good performance compared to X-ray and neutron diffraction crystal structures. The results show that the approach employed here can reach the demanding accuracy of crystal-structure prediction and organic material design with minimal empiricism.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/139/2/10.1063/1.4812819",
+		"DOI": "10.1063/1.4812819",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "00030 \nbibtex: reilly_understanding_2013",
+		"author": [
+			{
+				"family": "Reilly",
+				"given": "Anthony M."
+			},
+			{
+				"family": "Tkatchenko",
+				"given": "Alexandre"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					7,
+					14
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					6,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": 159,
+		"type": "article-journal",
+		"title": "Beyond the random phase approximation: Improved description of short-range correlation by a renormalized adiabatic local density approximation",
+		"container-title": "Physical Review B",
+		"page": "115131",
+		"volume": "88",
+		"issue": "11",
+		"source": "APS",
+		"abstract": "We assess the performance of a recently proposed renormalized adiabatic local density approximation (rALDA) for ab initio calculations of electronic correlation energies in solids and molecules. The method is an extension of the random phase approximation (RPA) derived from time-dependent density functional theory and the adiabatic connection fluctuation-dissipation theorem and contains no fitted parameters. The new kernel is shown to preserve the accurate description of dispersive interactions from RPA while significantly improving the description of short-range correlation in molecules, insulators, and metals. For molecular atomization energies, the rALDA is a factor of 7 better than RPA and a factor of 4 better than the Perdew-Burke-Ernzerhof (PBE) functional when compared to experiments, and a factor of 3 (1.5) better than RPA (PBE) for cohesive energies of solids. For transition metals, the inclusion of full shell semicore states is found to be crucial for both RPA and rALDA calculations and can improve the cohesive energies by up to 0.4 eV. Finally, we discuss straightforward generalizations of the method, which might improve results even further.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.88.115131",
+		"DOI": "10.1103/PhysRevB.88.115131",
+		"note": "00010 \nbibtex: olsen_random_2013",
+		"shortTitle": "Beyond the random phase approximation",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Olsen",
+				"given": "Thomas"
+			},
+			{
+				"family": "Thygesen",
+				"given": "Kristian S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					9,
+					18
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					4,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": 163,
+		"type": "article-journal",
+		"title": "Improved Density Dependent Correction for the Description of London Dispersion Forces",
+		"container-title": "Journal of Chemical Theory and Computation",
+		"page": "4293-4299",
+		"volume": "9",
+		"issue": "10",
+		"source": "ACS Publications",
+		"abstract": "The Tkatchenko?Scheffler method for calculating dispersion correction to standard density-functional theory, which uses fixed neutral atoms as a reference to estimate the effective volumes of atoms-in-molecule and to calibrate their polarizabilities and dispersion coefficients, fails to describe the structure and the energetics of ionic solids. Here, we propose a more appropriate partitioning, based on the iterative Hirshfeld scheme, where the fractionally charged atomic reference state is determined self-consistently. We show that our new method extends the applicability of the original method in particular to study ionic systems and adsorption phenomena on surfaces of ionic solids.",
+		"URL": "http://dx.doi.org/10.1021/ct400694h",
+		"DOI": "10.1021/ct400694h",
+		"ISSN": "1549-9618",
+		"note": "00008 \nbibtex: bucko_improved_2013",
+		"journalAbbreviation": "J. Chem. Theory Comput.",
+		"author": [
+			{
+				"family": "Bučko",
+				"given": "Tomáš"
+			},
+			{
+				"family": "Lebègue",
+				"given": "Sébastien"
+			},
+			{
+				"family": "Hafner",
+				"given": "Jürgen"
+			},
+			{
+				"family": "Ángyán",
+				"given": "János G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					10,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					6,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": 170,
+		"type": "article-journal",
+		"title": "Random phase approximation applied to solids, molecules, and graphene-metal interfaces: From van der Waals to covalent bonding",
+		"container-title": "Physical Review B",
+		"page": "075111",
+		"volume": "87",
+		"issue": "7",
+		"source": "APS",
+		"abstract": "The random phase approximation (RPA) is attracting renewed interest as a universal and accurate method for first-principles total energy calculations. The RPA naturally accounts for long-range dispersive forces without compromising accuracy for short-range interactions making the RPA superior to semilocal and hybrid functionals in systems dominated by weak van der Waals or mixed covalent-dispersive interactions. In this work, we present plane-wave-based RPA calculations for a broad collection of systems with bond types ranging from strong covalent to van der Waals. Our main result is the RPA potential energy surfaces of graphene on the Cu(111), Ni(111), Co(0001), Pd(111), Pt(111), Ag(111), Au(111), and Al(111) metal surfaces, which represent archetypical examples of metal-organic interfaces. Comparison with semilocal density approximations and a nonlocal van der Waals functional show that only the RPA captures both the weak covalent and dispersive forces, which are equally important for these systems. We benchmark our implementation in the gpaw electronic structure code by calculating cohesive energies of graphite and a range of covalently bonded solids and molecules as well as the dissociation curves of H2 and H2+. These results show that the RPA with orbitals from the local density approximation suffers from delocalization errors and systematically underestimates covalent bond energies yielding similar or lower accuracy than the Perdew-Burke-Ernzerhof (PBE) functional for molecules and solids, respectively.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.87.075111",
+		"DOI": "10.1103/PhysRevB.87.075111",
+		"note": "00028 \nbibtex: olsen_random_2013a",
+		"shortTitle": "Random phase approximation applied to solids, molecules, and graphene-metal interfaces",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Olsen",
+				"given": "Thomas"
+			},
+			{
+				"family": "Thygesen",
+				"given": "Kristian S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					2,
+					13
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					4,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": 179,
+		"type": "article-journal",
+		"title": "Scaling laws for van der Waals interactions in nanostructured materials.",
+		"container-title": "Nature communications",
+		"page": "2341",
+		"volume": "4",
+		"abstract": "Van der Waals interactions have a fundamental role in biology, physics and chemistry, in particular in the self-assembly and the ensuing function of nanostructured materials. Here we utilize an efficient microscopic method to demonstrate that van der Waals interactions in nanomaterials act at distances greater than typically assumed, and can be characterized by different scaling laws depending on the dimensionality and size of the system. Specifically, we study the behaviour of van der Waals interactions in single-layer and multilayer graphene, fullerenes of varying size, single-wall carbon nanotubes and graphene nanoribbons. As a function of nanostructure size, the van der Waals coefficients follow unusual trends for all of the considered systems, and deviate significantly from the conventionally employed pairwise-additive picture. We propose that the peculiar van der Waals interactions in nanostructured materials could be exploited to control their self-assembly.",
+		"URL": "http://www.ncbi.nlm.nih.gov/pubmed/23955481",
+		"DOI": "10.1038/ncomms3341",
+		"ISSN": "2041-1723",
+		"note": "bibtex: gobre_scaling_2013",
+		"journalAbbreviation": "Nat. Commun.",
+		"author": [
+			{
+				"family": "Gobre",
+				"given": "Vivekanand V"
+			},
+			{
+				"family": "Tkatchenko",
+				"given": "Alexandre"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": 182,
+		"type": "article-journal",
+		"title": "Current Understanding of Van der Waals Effects in Realistic Materials",
+		"container-title": "Advanced Functional Materials",
+		"page": "2054-2061",
+		"volume": "25",
+		"issue": "13",
+		"source": "Wiley Online Library",
+		"abstract": "Van der Waals (vdW) interactions arise from correlated electronic fluctuations in matter and are therefore present in all materials. Our understanding of these relatively weak yet ubiquitous quantum mechanical interactions has improved significantly during the past decade. This understanding has been largely driven by the development of efficient methods that now enable the modeling of vdW interactions in many realistic materials of interest for fundamental scientific questions and technological applications. In this work, the physics behind the currently available vdW methods are reviewed, and their applications to a wide variety of materials are highlighted, ranging from molecular assemblies to solids with and without defects, nanostructures of varying size and dimensionality, as well as interfaces between inorganic and organic materials. The origin of collective vdW interactions in materials is discussed using the concept of topological dipole waves. Focus is placed on the important observation that the full many-body treatment of vdW interactions becomes crucial in the investigation and characterization of materials with increasing complexity, especially when studying their response properties, including vibrational, mechanical, and optical phenomena. Despite significant recent advances, many challenges still remain in the development of accurate and efficient methods for treating vdW interactions that will be broadly applicable to the modeling of functional materials at all relevant length and timescales.",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/adfm.201403029/abstract",
+		"DOI": "10.1002/adfm.201403029",
+		"ISSN": "1616-3028",
+		"note": "bibtex: tkatchenko_current_2015",
+		"journalAbbreviation": "Adv. Funct. Mater.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Tkatchenko",
+				"given": "Alexandre"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					4,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 207,
+		"type": "article-journal",
+		"title": "Accurate Molecular Van Der Waals Interactions from Ground-State Electron Density and Free-Atom Reference Data",
+		"container-title": "Physical Review Letters",
+		"page": "073005",
+		"volume": "102",
+		"issue": "7",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.102.073005",
+		"DOI": "10.1103/PhysRevLett.102.073005",
+		"ISSN": "0031-9007",
+		"note": "00977 \nbibtex: tkatchenko_accurate_2009",
+		"journalAbbreviation": "Phys. Rev. Lett.",
+		"author": [
+			{
+				"family": "Tkatchenko",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Scheffler",
+				"given": "Matthias"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 218,
+		"type": "article-journal",
+		"title": "Self-consistent implementation of a nonlocal van der Waals density functional with a Gaussian basis set",
+		"container-title": "The Journal of chemical physics",
+		"page": "014106",
+		"volume": "129",
+		"issue": "1",
+		"abstract": "Nearly all common density functional approximations fail to properly describe dispersion interactions responsible for binding in van der Waals complexes. Empirical corrections can fix some of the failures but cannot fully grasp the complex physics and may not be reliable for systems dissimilar to the fitting set. In contrast, the recently proposed nonlocal van der Waals density functional (vdW-DF) was derived from first principles, describes dispersion interactions in a seamless fashion, and yields the correct asymptotics. Implementation of this functional is somewhat cumbersome: Nonlocal dependence on the electron density requires numerical double integration over the space variables and functional derivatives are nontrivial. This paper shows how vdW-DF can be implemented self-consistently with Gaussian basis functions. The gradients of the energy with respect to nuclear displacements have also been derived and coded, enabling efficient geometry optimizations. We test the vdW-DF correlation functional in combination with several exchange approximations. We also study the sensitivity of the method to the basis set size and to the quality of the numerical quadrature grid. For weakly interacting systems, acceptable accuracy in semilocal exchange is achieved only with fine grids, whereas for nonlocal vdW-DF correlation even rather coarse grids are sufficient. The current version of vdW-DF is not well suited for pairing with Hartree-Fock exchange, leading to considerable overbinding.",
+		"URL": "http://www.ncbi.nlm.nih.gov/pubmed/18624469",
+		"DOI": "10.1063/1.2948400",
+		"ISSN": "1089-7690",
+		"note": "bibtex: vydrov_selfconsistent_2008",
+		"author": [
+			{
+				"family": "Vydrov",
+				"given": "Oleg A."
+			},
+			{
+				"family": "Wu",
+				"given": "Qin"
+			},
+			{
+				"family": "Van Voorhis",
+				"given": "Troy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": 223,
+		"type": "article-journal",
+		"title": "Van der Waals density functional theory with applications",
+		"container-title": "International Journal of Quantum Chemistry",
+		"page": "599–610",
+		"volume": "101",
+		"issue": "5",
+		"URL": "http://doi.wiley.com/10.1002/qua.20315",
+		"DOI": "10.1002/qua.20315",
+		"ISSN": "0020-7608",
+		"note": "bibtex: langreth_van_2005",
+		"author": [
+			{
+				"family": "Langreth",
+				"given": "D. C."
+			},
+			{
+				"family": "Dion",
+				"given": "M."
+			},
+			{
+				"family": "Rydberg",
+				"given": "H."
+			},
+			{
+				"family": "Schröder",
+				"given": "E."
+			},
+			{
+				"family": "Hyldgaard",
+				"given": "P."
+			},
+			{
+				"family": "Lundqvist",
+				"given": "B. I."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": 231,
+		"type": "article-journal",
+		"title": "A novel correction scheme for DFT: A combined vdW-DF/CCSD(T) approach",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "034115",
+		"volume": "139",
+		"issue": "3",
+		"source": "AIP",
+		"abstract": "A system-specific but very accurate density functional theory (DFT) correction scheme is proposed for precise calculations of adsorbent–adsorbate interactions by combining the non-empirical van der Waals density functional (vdW-DF) method and the empirical DFT/CC correction scheme to reach accuracy of the coupled clusters method with single, double and perturbative triple excitations (CCSD(T)). The new approach is applied to small molecules (CH4, CO2, H2, H2O, N2) interacting with silica surfaces and purely siliceous microporous solids. The vdW-DF/CC results for a perfectly reconstructed α-quartz surface are consistent with other dispersion-corrected DFT methods. Corrected for ZPVE, the vdW-DF/CC enthalpies of adsorption in pure-silica zeolite LTA (ΔHads(0 K)) of 3.6 and 5.2 kcal/mol for methane and carbon dioxide, respectively, are in excellent agreement with experimental values of 3.6 and 5.0 kcal/mol. The very high accuracy of the new scheme and its relatively easy use and numerical stability as compared to the earlier DFT/CC scheme offer a straightforward solution for obtaining reliable predictions of adsorption energies.",
+		"URL": "http://jcp.aip.org/resource/1/jcpsa6/v139/i3/p034115_s1",
+		"DOI": "doi:10.1063/1.4813826",
+		"ISSN": "00219606",
+		"note": "bibtex: hermann_novel_2013",
+		"shortTitle": "A novel correction scheme for DFT",
+		"author": [
+			{
+				"family": "Hermann",
+				"given": "Jan"
+			},
+			{
+				"family": "Bludský",
+				"given": "Ota"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					7,
+					19
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2013",
+					9,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": 234,
+		"type": "article-journal",
+		"title": "A density-functional model of the dispersion interaction",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "154101",
+		"volume": "123",
+		"issue": "15",
+		"source": "scitation.aip.org",
+		"abstract": "We have recently introduced [J. Chem. Phys.122, 154104 (2005)] a simple parameter-free model of the dispersion interaction based on the instantaneous in space, dipole moment of the exchange hole. The model generates remarkably accurate interatomic and intermolecular C 6 dispersion coefficients, and geometries and binding energies of intermolecular complexes. The model involves, in its original form, occupied Hartree-Fock or Kohn-Sham orbitals. Here we present a density-functional reformulation depending only on total density, the gradient and Laplacian of the density, and the kinetic-energy density. This density-functional model performs as well as the explicitly orbital-dependent model, yet offers obvious computational advantages.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/123/15/10.1063/1.2065267",
+		"DOI": "10.1063/1.2065267",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: becke_densityfunctional_2005",
+		"author": [
+			{
+				"family": "Becke",
+				"given": "Axel D."
+			},
+			{
+				"family": "Johnson",
+				"given": "Erin R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					10,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": 240,
+		"type": "article-journal",
+		"title": "Van der Waals density functional: An appropriate exchange functional",
+		"container-title": "Physical Review B",
+		"page": "161104",
+		"volume": "81",
+		"issue": "16",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.81.161104",
+		"DOI": "10.1103/PhysRevB.81.161104",
+		"ISSN": "1098-0121",
+		"note": "bibtex: cooper_van_2010",
+		"author": [
+			{
+				"family": "Cooper",
+				"given": "Valentino R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": 257,
+		"type": "article-journal",
+		"title": "Extending the applicability of the Tkatchenko-Scheffler dispersion correction via iterative Hirshfeld partitioning",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "034114",
+		"volume": "141",
+		"issue": "3",
+		"source": "scitation.aip.org",
+		"abstract": "Recently we have demonstrated that the applicability of the Tkatchenko-Scheffler (TS) method for calculating dispersion corrections to density-functional theory can be extended to ionic systems if the Hirshfeld method for estimating effective volumes and charges of atoms in molecules or solids (AIM’s) is replaced by its iterative variant [T. Bučko, S. Lebègue, J. Hafner, and J. Ángyán, J. Chem. Theory Comput.9, 4293 (2013)]. The standard Hirshfeld method uses neutral atoms as a reference, whereas in the iterative Hirshfeld (HI) scheme the fractionally charged atomic reference states are determined self-consistently. We show that the HI method predicts more realistic AIM charges and that the TS/HI approach leads to polarizabilities and C 6 dispersion coefficients in ionic or partially ionic systems which are, as expected, larger for anions than for cations (in contrast to the conventional TS method). For crystalline materials, the new algorithm predicts polarizabilities per unit cell in better agreement with the values derived from the Clausius-Mosotti equation. The applicability of the TS/HI method has been tested for a wide variety of molecular and solid-state systems. It is demonstrated that for systems dominated by covalent interactions and/or dispersion forces the TS/HI method leads to the same results as the conventional TS approach. The difference between the TS/HI and TS approaches increases with increasing ionicity. A detailed comparison is presented for isoelectronic series of octet compounds, layered crystals, complex intermetallic compounds, and hydrides, and for crystals built of molecules or containing molecular anions. It is demonstrated that only the TS/HI method leads to accurate results for systems where both electrostatic and dispersion interactions are important, as illustrated for Li-intercalated graphite and for molecular adsorption on the surfaces in ionic solids and in the cavities of zeolites.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/141/3/10.1063/1.4890003",
+		"DOI": "10.1063/1.4890003",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: bucko_extending_2014",
+		"author": [
+			{
+				"family": "Bučko",
+				"given": "Tomáš"
+			},
+			{
+				"family": "Lebègue",
+				"given": "Sébastien"
+			},
+			{
+				"family": "Ángyán",
+				"given": "János G."
+			},
+			{
+				"family": "Hafner",
+				"given": "Jürgen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					21
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					10,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": 268,
+		"type": "article-journal",
+		"title": "Chemical accuracy for the van der Waals density functional",
+		"container-title": "Journal of physics: Condensed matter",
+		"page": "22201",
+		"volume": "22",
+		"issue": "2",
+		"abstract": "The non-local van der Waals density functional (vdW-DF) of Dion et al (2004 Phys. Rev. Lett. 92 246401) is a very promising scheme for the efficient treatment of dispersion bonded systems. We show here that the accuracy of vdW-DF can be dramatically improved both for dispersion and hydrogen bonded complexes through the judicious selection of its underlying exchange functional. New and published exchange functionals are identified that deliver much better than chemical accuracy from vdW-DF for the S22 benchmark set of weakly interacting dimers and for water clusters. Improved performance for the adsorption of water on salt is also obtained.",
+		"URL": "http://www.ncbi.nlm.nih.gov/pubmed/21386245",
+		"DOI": "10.1088/0953-8984/22/2/022201",
+		"ISSN": "0953-8984",
+		"note": "bibtex: klimes_chemical_2010",
+		"author": [
+			{
+				"family": "Klimeš",
+				"given": "Jiří"
+			},
+			{
+				"family": "Bowler",
+				"given": "David R"
+			},
+			{
+				"family": "Michaelides",
+				"given": "Angelos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": 270,
+		"type": "article-journal",
+		"title": "Subsystem density-functional theory",
+		"container-title": "Wiley Interdisciplinary Reviews: Computational Molecular Science",
+		"page": "n/a-n/a",
+		"source": "Wiley Online Library",
+		"abstract": "Subsystem density-functional theory (subsystem DFT) has developed into a powerful alternative to Kohn–Sham DFT for quantum chemical calculations of complex systems. It exploits the idea of representing the total electron density as a sum of subsystem densities. The optimum total density is found by minimizing the total energy with respect to each of the subsystem densities, which breaks down the electronic-structure problem into effective subsystem problems. This enables calculations on large molecular aggregates and even (bio-)polymers without system-specific parameterizations. We provide a concise review of the underlying theory, typical approximations, and embedding approaches related to subsystem DFT such as frozen-density embedding (FDE). Moreover, we discuss extensions and applications of subsystem DFT and FDE to molecular property calculations, excited states, and wave function in DFT embedding methods. Furthermore, we outline recent developments for reconstruction techniques of embedding potentials arising in subsystem DFT, and for using subsystem DFT to incorporate constraints into DFT calculations.",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/wcms.1175/abstract",
+		"DOI": "10.1002/wcms.1175",
+		"ISSN": "1759-0884",
+		"note": "bibtex: jacob_subsystem_2013",
+		"journalAbbreviation": "WIREs Comput Mol Sci",
+		"language": "en",
+		"author": [
+			{
+				"family": "Jacob",
+				"given": "Christoph R."
+			},
+			{
+				"family": "Neugebauer",
+				"given": "Johannes"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					10,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					5,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 280,
+		"type": "article-journal",
+		"title": "Nonlocal van der Waals density functional: The simpler the better",
+		"container-title": "The Journal of chemical physics",
+		"page": "244103",
+		"volume": "133",
+		"issue": "24",
+		"abstract": "We devise a nonlocal correlation energy functional that describes the entire range of dispersion interactions in a seamless fashion using only the electron density as input. The new functional is considerably simpler than its predecessors of a similar type. The functional has a tractable and robust analytic form that lends itself to efficient self-consistent implementation. When paired with an appropriate exchange functional, our nonlocal correlation model yields accurate interaction energies of weakly-bound complexes, not only near the energy minima but also far from equilibrium. Our model exhibits an outstanding precision at predicting equilibrium intermonomer separations in van der Waals complexes. It also gives accurate covalent bond lengths and atomization energies. Hence the functional proposed in this work is a computationally inexpensive electronic structure tool of broad applicability.",
+		"URL": "http://www.ncbi.nlm.nih.gov/pubmed/21197972",
+		"DOI": "10.1063/1.3521275",
+		"ISSN": "1089-7690",
+		"note": "bibtex: vydrov_nonlocal_2010",
+		"author": [
+			{
+				"family": "Vydrov",
+				"given": "Oleg A."
+			},
+			{
+				"family": "Van Voorhis",
+				"given": "Troy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": 285,
+		"type": "article-journal",
+		"title": "Many-body van der Waals interactions in molecules and condensed matter",
+		"container-title": "Journal of Physics: Condensed Matter",
+		"page": "213202",
+		"volume": "26",
+		"issue": "21",
+		"source": "Institute of Physics",
+		"abstract": "This work reviews the increasing evidence that many-body van der Waals (vdW) or dispersion interactions play a crucial role in the structure, stability and function of a wide variety of systems in biology, chemistry and physics. Starting with the exact expression for the electron correlation energy provided by the adiabatic connection fluctuation–dissipation theorem, we derive both pairwise and many-body interatomic methods for computing the long-range dispersion energy by considering a model system of coupled quantum harmonic oscillators within the random-phase approximation. By coupling this approach to density functional theory, the resulting many-body dispersion (MBD) method provides an accurate and efficient scheme for computing the frequency-dependent polarizability and many-body vdW energy in molecules and materials with a finite electronic gap. A select collection of applications are presented that ascertain the fundamental importance of these non-bonded interactions across the spectrum of intermolecular (the S22 and S66 benchmark databases), intramolecular (conformational energies of alanine tetrapeptide) and supramolecular (binding energy of the ‘buckyball catcher’) complexes, as well as molecular crystals (cohesive energies in oligoacenes). These applications demonstrate that electrodynamic response screening and beyond-pairwise many-body vdW interactions—both captured at the MBD level of theory—play a quantitative, and sometimes even qualitative, role in describing the properties considered herein. This work is then concluded with an in-depth discussion of the challenges that remain in the future development of reliable (accurate and efficient) methods for treating many-body vdW interactions in complex materials and provides a roadmap for navigating many of the research avenues that are yet to be explored.",
+		"URL": "http://iopscience.iop.org/0953-8984/26/21/213202",
+		"DOI": "10.1088/0953-8984/26/21/213202",
+		"ISSN": "0953-8984",
+		"note": "bibtex: distasiojr._manybody_2014",
+		"journalAbbreviation": "J. Phys.: Condens. Matter",
+		"author": [
+			{
+				"family": "DiStasio, Jr.",
+				"given": "Robert A."
+			},
+			{
+				"family": "Gobre",
+				"given": "Vivekanand V."
+			},
+			{
+				"family": "Tkatchenko",
+				"given": "Alexandre"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					5,
+					28
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					5,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": 289,
+		"type": "article-journal",
+		"title": "Calculation of dispersion energies",
+		"container-title": "Journal of Physics: Condensed Matter",
+		"page": "073201",
+		"volume": "24",
+		"issue": "7",
+		"source": "Institute of Physics",
+		"abstract": "We summarize the theory of van der Waals (dispersion) forces, with emphasis on recent microscopic approaches that permit the prediction of forces between solids and nanostructures right down to intimate contact and binding. Some connections are pointed out between microscopic theory and macroscopic Lifshitz theory.",
+		"URL": "http://iopscience.iop.org/0953-8984/24/7/073201",
+		"DOI": "10.1088/0953-8984/24/7/073201",
+		"ISSN": "0953-8984",
+		"note": "bibtex: dobson_calculation_2012",
+		"journalAbbreviation": "J. Phys.: Condens. Matter",
+		"language": "en",
+		"author": [
+			{
+				"family": "Dobson",
+				"given": "John F."
+			},
+			{
+				"family": "Gould",
+				"given": "Tim"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					2,
+					22
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					1,
+					24
+				]
+			],
+			"season": "13:39:02"
+		}
+	},
+	{
+		"id": 290,
+		"type": "article-journal",
+		"title": "Benchmarking of London Dispersion-Accounting Density Functional Theory Methods on Very Large Molecular Complexes",
+		"container-title": "Journal of Chemical Theory and Computation",
+		"page": "1580-1591",
+		"volume": "9",
+		"issue": "3",
+		"source": "ACS Publications",
+		"abstract": "A new test set (S12L) containing 12 supramolecular noncovalently bound complexes is presented and used to evaluate seven different methods to account for dispersion in DFT (DFT-D3, DFT-D2, DFT-NL, XDM, dDsC, TS-vdW, M06-L) at different basis set levels against experimental, back-corrected reference energies. This allows conclusions about the performance of each method in an explorative research setting on ?real-life? problems. Most DFT methods show satisfactory performance but, due to the largeness of the complexes, almost always require an explicit correction for the nonadditive Axilrod?Teller?Muto three-body dispersion interaction to get accurate results. The necessity of using a method capable of accounting for dispersion is clearly demonstrated in that the two-body dispersion contributions are on the order of 20?150% of the total interaction energy. MP2 and some variants thereof are shown to be insufficient for this while a few tested D3-corrected semiempirical MO methods perform reasonably well. Overall, we suggest the use of this benchmark set as a ?sanity check? against overfitting to too small molecular cases.",
+		"URL": "http://dx.doi.org/10.1021/ct301081n",
+		"DOI": "10.1021/ct301081n",
+		"ISSN": "1549-9618",
+		"note": "bibtex: risthaus_benchmarking_2013",
+		"journalAbbreviation": "J. Chem. Theory Comput.",
+		"author": [
+			{
+				"family": "Risthaus",
+				"given": "Tobias"
+			},
+			{
+				"family": "Grimme",
+				"given": "Stefan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					3,
+					12
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					6,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": 312,
+		"type": "article-journal",
+		"title": "Nonlocal van der Waals density functional made simple and efficient",
+		"container-title": "Physical Review B",
+		"page": "041108",
+		"volume": "87",
+		"issue": "4",
+		"source": "APS",
+		"abstract": "We present a simple revision of the VV10 nonlocal density functional by Vydrov and Van Voorhis [J. Chem. Phys. 133, 244103 (2010)] for dispersion interactions. Unlike the original functional our modification allows nonlocal correlation energy and its derivatives to be efficiently evaluated in a plane wave framework along the lines pioneered by Román-Pérez and Soler [Phys. Rev. Lett. 103, 096102 (2009)]. Our revised functional maintains the outstanding precision of the original VV10 in noncovalently bound complexes and performs well in representative covalent, ionic, and metallic solids.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.87.041108",
+		"DOI": "10.1103/PhysRevB.87.041108",
+		"note": "bibtex: sabatini_nonlocal_2013",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Sabatini",
+				"given": "Riccardo"
+			},
+			{
+				"family": "Gorni",
+				"given": "Tommaso"
+			},
+			{
+				"family": "de Gironcoli",
+				"given": "Stefano"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					1,
+					31
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					9,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": 326,
+		"type": "article-journal",
+		"title": "van der Waals Interactions in Density-Functional Theory",
+		"container-title": "Physical Review Letters",
+		"page": "102-105",
+		"volume": "76",
+		"issue": "1",
+		"source": "APS",
+		"abstract": "We present a framework for long-range density-functional theory which is valid for interactions between isolated fragments of matter at large separation. The van der Waals coefficients for interactions between a large number of pairs of atoms are calculated and compared to available first-principles calculations. The success in this test case shows a way of extending density-functional theory calculations with local or semilocal approximations to include van der Waals forces.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.76.102",
+		"DOI": "10.1103/PhysRevLett.76.102",
+		"note": "bibtex: andersson_van_1996",
+		"journalAbbreviation": "Phys. Rev. Lett.",
+		"author": [
+			{
+				"family": "Andersson",
+				"given": "Y."
+			},
+			{
+				"family": "Langreth",
+				"given": "D. C."
+			},
+			{
+				"family": "Lundqvist",
+				"given": "B. I."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2013",
+					9,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": 332,
+		"type": "article-journal",
+		"title": "Investigation of Exchange Energy Density Functional Accuracy for Interacting Molecules",
+		"container-title": "Journal of Chemical Theory and Computation",
+		"page": "2754–2762",
+		"volume": "5",
+		"issue": "10",
+		"URL": "http://pubs.acs.org/doi/abs/10.1021/ct900365q",
+		"DOI": "10.1021/ct900365q",
+		"ISSN": "1549-9618",
+		"note": "bibtex: murray_investigation_2009",
+		"author": [
+			{
+				"family": "Murray",
+				"given": "Éamonn D."
+			},
+			{
+				"family": "Lee",
+				"given": "Kyuho"
+			},
+			{
+				"family": "Langreth",
+				"given": "David C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": 351,
+		"type": "article-journal",
+		"title": "Dispersion interactions from a local polarizability model",
+		"container-title": "Physical Review A",
+		"page": "062708",
+		"volume": "81",
+		"issue": "6",
+		"source": "APS",
+		"abstract": "A local approximation for dynamic polarizability leads to a nonlocal functional for the long-range dispersion interaction energy via an imaginary-frequency integral. We analyze several local polarizability approximations and argue that the form underlying the construction of our recent van der Waals functional [ O. A. Vydrov and T. Van Voorhis Phys. Rev. Lett. 103 063004 (2009)] is particularly well physically justified. Using this improved formula, we compute dynamic dipole polarizabilities and van der Waals C6 coefficients for a set of atoms and molecules. Good agreement with the benchmark values is obtained in most cases.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevA.81.062708",
+		"DOI": "10.1103/PhysRevA.81.062708",
+		"note": "bibtex: vydrov_dispersion_2010",
+		"journalAbbreviation": "Phys. Rev. A",
+		"author": [
+			{
+				"family": "Vydrov",
+				"given": "Oleg A."
+			},
+			{
+				"family": "Van Voorhis",
+				"given": "Troy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					6,
+					22
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2013",
+					9,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": 355,
+		"type": "article-journal",
+		"title": "van der Waals Interactions in Ionic and Semiconductor Solids",
+		"container-title": "Physical Review Letters",
+		"page": "245501",
+		"volume": "107",
+		"issue": "24",
+		"source": "APS",
+		"abstract": "van der Waals (vdW) energy corrected density-functional theory [ Phys. Rev. Lett. 102 073005 (2009)] is applied to study the cohesive properties of ionic and semiconductor solids (C, Si, Ge, GaAs, NaCl, and MgO). The required polarizability and dispersion coefficients are calculated using the dielectric function obtained from time-dependent density-functional theory. Coefficients for “atoms in the solid” are then calculated from the Hirshfeld partitioning of the electron density. It is shown that the Clausius-Mossotti equation that relates the polarizability and the dielectric function is accurate even for covalently-bonded semiconductors. We find an overall improvement in the cohesive properties of Si, Ge, GaAs, NaCl, and MgO, when vdW interactions are included on top of the Perdew-Burke-Ernzerhof or Heyd-Scuseria-Ernzerhof functionals. The relevance of our findings for other solids is discussed.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.107.245501",
+		"DOI": "10.1103/PhysRevLett.107.245501",
+		"note": "bibtex: zhang_van_2011",
+		"journalAbbreviation": "Phys. Rev. Lett.",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Guo-Xu"
+			},
+			{
+				"family": "Tkatchenko",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Paier",
+				"given": "Joachim"
+			},
+			{
+				"family": "Appel",
+				"given": "Heiko"
+			},
+			{
+				"family": "Scheffler",
+				"given": "Matthias"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					12,
+					5
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2013",
+					10,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 356,
+		"type": "article-journal",
+		"title": "Interatomic methods for the dispersion energy derived from the adiabatic connection fluctuation-dissipation theorem",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "74106",
+		"volume": "138",
+		"issue": "7",
+		"abstract": "Interatomic pairwise methods are currently among the most popular and accurate ways to include dispersion energy in density functional theory calculations. However, when applied to more than two atoms, these methods are still frequently perceived to be based on ad hoc assumptions, rather than a rigorous derivation from quantum mechanics. Starting from the adiabatic connection fluctuation-dissipation (ACFD) theorem, an exact expression for the electronic exchange-correlation energy, we demonstrate that the pairwise interatomic dispersion energy for an arbitrary collection of isotropic polarizable dipoles emerges from the second-order expansion of the ACFD formula upon invoking the random-phase approximation (RPA) or the full-potential approximation. Moreover, for a system of quantum harmonic oscillators coupled through a dipole-dipole potential, we prove the equivalence between the full interaction energy obtained from the Hamiltonian diagonalization and the ACFD-RPA correlation energy. This property makes the Hamiltonian diagonalization an efficient method for the calculation of the many-body dispersion energy. In addition, we show that the switching function used to damp the dispersion interaction at short distances arises from a short-range screened Coulomb potential, whose role is to account for the spatial spread of the individual atomic dipole moments. By using the ACFD formula, we gain a deeper understanding of the approximations made in the interatomic pairwise approaches, providing a powerful formalism for further development of accurate and efficient methods for the calculation of the dispersion energy.",
+		"URL": "http://link.aip.org/link/?JCP/138/074106/1 http://www.ncbi.nlm.nih.gov/pubmed/23444996",
+		"DOI": "10.1063/1.4789814",
+		"ISSN": "1089-7690",
+		"note": "bibtex: tkatchenko_interatomic_2013",
+		"author": [
+			{
+				"family": "Tkatchenko",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Ambrosetti",
+				"given": "Alberto"
+			},
+			{
+				"family": "Robert A. DiStasio",
+				"given": "Jr."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 366,
+		"type": "article-journal",
+		"title": "Perspective: Advances and challenges in treating van der Waals dispersion forces in density functional theory",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "120901",
+		"volume": "137",
+		"issue": "12",
+		"source": "scitation.aip.org",
+		"abstract": "Electron dispersion forces play a crucial role in determining the structure and properties of biomolecules, molecular crystals, and many other systems. However, an accurate description of dispersion is highly challenging, with the most widely used electronic structure technique, density functional theory (DFT), failing to describe them with standard approximations. Therefore, applications of DFT to systems where dispersion is important have traditionally been of questionable accuracy. However, the last decade has seen a surge of enthusiasm in the DFT community to tackle this problem and in so-doing to extend the applicability of DFT-based methods. Here we discuss, classify, and evaluate some of the promising schemes to emerge in recent years. A brief perspective on the outstanding issues that remain to be resolved and some directions for future research are also provided.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/137/12/10.1063/1.4754130",
+		"DOI": "10.1063/1.4754130",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: klimes_perspective_2012",
+		"shortTitle": "Perspective",
+		"author": [
+			{
+				"family": "Klimeš",
+				"given": "Jiří"
+			},
+			{
+				"family": "Michaelides",
+				"given": "Angelos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					9,
+					24
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2013",
+					11,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": 780,
+		"type": "article-journal",
+		"title": "Optimization of Effective Atom Centered Potentials for London Dispersion Forces in Density Functional Theory",
+		"container-title": "Physical Review Letters",
+		"page": "153004",
+		"volume": "93",
+		"issue": "15",
+		"source": "APS",
+		"abstract": "We add an effective atom-centered nonlocal term to the exchange-correlation potential in order to cure the lack of London dispersion forces in standard density functional theory. Calibration of this long-range correction is performed using density functional perturbation theory and an arbitrary reference. Without any prior assignment of types and structures of molecular fragments, our corrected generalized gradient approximation density functional theory calculations yield correct equilibrium geometries and dissociation energies of argon-argon, benzene-benzene, graphite-graphite, and argon-benzene complexes.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.93.153004",
+		"DOI": "10.1103/PhysRevLett.93.153004",
+		"note": "bibtex: vonlilienfeld_optimization_2004",
+		"journalAbbreviation": "Phys. Rev. Lett.",
+		"author": [
+			{
+				"family": "von Lilienfeld",
+				"given": "O. Anatole"
+			},
+			{
+				"family": "Tavernelli",
+				"given": "Ivano"
+			},
+			{
+				"family": "Rothlisberger",
+				"given": "Ursula"
+			},
+			{
+				"family": "Sebastiani",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004",
+					10,
+					7
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					5,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": 831,
+		"type": "article-journal",
+		"title": "Beyond pairwise additivity in London dispersion interactions",
+		"container-title": "International Journal of Quantum Chemistry",
+		"page": "1157-1161",
+		"volume": "114",
+		"issue": "18",
+		"source": "Wiley Online Library",
+		"abstract": "The simplest way to predict London dispersion energies involving complex multiatom objects is to add separate contributions from each pair of atoms. Semiempirical, and even certain less empirical, ways to do this can be very efficient computationally and have recently been developed to a high level of sophistication, with considerable success. There are, however, effects that are not captured in this way, including surprising dependences of the dispersion energy on the number N of atoms and on separation D. Higher level quantum chemical, perturbative, and random-phase approximation (RPA)-like theories can capture these beyond pairwise effects, but at a high computational cost. Very recent simplified RPA-like approaches based on localized oscillators account for the unusual N dependence in a computationally efficient way. To proceed further, the present work proposes three physically distinct categories of nonpairwise effects (types A, B, and C) against which the performance of existing and future theories can be assessed. © 2014 Wiley Periodicals, Inc.",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/qua.24635/abstract",
+		"DOI": "10.1002/qua.24635",
+		"ISSN": "1097-461X",
+		"note": "00009 \nbibtex: dobson_pairwise_2014",
+		"journalAbbreviation": "Int. J. Quantum Chem.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Dobson",
+				"given": "John F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					9,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 834,
+		"type": "article-journal",
+		"title": "Van der Waals interactions at surfaces by density functional theory using Wannier functions",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "074702",
+		"volume": "130",
+		"issue": "7",
+		"source": "scitation.aip.org",
+		"abstract": "The method, recently developed to include van der Waals interactions in the density functional theory by using the maximally localized Wannier functions, is extended to the case of atoms and fragments weakly bonded (physisorbed) to metal and semimetalsurfaces, thus opening the way to realistic simulations of surface-physics processes, where van der Waals interactions play a key role. Successful applications to the case of Ar on graphite and of Ar, He, and H 2 on the Al(100) surface are presented.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/130/7/10.1063/1.3077288",
+		"DOI": "10.1063/1.3077288",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: silvestrelli_van_2009",
+		"author": [
+			{
+				"family": "Silvestrelli",
+				"given": "Pier Luigi"
+			},
+			{
+				"family": "Benyahia",
+				"given": "Karima"
+			},
+			{
+				"family": "Grubisiĉ",
+				"given": "Sonja"
+			},
+			{
+				"family": "Ancilotto",
+				"given": "Francesco"
+			},
+			{
+				"family": "Toigo",
+				"given": "Flavio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					2,
+					21
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 837,
+		"type": "article-journal",
+		"title": "van der Waals Interactions in Density Functional Theory Using Wannier Functions",
+		"container-title": "The Journal of Physical Chemistry A",
+		"page": "5224-5234",
+		"volume": "113",
+		"issue": "17",
+		"source": "ACS Publications",
+		"abstract": "van der Waals interactions between atoms and molecules are ubiquitous and very important for many molecular and condensed-matter structures. These systems are often studied from first principles using the density functional theory (DFT), because this approach often represents a good compromise between accuracy and efficiency. However, the commonly used DFT functionals are not able to describe properly van der Waals effects. Most attempts to correct for this problem have a basic semiempirical character, although computationally more expensive first principles schemes have been recently developed. Of course, the key issue is finding a way to include van der Waals interactions in DFT without dramatically increasing the computational cost. We here describe in detail the recently developed scheme, based on the use of the maximally localized Wannier functions, that combines the simplicity of the semiempirical formalism with the accuracy of the first principles approaches and appears to be promising, being simple, efficient, accurate, and transferable (for instance, charge polarization effects are naturally included). The results of successful applications to small molecules, bulk Ar, and the interaction of Ar, He, and H2 with two different Al surfaces are presented. Directions for further improvements of the method are finally suggested.",
+		"URL": "http://dx.doi.org/10.1021/jp811138n",
+		"DOI": "10.1021/jp811138n",
+		"ISSN": "1089-5639",
+		"note": "bibtex: silvestrelli_van_2009a",
+		"journalAbbreviation": "J. Phys. Chem. A",
+		"author": [
+			{
+				"family": "Silvestrelli",
+				"given": "Pier Luigi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					4,
+					30
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 839,
+		"type": "article-journal",
+		"title": "Van der Waals Interactions in DFT Made Easy by Wannier Functions",
+		"container-title": "Physical Review Letters",
+		"page": "053002",
+		"volume": "100",
+		"issue": "5",
+		"source": "APS",
+		"abstract": "Ubiquitous van der Waals interactions between atoms and molecules are important for many molecular and solid structures. These systems are often studied from first principles using the density functional theory (DFT). However, the commonly used DFT functionals fail to capture the essence of van der Waals effects. Most attempts to correct for this problem have a basic semiempirical character, although computationally more expensive first principles schemes have been recently developed. We here describe a novel approach, based on the use of the maximally localized Wannier functions, that appears to be promising, being simple, efficient, accurate, and transferable (charge polarization effects are naturally included). The results of test applications to small molecules and bulk graphite are presented.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.100.053002",
+		"DOI": "10.1103/PhysRevLett.100.053002",
+		"note": "00131 \nbibtex: silvestrelli_van_2008",
+		"journalAbbreviation": "Phys. Rev. Lett.",
+		"author": [
+			{
+				"family": "Silvestrelli",
+				"given": "Pier Luigi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					2,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 844,
+		"type": "article-journal",
+		"title": "Accurate treatment of van der Waals interactions using standard density functional theory methods with effective core-type potentials: Application to carbon-containing dimers",
+		"container-title": "Chemical Physics Letters",
+		"page": "348-353",
+		"volume": "455",
+		"issue": "4–6",
+		"source": "ScienceDirect",
+		"abstract": "Carbon atom-centered effective core-type potentials were developed to compensate for the incorrect long-range behaviour of density functionals and for limitations in basis set in treating van der Waals binding in dimers containing carbon atoms. Three method-specific potentials (PBE, PW91, B971) were designed. B971/6-311+G(2d,2p) was found to give binding energies for 22 dimers with mean absolute deviation from high-level results of 0.25 kcal/mol (13.0%). The potentials add little to calculation times and are useable with most computational chemistry programs. It is expected that such deficiencies in B86-based functionals can be largely corrected in the manner presented.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S000926140800331X",
+		"DOI": "10.1016/j.cplett.2008.02.110",
+		"ISSN": "0009-2614",
+		"note": "bibtex: dilabio_accurate_2008",
+		"shortTitle": "Accurate treatment of van der Waals interactions using standard density functional theory methods with effective core-type potentials",
+		"journalAbbreviation": "Chemical Physics Letters",
+		"author": [
+			{
+				"family": "DiLabio",
+				"given": "Gino A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					4,
+					10
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 847,
+		"type": "article-journal",
+		"title": "Performance of optimized atom-centered potentials for weakly bonded systems using density functional theory",
+		"container-title": "Physical Review B",
+		"page": "195119",
+		"volume": "71",
+		"issue": "19",
+		"source": "APS",
+		"abstract": "Recently, we have introduced a scheme for optimizing atom-based nonlocal external potentials within the framework of density functional theory (DFT) in order to systematically improve the description of molecular properties [Phys. Rev. Lett. 93, 153004 (2004); J. Chem. Phys. 122, 014113 (2005)]. In this study, we investigate a small library of dispersion-corrected atom-centered potentials (DCACP’s) for C, Ar, Kr, and Br. To this end, we calibrate DCACP’s in order to reproduce the equilibrium distance and binding energy of MP2 potential energy surfaces of the weakly bonded homodimers Ar2, Kr2, and (Br2)2. In all cases studied, using DFT with the generalized gradient approximation functional BLYP and the DCACP’s, the influence of dispersion forces on equilibrium and transition-state geometries, interaction energies, and transition barriers can be reproduced in good agreement with MP2 calculations and without any significant increase in computational cost. The transferability of the DCACP’s to other systems is assessed by addressing various weakly bonded complexes. We investigate (i) ideal van der Waals clusters of the type ArnKrm (∀n,m={0,1,2,3,4} and 2⩽n+m⩽4), (ii) the effect of DCACP’s on covalent bonds and conformers of the hydrocarbon molecule cyclooctatetraene which features a system of π bonds, and (iii) the competition of simultaneous electrostatic and dispersion forces for the equilibrium structure and transition states of the hydrogen bromide dimer (HBr)2. In all cases, the performance of the DCACP’s to these extended set of systems is remarkably good.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.71.195119",
+		"DOI": "10.1103/PhysRevB.71.195119",
+		"note": "00090 \nbibtex: vonlilienfeld_performance_2005",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "von Lilienfeld",
+				"given": "O. Anatole"
+			},
+			{
+				"family": "Tavernelli",
+				"given": "Ivano"
+			},
+			{
+				"family": "Rothlisberger",
+				"given": "Ursula"
+			},
+			{
+				"family": "Sebastiani",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					5,
+					27
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 854,
+		"type": "article-journal",
+		"title": "van der Waals dispersion interactions in molecular materials: beyond pairwise additivity",
+		"container-title": "Chemical Science",
+		"page": "3289-3301",
+		"volume": "6",
+		"issue": "6",
+		"source": "pubs.rsc.org",
+		"abstract": "van der Waals (vdW) dispersion interactions are a key ingredient in the structure, stability, and response properties of many molecular materials and essential for us to be able to understand and design novel intricate molecular systems. Pairwise-additive models of vdW interactions are ubiquitous, but neglect their true quantum-mechanical many-body nature. In this perspective we focus on recent developments and applications of methods that can capture collective and many-body effects in vdW interactions. Highlighting a number of recent studies in this area, we demonstrate both the need for and usefulness of explicit many-body treatments for obtaining qualitative and quantitative accuracy for modelling molecular materials, with applications presented for small-molecule dimers, supramolecular host–guest complexes, and finally stability and polymorphism in molecular crystals.",
+		"URL": "http://pubs.rsc.org/en/content/articlelanding/2015/sc/c5sc00410a",
+		"DOI": "10.1039/C5SC00410A",
+		"ISSN": "2041-6539",
+		"note": "bibtex: reilly_van_2015",
+		"shortTitle": "van der Waals dispersion interactions in molecular materials",
+		"journalAbbreviation": "Chem. Sci.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Reilly",
+				"given": "Anthony M."
+			},
+			{
+				"family": "Tkatchenko",
+				"given": "Alexandre"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					5,
+					18
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 905,
+		"type": "article-journal",
+		"title": "Challenges for Density Functional Theory",
+		"container-title": "Chemical Reviews",
+		"page": "289-320",
+		"volume": "112",
+		"issue": "1",
+		"source": "ACS Publications",
+		"URL": "http://dx.doi.org/10.1021/cr200107z",
+		"DOI": "10.1021/cr200107z",
+		"ISSN": "0009-2665",
+		"note": "bibtex: cohen_challenges_2012",
+		"journalAbbreviation": "Chem. Rev.",
+		"author": [
+			{
+				"family": "Cohen",
+				"given": "Aron J."
+			},
+			{
+				"family": "Mori-Sánchez",
+				"given": "Paula"
+			},
+			{
+				"family": "Yang",
+				"given": "Weitao"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					1,
+					11
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": 918,
+		"type": "article-journal",
+		"title": "Dispersion Interactions with Density-Functional Theory: Benchmarking Semiempirical and Interatomic Pairwise Corrected Density Functionals",
+		"container-title": "Journal of Chemical Theory and Computation",
+		"page": "3944-3951",
+		"volume": "7",
+		"issue": "12",
+		"source": "ACS Publications",
+		"abstract": "We present a comparative assessment of the accuracy of two different approaches for evaluating dispersion interactions: interatomic pairwise corrections and semiempirical meta-generalized-gradient-approximation (meta-GGA)-based functionals. This is achieved by employing conventional (semi)local and (screened-)hybrid functionals, as well as semiempirical hybrid and nonhybrid meta-GGA functionals of the M06 family, with and without interatomic pairwise Tkatchenko?Scheffler corrections. All of those are tested against the benchmark S22 set of weakly bound systems, a representative larger molecular complex (dimer of NiPc molecules), and a representative dispersively bound solid (hexagonal boron nitride). For the S22 database, we also compare our results with those obtained from the pairwise correction of Grimme (DFT-D3) and nonlocal Langreth?Lundqvist functionals (vdW-DF1 and vdW-DF2). We find that the semiempirical kinetic-energy-density dependence introduced in the M06 functionals mimics some of the nonlocal correlation needed to describe dispersion. However, long-range contributions are still missing. Pair-wise interatomic corrections, applied to conventional semilocal or hybrid functionals, or to M06 functionals, provide for a satisfactory level of accuracy irrespectively of the underlying functional. Specifically, screened-hybrid functionals such as the Heyd?Scuseria?Ernzerhof (HSE) approach reduce self-interaction errors in systems possessing both localized and delocalized orbitals and can be applied to both finite and extended systems. Therefore, they serve as a useful underlying functional for dispersion corrections.",
+		"URL": "http://dx.doi.org/10.1021/ct2005616",
+		"DOI": "10.1021/ct2005616",
+		"ISSN": "1549-9618",
+		"note": "bibtex: marom_dispersion_2011",
+		"shortTitle": "Dispersion Interactions with Density-Functional Theory",
+		"journalAbbreviation": "J. Chem. Theory Comput.",
+		"author": [
+			{
+				"family": "Marom",
+				"given": "Noa"
+			},
+			{
+				"family": "Tkatchenko",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Rossi",
+				"given": "Mariana"
+			},
+			{
+				"family": "Gobre",
+				"given": "Vivekanand V."
+			},
+			{
+				"family": "Hod",
+				"given": "Oded"
+			},
+			{
+				"family": "Scheffler",
+				"given": "Matthias"
+			},
+			{
+				"family": "Kronik",
+				"given": "Leeor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					12,
+					13
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 921,
+		"type": "article-journal",
+		"title": "Tkatchenko-Scheffler van der Waals correction method with and without self-consistent screening applied to solids",
+		"container-title": "Physical Review B",
+		"page": "064110",
+		"volume": "87",
+		"issue": "6",
+		"source": "APS",
+		"abstract": "The method proposed by Tkatchenko and Scheffler [Phys. Rev. Lett. 102, 073005 (2009)] to correct density functional calculations for the missing van der Waals interactions is implemented in the Vienna ab initio simulation package (vasp) code and tested on a wide range of solids, including noble-gas crystals, molecular crystals (α-N2, sulfur dioxide, benzene, naphthalene, cytosine), layered solids (graphite, hexagonal boron nitride, vanadium pentoxide, MoS2, NbSe2), chain-like structures (selenium, tellurium, cellulose I), ionic crystals (NaCl, KI), and metals (nickel, zinc, cadmium). In addition to the original formulation expressing the van der Waals (vdW) corrections as pairwise potentials whose strength is derived from the rescaled polarizabilities of the neutral free atoms, the self-consistently screened (TS+SCS) [Phys. Rev. Lett. 108, 236402 (2012)] variant of the method involving electrodynamic response effects has been examined. Analytical expressions for the forces acting on the atoms and for the components of the stress tensor needed for the relaxation of the volume and shape of the unit cell using the TS+SCS method are derived. While the calculated structures are reasonably close to experiment, the van der Waals corrections to the binding energies are often found to be overestimated in comparison with experimental data. The TS+SCS approach leads to significantly better results in some problematic cases, such as the binding energy of graphite. However, there is room for further improvements, in particular for strongly ionic systems.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.87.064110",
+		"DOI": "10.1103/PhysRevB.87.064110",
+		"note": "bibtex: bucko_tkatchenkoscheffler_2013",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Bučko",
+				"given": "Tomáš"
+			},
+			{
+				"family": "Lebègue",
+				"given": "S."
+			},
+			{
+				"family": "Hafner",
+				"given": "Jürgen"
+			},
+			{
+				"family": "Ángyán",
+				"given": "J. G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					2,
+					26
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 922,
+		"type": "article-journal",
+		"title": "Frozen density functional approach for ab initio calculations of solvated molecules",
+		"container-title": "The Journal of Physical Chemistry",
+		"page": "8050-8053",
+		"volume": "97",
+		"issue": "30",
+		"source": "ACS Publications",
+		"URL": "http://dx.doi.org/10.1021/j100132a040",
+		"DOI": "10.1021/j100132a040",
+		"ISSN": "0022-3654",
+		"note": "bibtex: wesolowski_frozen_1993",
+		"journalAbbreviation": "J. Phys. Chem.",
+		"author": [
+			{
+				"family": "Wesolowski",
+				"given": "Tomasz Adam"
+			},
+			{
+				"family": "Warshel",
+				"given": "Arieh"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1993",
+					7,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 924,
+		"type": "article-journal",
+		"title": "Improved description of soft layered materials with van der Waals density functional theory",
+		"container-title": "Journal of Physics: Condensed Matter",
+		"page": "424216",
+		"volume": "24",
+		"issue": "42",
+		"source": "Institute of Physics",
+		"abstract": "The accurate description of van der Waals forces within density functional theory is currently one of the most active areas of research in computational physics and chemistry. Here we report results on the structural and energetic properties of graphite and hexagonal boron nitride,  two layered materials where interlayer binding is dominated by van der Waals forces. Results from several density functionals are reported, including the optimized Becke88 van der Waals (optB88-vdW) and the optimized PBE van der Waals (optPBE-vdW) (Klimeš et al 2010 J. Phys.: Condens. Matter  22 022201) functionals. Where comparison to experiment and higher-level theory is possible, the results obtained from the two new van der Waals density functionals are in good agreement. An analysis of the physical nature of the interlayer binding in both graphite and hexagonal boron nitride is also reported.",
+		"URL": "http://iopscience.iop.org/0953-8984/24/42/424216",
+		"DOI": "10.1088/0953-8984/24/42/424216",
+		"ISSN": "0953-8984",
+		"note": "bibtex: graziano_improved_2012",
+		"journalAbbreviation": "J. Phys.: Condens. Matter",
+		"language": "en",
+		"author": [
+			{
+				"family": "Graziano",
+				"given": "Gabriella"
+			},
+			{
+				"family": "Klimeš",
+				"given": "Jiří"
+			},
+			{
+				"family": "Fernandez-Alonso",
+				"given": "Felix"
+			},
+			{
+				"family": "Michaelides",
+				"given": "Angelos"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					10,
+					24
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 926,
+		"type": "article-journal",
+		"title": "Adsorption of rare-gas atoms on Cu(111) and Pb(111) surfaces by van der Waals corrected density functional theory",
+		"container-title": "Physical Review B",
+		"page": "165405",
+		"volume": "85",
+		"issue": "16",
+		"source": "APS",
+		"abstract": "The DFT/vdW-WF method, recently developed to include the Van der Waals interactions in Density Functional Theory (DFT) using the maximally localized Wannier functions, is applied to the study of the adsorption of rare-gas atoms (Ne, Ar, Kr, and Xe) on the Cu(111) and Pb(111) surfaces at three high-symmetry sites. We evaluate the equilibrium binding energies and distances and the induced work-function changes and dipole moments. We find that for Ne, Ar, and Kr on the Cu(111) surface the different adsorption configurations are characterized by very similar binding energies while the favored adsorption site for Xe on Cu(111) is on top of a Cu atom, in agreement with previous theoretical calculations and experimental findings and in common with other close-packed metal surfaces. Instead, the favored site is always the hollow one on the Pb(111) surface, which therefore represents an interesting system where the investigation of high-coordination sites is possible. Moreover, the Pb(111) substrate is subject, upon rare-gas adsorption, to a significantly smaller change in the work function (and to a correspondingly smaller induced dipole moment) than Cu(111). The roles of the chosen reference DFT functional and of different van der Waals corrections as well as their dependence on different rare-gas adatoms are also discussed.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.85.165405",
+		"DOI": "10.1103/PhysRevB.85.165405",
+		"note": "bibtex: silvestrelli_adsorption_2012",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Silvestrelli",
+				"given": "Pier Luigi"
+			},
+			{
+				"family": "Ambrosetti",
+				"given": "Alberto"
+			},
+			{
+				"family": "Grubisiĉ",
+				"given": "Sonja"
+			},
+			{
+				"family": "Ancilotto",
+				"given": "Francesco"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					4,
+					3
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 928,
+		"type": "article-journal",
+		"title": "Twelve outstanding problems in ground-state density functional theory: A bouquet of puzzles",
+		"container-title": "Computational and Theoretical Chemistry",
+		"page": "2-6",
+		"volume": "963",
+		"issue": "1",
+		"source": "ScienceDirect",
+		"abstract": "Kohn–Sham density functional theory and its many applications constitute perhaps the most populated area of both physics and chemistry. The theory permits calculation of the ground-state density and energy of a many-electron system (e.g., an atom, molecule, or solid) by the selfconsistent solution of a one-electron Schroedinger equation. The theory is exact in principle for these quantities, and in practice the required approximations can be usefully accurate. Here, with few equations and without any claim of optimal selection, we present 12 problems in density functional theory that remain to be solved, with an emphasis on formal problems and on the construction of approximate density functionals. The solutions to some of these problems could go a long way toward deepening understanding of the exact theory and toward improving the accuracy of electronic structure calculations.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S2210271X10006092",
+		"DOI": "10.1016/j.comptc.2010.09.002",
+		"ISSN": "2210-271X",
+		"note": "bibtex: ruzsinszky_twelve_2011",
+		"shortTitle": "Twelve outstanding problems in ground-state density functional theory",
+		"journalAbbreviation": "Computational and Theoretical Chemistry",
+		"author": [
+			{
+				"family": "Ruzsinszky",
+				"given": "Adrienn"
+			},
+			{
+				"family": "Perdew",
+				"given": "John P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 931,
+		"type": "article-journal",
+		"title": "Density functionals for surface science: Exchange-correlation model development with Bayesian error estimation",
+		"container-title": "Physical Review B",
+		"page": "235149",
+		"volume": "85",
+		"issue": "23",
+		"source": "APS",
+		"abstract": "A methodology for semiempirical density functional optimization, using regularization and cross-validation methods from machine learning, is developed. We demonstrate that such methods enable well-behaved exchange-correlation approximations in very flexible model spaces, thus avoiding the overfitting found when standard least-squares methods are applied to high-order polynomial expansions. A general-purpose density functional for surface science and catalysis studies should accurately describe bond breaking and formation in chemistry, solid state physics, and surface chemistry, and should preferably also include van der Waals dispersion interactions. Such a functional necessarily compromises between describing fundamentally different types of interactions, making transferability of the density functional approximation a key issue. We investigate this trade-off between describing the energetics of intramolecular and intermolecular, bulk solid, and surface chemical bonding, and the developed optimization method explicitly handles making the compromise based on the directions in model space favored by different materials properties. The approach is applied to designing the Bayesian error estimation functional with van der Waals correlation (BEEF–vdW), a semilocal approximation with an additional nonlocal correlation term. Furthermore, an ensemble of functionals around BEEF–vdW comes out naturally, offering an estimate of the computational error. An extensive assessment on a range of data sets validates the applicability of BEEF–vdW to studies in chemistry and condensed matter physics. Applications of the approximation and its Bayesian ensemble error estimate to two intricate surface science problems support this.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.85.235149",
+		"DOI": "10.1103/PhysRevB.85.235149",
+		"note": "bibtex: wellendorff_density_2012b",
+		"shortTitle": "Density functionals for surface science",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Wellendorff",
+				"given": "Jess"
+			},
+			{
+				"family": "Lundgaard",
+				"given": "Keld T."
+			},
+			{
+				"family": "Møgelhøj",
+				"given": "Andreas"
+			},
+			{
+				"family": "Petzold",
+				"given": "Vivien"
+			},
+			{
+				"family": "Landis",
+				"given": "David D."
+			},
+			{
+				"family": "Nørskov",
+				"given": "Jens K."
+			},
+			{
+				"family": "Bligaard",
+				"given": "Thomas"
+			},
+			{
+				"family": "Jacobsen",
+				"given": "Karsten W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					6,
+					27
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 935,
+		"type": "article-journal",
+		"title": "A benchmark for non-covalent interactions in solids",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "054103",
+		"volume": "137",
+		"issue": "5",
+		"source": "scitation.aip.org",
+		"abstract": "A benchmark for non-covalent interactions in solids (C21) based on the experimental sublimationenthalpies and geometries of 21 molecular crystals is presented. Thermal and zero-point effects are carefully accounted for and reference lattice energies and thermal pressures are provided, which allow dispersion-corrected density functionals to be assessed in a straightforward way. Other thermal corrections to the sublimationenthalpy (the 2RT term) are reexamined. We compare the recently implemented exchange-hole dipole moment (XDM) model with other approaches in the literature to find that XDM roughly doubles the accuracy of DFT-D2 and non-local functionals in computed lattice energies (4.8 kJ/mol mean absolute error) while, at the same time, predicting cell geometries within less than 2% of the experimental result on average. The XDM model of dispersion interactions is confirmed as a very promising approach in solid-state applications.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/137/5/10.1063/1.4738961",
+		"DOI": "10.1063/1.4738961",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: otero-de-la-roza_benchmark_2012",
+		"author": [
+			{
+				"family": "Otero-de-la-Roza",
+				"given": "A."
+			},
+			{
+				"family": "Johnson",
+				"given": "Erin R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					8,
+					7
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 937,
+		"type": "article-journal",
+		"title": "A post-Hartree-Fock model of intermolecular interactions: Inclusion of higher-order corrections",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "174104",
+		"volume": "124",
+		"issue": "17",
+		"source": "scitation.aip.org",
+		"abstract": "We have previously demonstrated that the dipole moment of the exchange hole can be used to derive intermolecular C 6 dispersion coefficients [J. Chem. Phys.122, 154104 (2005)]. This was subsequently the basis for a novel post-Hartree-Fock model of intermolecular interactions [J. Chem. Phys.123, 024101 (2005)]. In the present work, the model is extended to include higher-order dispersion coefficients C 8 and C 10 . The extended model performs very well for prediction of intermonomer separations and binding energies of 45 van der Waals complexes. In particular, it performs twice as well as basis-set extrapolated MP2 theory for dispersion-bound complexes, with minimal computational cost.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/124/17/10.1063/1.2190220",
+		"DOI": "10.1063/1.2190220",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: johnson_posthartreefock_2006",
+		"shortTitle": "A post-Hartree-Fock model of intermolecular interactions",
+		"author": [
+			{
+				"family": "Johnson",
+				"given": "Erin R."
+			},
+			{
+				"family": "Becke",
+				"given": "Axel D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					5,
+					7
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 939,
+		"type": "article-journal",
+		"title": "A post-Hartree–Fock model of intermolecular interactions",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "024101",
+		"volume": "123",
+		"issue": "2",
+		"source": "scitation.aip.org",
+		"abstract": "Intermolecular interactions are of great importance in chemistry but are difficult to model accurately with computational methods. In particular, Hartree–Fock and standard density-functional approximations do not include the physics necessary to properly describe dispersion. These methods are sometimes corrected to account for dispersion by adding a pairwise C 6 ∕ R 6 term, with C 6 dispersion coefficients dependent on the atoms involved. We present a post-Hartree–Fock model in which C 6 coefficients are generated by the instantaneous dipole moment of the exchange hole. This model relies on occupied orbitals only, and involves only one, universal, empirical parameter to limit the dispersion energy at small interatomic separations. The model is extensively tested on isotropic C 6 coefficients of 178 intermolecular pairs. It is also applied to the calculation of the geometries and binding energies of 20 intermolecular complexes involving dispersion, dipole-induced dipole, dipole–dipole, and hydrogen-bonding interactions, with remarkably good results.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/123/2/10.1063/1.1949201",
+		"DOI": "10.1063/1.1949201",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: johnson_posthartreefock_2005",
+		"author": [
+			{
+				"family": "Johnson",
+				"given": "Erin R."
+			},
+			{
+				"family": "Becke",
+				"given": "Axel D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					7,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 941,
+		"type": "article-journal",
+		"title": "Exchange-hole dipole moment and the dispersion interaction revisited",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "154108",
+		"volume": "127",
+		"issue": "15",
+		"source": "scitation.aip.org",
+		"abstract": "We have recently introduced a model of the dispersion interaction based on the position-dependent dipole moment of the exchange hole [J. Chem. Phys.122, 154104 (2005)]. The original derivation, involving simple dipole-induced-dipole electrostatics, was somewhat heuristic, however, and lacking in rigor. Here we present a much more satisfying derivation founded on second-order perturbation theory in the closure approximation and a semiclassical evaluation of the relevant interaction integrals. Expressions for C 6 , C 8 , and C 10 dispersion coefficients are obtained in a remarkably straightforward manner. Their values agree very well with ab initio reference data on dispersion coefficients between the atoms H, He, Ne, Ar, Kr, and Xe. We also highlight the importance of the exchange-hole contribution to the dispersion coefficients, especially to C 6 .",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/127/15/10.1063/1.2795701",
+		"DOI": "10.1063/1.2795701",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: becke_exchangehole_2007",
+		"author": [
+			{
+				"family": "Becke",
+				"given": "Axel D."
+			},
+			{
+				"family": "Johnson",
+				"given": "Erin R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					10,
+					21
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 943,
+		"type": "article-journal",
+		"title": "van der Waals Interactions in Density-Functional Theory: Intermolecular Complexes",
+		"container-title": "Journal of Chemical Theory and Computation",
+		"page": "1081-1088",
+		"volume": "6",
+		"issue": "4",
+		"source": "ACS Publications",
+		"abstract": "In previous work (J. Chem. Theory Comput. 2009, 5, 719), we assessed the performance of standard semilocal exchange-correlation density functionals plus the nonempirical dispersion model of Becke and Johnson (J. Chem. Phys. 2007, 127, 154108) on binding energy curves of rare-gas diatomics. The results were encouraging. In this work, we extend our study to 65 intermolecular complexes representing a wide variety of van der Waals interactions including dispersion, hydrogen bonding, electrostatic, and stacking. Comparisons are made with other density-functional methods for van der Waals interactions in the literature.",
+		"URL": "http://dx.doi.org/10.1021/ct900699r",
+		"DOI": "10.1021/ct900699r",
+		"ISSN": "1549-9618",
+		"note": "bibtex: kannemann_van_2010",
+		"shortTitle": "van der Waals Interactions in Density-Functional Theory",
+		"journalAbbreviation": "J. Chem. Theory Comput.",
+		"author": [
+			{
+				"family": "Kannemann",
+				"given": "Felix O."
+			},
+			{
+				"family": "Becke",
+				"given": "Axel D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					4,
+					13
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 945,
+		"type": "article-journal",
+		"title": "Van der Waals interactions in solids using the exchange-hole dipole moment model",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "174109",
+		"volume": "136",
+		"issue": "17",
+		"source": "scitation.aip.org",
+		"abstract": "The exchange-hole dipole moment model of dispersion interactions of Becke and Johnson [J. Chem. Phys.127154108 (2007)10.1063/1.2795701] is implemented for calculations in solids using the pseudopotentials/plane-waves approach. The resulting functional retains the simplicity and efficiency of semilocal functionals while accurately treating dispersion interactions via a semiempirical asymptotic expansion. The dispersion coefficients are calculated completely ab initio using local quantities alone (density, gradient, Laplacian, and kinetic energy density). The two empirical parameters in the damping function are calculated by fit to a 65-molecule training set recalculated under periodic boundary conditions. Calculations in simple solids offer good results with minimal computational cost compared to electronic relaxation.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/136/17/10.1063/1.4705760",
+		"DOI": "10.1063/1.4705760",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: otero-de-la-roza_van_2012",
+		"author": [
+			{
+				"family": "Otero-de-la-Roza",
+				"given": "A."
+			},
+			{
+				"family": "Johnson",
+				"given": "Erin R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					5,
+					7
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 947,
+		"type": "article-journal",
+		"title": "van der Waals density functional made accurate",
+		"container-title": "Physical Review B",
+		"page": "121103",
+		"volume": "89",
+		"issue": "12",
+		"source": "APS",
+		"abstract": "I propose a van der Waals density functional (vdW-DF) that improves upon the description of energetics and geometries of molecules, solids, and adsorption systems over the original vdW-DF. The functional is based on the nonlocal correlation for the second version of the vdW-DF [Lee et al., Phys. Rev. B 82, 081101(R) (2010)] and an exchange functional that recovers the second-order gradient expansion approximation in the slowly varying limit, while reproducing the large density gradient behavior proposed by Becke [J. Chem. Phys. 85, 7184 (1986)]. A systematic assessment of the proposed functional is presented, which demonstrates the applicability of the proposed vdW-DF to a wide range of systems.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.89.121103",
+		"DOI": "10.1103/PhysRevB.89.121103",
+		"note": "bibtex: hamada_van_2014",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Hamada",
+				"given": "Ikutaro"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					3,
+					10
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 948,
+		"type": "article-journal",
+		"title": "FDE-vdW: A van der Waals inclusive subsystem density-functional theory",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "044127",
+		"volume": "141",
+		"issue": "4",
+		"source": "scitation.aip.org",
+		"abstract": "We present a formally exact van der Waals inclusive electronic structure theory, called FDE-vdW, based on the Frozen Density Embedding formulation of subsystem Density-Functional Theory. In subsystem DFT, the energy functional is composed of subsystem additive and non-additive terms. We show that an appropriate definition of the long-range correlation energy is given by the value of the non-additive correlation functional. This functional is evaluated using the fluctuation–dissipation theorem aided by a formally exact decomposition of the response functions into subsystem contributions. FDE-vdW is derived in detail and several approximate schemes are proposed, which lead to practical implementations of the method. We show that FDE-vdW is Casimir-Polder consistent, i.e., it reduces to the generalized Casimir-Polder formula for asymptotic inter-subsystems separations. Pilot calculations of binding energies of 13 weakly bound complexes singled out from the S22 set show a dramatic improvement upon semilocal subsystem DFT, provided that an appropriate exchange functional is employed. The convergence of FDE-vdW with basis set size is discussed, as well as its dependence on the choice of associated density functional approximant.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/141/4/10.1063/1.4890839",
+		"DOI": "10.1063/1.4890839",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: kevorkyants_fdevdw_2014",
+		"shortTitle": "FDE-vdW",
+		"author": [
+			{
+				"family": "Kevorkyants",
+				"given": "Ruslan"
+			},
+			{
+				"family": "Eshuis",
+				"given": "Henk"
+			},
+			{
+				"family": "Pavanello",
+				"given": "Michele"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					28
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 955,
+		"type": "article-journal",
+		"title": "Density-Functional Theory with Screened van der Waals Interactions for the Modeling of Hybrid Inorganic-Organic Systems",
+		"container-title": "Physical Review Letters",
+		"page": "146103",
+		"volume": "108",
+		"issue": "14",
+		"source": "APS",
+		"abstract": "The electronic properties and the function of hybrid inorganic-organic systems (HIOS) are intimately linked to their interface geometry. Here we show that the inclusion of the many-body collective response of the substrate electrons inside the inorganic bulk enables us to reliably predict the HIOS geometries and energies. This is achieved by the combination of dispersion-corrected density-functional theory (the DFT+ van der Waals approach) [Phys. Rev. Lett. 102, 073005 (2009)], with the Lifshitz-Zaremba-Kohn theory for the nonlocal Coulomb screening within the bulk. Our method yields geometries in remarkable agreement (≈0.1 Å) with normal incidence x-ray standing wave measurements for the 3, 4, 9, 10-perylene-tetracarboxylic acid dianhydride (C24O6H8, PTCDA) molecule on Cu(111), Ag(111), and Au(111) surfaces. Similarly accurate results are obtained for xenon and benzene adsorbed on metal surfaces.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.108.146103",
+		"DOI": "10.1103/PhysRevLett.108.146103",
+		"note": "bibtex: ruiz_densityfunctional_2012",
+		"journalAbbreviation": "Phys. Rev. Lett.",
+		"author": [
+			{
+				"family": "Ruiz",
+				"given": "Victor G."
+			},
+			{
+				"family": "Liu",
+				"given": "Wei"
+			},
+			{
+				"family": "Zojer",
+				"given": "Egbert"
+			},
+			{
+				"family": "Scheffler",
+				"given": "Matthias"
+			},
+			{
+				"family": "Tkatchenko",
+				"given": "Alexandre"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					4,
+					6
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 956,
+		"type": "article-journal",
+		"title": "Exchange-hole dipole moment and the dispersion interaction",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "154104",
+		"volume": "122",
+		"issue": "15",
+		"source": "scitation.aip.org",
+		"abstract": "A simple model is presented in which the instantaneous dipole moment of the exchange hole is used to generate a dispersion interaction between nonoverlapping systems. The model is easy to implement, requiring no electron correlation (in the usual sense) or time dependence, and has been tested on various atomic and molecular pairs. The resulting C 6 dispersion coefficients are remarkably accurate.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/122/15/10.1063/1.1884601",
+		"DOI": "10.1063/1.1884601",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: becke_exchangehole_2005",
+		"author": [
+			{
+				"family": "Becke",
+				"given": "Axel D."
+			},
+			{
+				"family": "Johnson",
+				"given": "Erin R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					4,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 958,
+		"type": "article-journal",
+		"title": "Linear-scaling self-consistent implementation of the van der Waals density functional",
+		"container-title": "Physical Review B",
+		"page": "201105",
+		"volume": "79",
+		"issue": "20",
+		"source": "APS",
+		"abstract": "An efficient linear-scaling approach to the van der Waals density functional in electronic-structure calculations is demonstrated. The nonlocal correlation potential needed in self-consistent calculations is derived in a practical form. This enables also an efficient determination of the Hellmann-Feynman forces on atoms. The numerical implementation employs adaptive quadrature grids in real space resulting in a fast and an accurate evaluation of the functional and the potential. The approach is incorporated in the atomic orbital code SIESTA. The application of the method to the S22 set of noncovalently bonded molecules and comparison with the quantum chemistry data reveal an overall agreement but show that different exchange functionals should be used for different types of bonds.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.79.201105",
+		"DOI": "10.1103/PhysRevB.79.201105",
+		"note": "bibtex: gulans_linearscaling_2009",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Gulans",
+				"given": "Andris"
+			},
+			{
+				"family": "Puska",
+				"given": "Martti J."
+			},
+			{
+				"family": "Nieminen",
+				"given": "Risto M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					5,
+					13
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 960,
+		"type": "article-journal",
+		"title": "Density, structure, and dynamics of water: The effect of van der Waals interactions",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "024516",
+		"volume": "134",
+		"issue": "2",
+		"source": "scitation.aip.org",
+		"abstract": "It is known that ab initio molecular dynamics (AIMD) simulations of liquid water at ambient conditions, based on the generalized gradient approximation (GGA) to density functional theory (DFT), with commonly used functionals fail to produce structural and diffusive properties in reasonable agreement with experiment. This is true for canonical, constant temperature simulations where the density of the liquid is fixed to the experimental density. The equilibrium density, at ambient conditions, of DFT water has recently been shown by Schmidt et al. [J. Phys. Chem. B, 113, 11959 (2009)] to be underestimated by different GGA functionals for exchange and correlation, and corrected by the addition of interatomic pair potentials to describe van der Waals (vdW) interactions. In this contribution we present a DFT-AIMD study of liquid water using several GGA functionals as well as the van der Waals density functional (vdW-DF) of Dion et al. [Phys. Rev. Lett. 92, 246401 (2004)]. As expected, we find that the density of water is grossly underestimated by GGA functionals. When a vdW-DF is used, the density improves drastically and the experimental diffusivity is reproduced without the need of thermal corrections. We analyze the origin of the density differences between all the functionals. We show that the vdW-DF increases the population of non-H-bonded interstitial sites, at distances between the first and second coordination shells. However, it excessively weakens the H-bond network, collapsing the second coordination shell. This structural problem is partially associated to the choice of GGA exchange in the vdW-DF. We show that a different choice for the exchange functional is enough to achieve an overall improvement both in structure and diffusivity.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/134/2/10.1063/1.3521268",
+		"DOI": "10.1063/1.3521268",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: wang_density_2011",
+		"shortTitle": "Density, structure, and dynamics of water",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Jue"
+			},
+			{
+				"family": "Román-Pérez",
+				"given": "G."
+			},
+			{
+				"family": "Soler",
+				"given": "Jose M."
+			},
+			{
+				"family": "Artacho",
+				"given": "Emilio"
+			},
+			{
+				"family": "Fernández-Serra",
+				"given": "M.-V."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					1,
+					14
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 962,
+		"type": "article-journal",
+		"title": "A density-functional study on π-aromatic interaction: Benzene dimer and naphthalene dimer",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "104307",
+		"volume": "123",
+		"issue": "10",
+		"source": "scitation.aip.org",
+		"abstract": "The long-range correction (LC) scheme of density-functional theory(DFT) was applied to the calculation of the π -aromatic interaction of the benzene dimer and naphthalene dimer. In previous calculations, it was confirmed that the LC scheme [Iikura et al., J. Chem. Phys.115, 3540 (2001)] gives very accurate potential- energysurfaces (PESs) of small van der Waals (vdW) complexes by combining with the Anderson-Langreth-Lundqvist (ALL) vdW correlation functional [Andersson et al., Phys. Rev. Lett.76, 102 (1996)] ( LC - DFT + ALL ) . In this study, LC - DFT + ALL method was examined by calculating a wide range of PES of the benzene dimer including parallel, T-shaped, and parallel-displaced configurations. As a result, we succeeded in reproducing very accurate PES within the energy deviance of less than 1 kcal ∕ mol in comparison with the results of high-level ab initio molecular-orbital methods at all reference points on the PES. It was also found that LC - DFT + ALL gave accurate results independent of exchange-correlation functional used, in contrast with the strong functional dependencies of conventional pure functionals. This indicates that both exchange repulsion and van der Waals attractive interactions should be correctly incorporated in conventional pure functionals in order to calculate accurate π -aromatic interactions. We also found that LC - DFT + ALL method has a low basis-set dependency in the calculations of π -aromatic interactions. The present scheme was also successfully applied to the π , … , π stacking interactions of naphthalene dimer. This may suggest that LC - DFT + ALL method would be a powerful tool in the calculations of large molecules such as biomolecules.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/123/10/10.1063/1.2011396",
+		"DOI": "10.1063/1.2011396",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: sato_densityfunctional_2005",
+		"shortTitle": "A density-functional study on π-aromatic interaction",
+		"author": [
+			{
+				"family": "Sato",
+				"given": "Takeshi"
+			},
+			{
+				"family": "Tsuneda",
+				"given": "Takao"
+			},
+			{
+				"family": "Hirao",
+				"given": "Kimihiko"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005",
+					9,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 964,
+		"type": "article-journal",
+		"title": "Comparative van der Waals density-functional study of graphene on metal surfaces",
+		"container-title": "Physical Review B",
+		"page": "153412",
+		"volume": "82",
+		"issue": "15",
+		"source": "APS",
+		"abstract": "We present a comparative van der Waals density-functional (vdW-DF) study of graphene adsorbed on (111) surfaces of Ni, Cu, Pd, Ag, Au, and Pt, using the second version of vdW-DF (vdW-DF2) of Lee et al. [Phys. Rev. B 82, 081101(R) (2010)] and the exchange functional (C09) developed by Cooper [Phys. Rev. B 81, 161104(R) (2010)]. We show that the use of the vdW-DF2 correlation together with the C09 exchange yields the most satisfactory results: Adsorption geometries of graphene are in good agreement with available experiment data, and the electronic structure of graphene varies depending on the nature of the substrate. Band-gap opening at the K point observed on the Ni(111) surface is reproduced reasonably well.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.82.153412",
+		"DOI": "10.1103/PhysRevB.82.153412",
+		"note": "bibtex: hamada_comparative_2010",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Hamada",
+				"given": "Ikutaro"
+			},
+			{
+				"family": "Otani",
+				"given": "Minoru"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					10,
+					26
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 967,
+		"type": "article-journal",
+		"title": "Density functional method including weak interactions: Dispersion coefficients based on the local response approximation",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "224104",
+		"volume": "131",
+		"issue": "22",
+		"source": "scitation.aip.org",
+		"abstract": "A new method to calculate the atom-atom dispersion coefficients in a molecule is proposed for the use in density functional theory with dispersion (DFT-D) correction. The method is based on the local response approximation due to Dobson and Dinte [Phys. Rev. Lett.76, 1780 (1996)], with modified dielectric model recently proposed by Vydrov and van Voorhis [J. Chem. Phys.130, 104105 (2009)]. The local response model is used to calculate the distributed multipole polarizabilities of atoms in a molecule, from which the dispersion coefficients are obtained by an explicit frequency integral of the Casimir–Polder type. Thus obtained atomic polarizabilities are also used in the damping function for the short-range singularity. Unlike empirical DFT-D methods, the local response dispersion (LRD) method is able to calculate the dispersion energy from the ground-state electron density only. It is applicable to any geometry, free from physical constants such as van der Waals radii or atomic polarizabilities, and computationally very efficient. The LRD method combined with the long-range corrected DFT functional (LC-BOP) is applied to calculations of S22 weakly bound complex set [Phys. Chem. Chem. Phys.8, 1985 (2006)]. Binding energies obtained by the LC-BOP + LRD agree remarkably well with ab initio references.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/131/22/10.1063/1.3269802",
+		"DOI": "10.1063/1.3269802",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: sato_density_2009",
+		"shortTitle": "Density functional method including weak interactions",
+		"author": [
+			{
+				"family": "Sato",
+				"given": "Takeshi"
+			},
+			{
+				"family": "Nakai",
+				"given": "Hiromi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					12,
+					14
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 969,
+		"type": "article-journal",
+		"title": "Maximally localized Wannier functions: Theory and applications",
+		"container-title": "Reviews of Modern Physics",
+		"page": "1419-1475",
+		"volume": "84",
+		"issue": "4",
+		"source": "APS",
+		"abstract": "The electronic ground state of a periodic system is usually described in terms of extended Bloch orbitals, but an alternative representation in terms of localized “Wannier functions” was introduced by Gregory Wannier in 1937. The connection between the Bloch and Wannier representations is realized by families of transformations in a continuous space of unitary matrices, carrying a large degree of arbitrariness. Since 1997, methods have been developed that allow one to iteratively transform the extended Bloch orbitals of a first-principles calculation into a unique set of maximally localized Wannier functions, accomplishing the solid-state equivalent of constructing localized molecular orbitals, or “Boys orbitals” as previously known from the chemistry literature. These developments are reviewed here, and a survey of the applications of these methods is presented. This latter includes a description of their use in analyzing the nature of chemical bonding, or as a local probe of phenomena related to electric polarization and orbital magnetization. Wannier interpolation schemes are also reviewed, by which quantities computed on a coarse reciprocal-space mesh can be used to interpolate onto much finer meshes at low cost, and applications in which Wannier functions are used as efficient basis functions are discussed. Finally the construction and use of Wannier functions outside the context of electronic-structure theory is presented, for cases that include phonon excitations, photonic crystals, and cold-atom optical lattices.",
+		"URL": "http://link.aps.org/doi/10.1103/RevModPhys.84.1419",
+		"DOI": "10.1103/RevModPhys.84.1419",
+		"note": "bibtex: marzari_maximally_2012",
+		"shortTitle": "Maximally localized Wannier functions",
+		"journalAbbreviation": "Rev. Mod. Phys.",
+		"author": [
+			{
+				"family": "Marzari",
+				"given": "Nicola"
+			},
+			{
+				"family": "Mostofi",
+				"given": "Arash A."
+			},
+			{
+				"family": "Yates",
+				"given": "Jonathan R."
+			},
+			{
+				"family": "Souza",
+				"given": "Ivo"
+			},
+			{
+				"family": "Vanderbilt",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					10,
+					10
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 970,
+		"type": "article-journal",
+		"title": "Application of van der Waals Density Functional to an Extended System: Adsorption of Benzene and Naphthalene on Graphite",
+		"container-title": "Physical Review Letters",
+		"page": "146107",
+		"volume": "96",
+		"issue": "14",
+		"source": "APS",
+		"abstract": "It is shown that it is now possible to include van der Waals (vdW) interactions via a nonempirical implementation of density functional (DF) theory to describe the correlation energy in electronic structure calculations on infinite systems of no particular symmetry. The vdW-DF theory [Phys. Rev. Lett. 92, 246401 (2004)] is applied to the adsorption of benzene and naphthalene on an infinite sheet of graphite, as well as the binding between two graphite sheets. A comparison with recent thermal-desorption data [Phys. Rev. B 69, 155406 (2004)] shows great promise for the vdW-DF method.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.96.146107",
+		"DOI": "10.1103/PhysRevLett.96.146107",
+		"note": "bibtex: chakarova-kack_application_2006",
+		"shortTitle": "Application of van der Waals Density Functional to an Extended System",
+		"journalAbbreviation": "Phys. Rev. Lett.",
+		"author": [
+			{
+				"family": "Chakarova-Käck",
+				"given": "Svetla D."
+			},
+			{
+				"family": "Schröder",
+				"given": "Elsebeth"
+			},
+			{
+				"family": "Lundqvist",
+				"given": "Bengt I."
+			},
+			{
+				"family": "Langreth",
+				"given": "David C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					4,
+					14
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 976,
+		"type": "article-journal",
+		"title": "Dispersion interactions in density-functional theory",
+		"container-title": "Journal of Physical Organic Chemistry",
+		"page": "1127-1135",
+		"volume": "22",
+		"issue": "12",
+		"source": "Wiley Online Library",
+		"abstract": "Density-functional theory (DFT) allows for the calculation of many chemical properties with relative ease, thus making it extremely useful for the physical organic chemistry community to understand and focus on various experiments. However, density-functional techniques have their limitations, including the ability to satisfactorily describe dispersion interactions. Given the ubiquitous nature of dispersion in chemical and biological systems, this is not a trivial matter. Recent advances in the development of DFT methods can treat dispersion. These include dispersion-corrected DFT (using explicit, attractive dispersion terms), parameterized functionals, and dispersion-correcting potentials, all of which can dramatically improve performance for dispersion-bound species. In this perspective, we highlight the achievements made in modeling dispersion using DFT. We hope that this will provide valuable insight to both computational chemists and experimentalists, who aim to study physical processes driven by dispersion interactions. Copyright © 2009 John Wiley & Sons, Ltd.",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1002/poc.1606/abstract",
+		"DOI": "10.1002/poc.1606",
+		"ISSN": "1099-1395",
+		"note": "bibtex: johnson_dispersion_2009",
+		"journalAbbreviation": "J. Phys. Org. Chem.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Johnson",
+				"given": "Erin R."
+			},
+			{
+				"family": "Mackie",
+				"given": "Iain D."
+			},
+			{
+				"family": "DiLabio",
+				"given": "Gino A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					12,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 978,
+		"type": "article-journal",
+		"title": "Density-functional approaches to noncovalent interactions: A comparison of dispersion corrections (DFT-D), exchange-hole dipole moment (XDM) theory, and specialized functionals",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "084107",
+		"volume": "134",
+		"issue": "8",
+		"source": "scitation.aip.org",
+		"abstract": "A systematic study of techniques for treating noncovalent interactions within the computationally efficient density functional theory(DFT) framework is presented through comparison to benchmark-quality evaluations of binding strength compiled for molecular complexes of diverse size and nature. In particular, the efficacy of functionals deliberately crafted to encompass long-range forces, a posteriori DFT+dispersion corrections (DFT-D2 and DFT-D3), and exchange-hole dipole moment (XDM) theory is assessed against a large collection (469 energy points) of reference interaction energies at the CCSD(T) level of theory extrapolated to the estimated complete basis set limit. The established S22 [revised in J. Chem. Phys.132, 144104 (2010)] and JSCH test sets of minimum-energy structures, as well as collections of dispersion-bound (NBC10) and hydrogen-bonded (HBC6) dissociation curves and a pairwise decomposition of a protein–ligand reaction site (HSG), comprise the chemical systems for this work. From evaluations of accuracy, consistency, and efficiency for PBE-D, BP86-D, B97-D, PBE0-D, B3LYP-D, B970-D, M05-2X, M06-2X, ωB97X-D, B2PLYP-D, XYG3, and B3LYP-XDM methodologies, it is concluded that distinct, often contrasting, groups of these elicit the best performance within the accessible double-ζ or robust triple-ζ basis set regimes and among hydrogen-bonded or dispersion-dominated complexes. For overall results, M05-2X, B97-D3, and B970-D2 yield superior values in conjunction with aug-cc-pVDZ, for a mean absolute deviation of 0.41 – 0.49 kcal/mol, and B3LYP-D3, B97-D3, ωB97X-D, and B2PLYP-D3 dominate with aug-cc-pVTZ, affording, together with XYG3/6-311+G(3df,2p), a mean absolute deviation of 0.33 – 0.38 kcal/mol.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/134/8/10.1063/1.3545971",
+		"DOI": "10.1063/1.3545971",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: burns_densityfunctional_2011",
+		"shortTitle": "Density-functional approaches to noncovalent interactions",
+		"author": [
+			{
+				"family": "Burns",
+				"given": "Lori A."
+			},
+			{
+				"family": "Mayagoitia",
+				"given": "Álvaro Vázquez-"
+			},
+			{
+				"family": "Sumpter",
+				"given": "Bobby G."
+			},
+			{
+				"family": "Sherrill",
+				"given": "C. David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					2,
+					28
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 981,
+		"type": "article-journal",
+		"title": "Random-phase approximation and its applications in computational chemistry and materials science",
+		"container-title": "Journal of Materials Science",
+		"page": "7447-7471",
+		"volume": "47",
+		"issue": "21",
+		"source": "link.springer.com",
+		"abstract": "The random-phase approximation (RPA) as an approach for computing the electronic correlation energy is reviewed. After a brief account of its basic concept and historical development, the paper is devoted to the theoretical formulations of RPA, and its applications to realistic systems. With several illustrating applications, we discuss the implications of RPA for computational chemistry and materials science. The computational cost of RPA is also addressed which is critical for its widespread use in future applications. In addition, current correction schemes going beyond RPA and directions of further development will be discussed.",
+		"URL": "http://link.springer.com/article/10.1007/s10853-012-6570-4",
+		"DOI": "10.1007/s10853-012-6570-4",
+		"ISSN": "0022-2461, 1573-4803",
+		"note": "bibtex: ren_randomphase_2012",
+		"journalAbbreviation": "J Mater Sci",
+		"language": "en",
+		"author": [
+			{
+				"family": "Ren",
+				"given": "Xinguo"
+			},
+			{
+				"family": "Rinke",
+				"given": "Patrick"
+			},
+			{
+				"family": "Joas",
+				"given": "Christian"
+			},
+			{
+				"family": "Scheffler",
+				"given": "Matthias"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					6,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 983,
+		"type": "article-journal",
+		"title": "Adiabatic-Connection Fluctuation-Dissipation Density-Functional Theory Based on Range Separation",
+		"container-title": "Physical Review Letters",
+		"page": "096404",
+		"volume": "102",
+		"issue": "9",
+		"source": "APS",
+		"abstract": "An adiabatic-connection fluctuation-dissipation theorem approach based on a range separation of electron-electron interactions is proposed. It involves a rigorous combination of short-range density-functional and long-range random phase approximations. This method corrects several shortcomings of the standard random phase approximation and it is particularly well suited for describing weakly bound van der Waals systems, as demonstrated on the challenging cases of the dimers Be2 and Ne2.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.102.096404",
+		"DOI": "10.1103/PhysRevLett.102.096404",
+		"note": "bibtex: toulouse_adiabaticconnection_2009",
+		"journalAbbreviation": "Phys. Rev. Lett.",
+		"author": [
+			{
+				"family": "Toulouse",
+				"given": "Julien"
+			},
+			{
+				"family": "Gerber",
+				"given": "Iann C."
+			},
+			{
+				"family": "Jansen",
+				"given": "Georg"
+			},
+			{
+				"family": "Savin",
+				"given": "Andreas"
+			},
+			{
+				"family": "Ángyán",
+				"given": "János G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					3,
+					3
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 986,
+		"type": "article-journal",
+		"title": "Orbital-dependent density functionals: Theory and applications",
+		"container-title": "Reviews of Modern Physics",
+		"page": "3-60",
+		"volume": "80",
+		"issue": "1",
+		"source": "APS",
+		"abstract": "This review provides a perspective on the use of orbital-dependent functionals, which is currently considered one of the most promising avenues in modern density-functional theory. The focus here is on four major themes: the motivation for orbital-dependent functionals in terms of limitations of semilocal functionals; the optimized effective potential as a rigorous approach to incorporating orbital-dependent functionals within the Kohn-Sham framework; the rationale behind and advantages and limitations of four popular classes of orbital-dependent functionals; and the use of orbital-dependent functionals for predicting excited-state properties. For each of these issues, both formal and practical aspects are assessed.",
+		"URL": "http://link.aps.org/doi/10.1103/RevModPhys.80.3",
+		"DOI": "10.1103/RevModPhys.80.3",
+		"note": "bibtex: kummel_orbitaldependent_2008",
+		"shortTitle": "Orbital-dependent density functionals",
+		"journalAbbreviation": "Rev. Mod. Phys.",
+		"author": [
+			{
+				"family": "Kümmel",
+				"given": "Stephan"
+			},
+			{
+				"family": "Kronik",
+				"given": "Leeor"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					1,
+					2
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 988,
+		"type": "article-journal",
+		"title": "Dispersive and Covalent Interactions between Graphene and Metal Surfaces from the Random Phase Approximation",
+		"container-title": "Physical Review Letters",
+		"page": "156401",
+		"volume": "107",
+		"issue": "15",
+		"source": "APS",
+		"abstract": "We calculate the potential energy surfaces for graphene adsorbed on Cu(111), Ni(111), and Co(0001) using density functional theory and the random phase approximation (RPA). For these adsorption systems covalent and dispersive interactions are equally important and while commonly used approximations for exchange-correlation functionals give inadequate descriptions of either van der Waals or chemical bonds, RPA accounts accurately for both. It is found that the adsorption is a delicate competition between a weak chemisorption minimum close to the surface and a physisorption minimum further from the surface.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.107.156401",
+		"DOI": "10.1103/PhysRevLett.107.156401",
+		"note": "bibtex: olsen_dispersive_2011",
+		"journalAbbreviation": "Phys. Rev. Lett.",
+		"author": [
+			{
+				"family": "Olsen",
+				"given": "Thomas"
+			},
+			{
+				"family": "Yan",
+				"given": "Jun"
+			},
+			{
+				"family": "Mortensen",
+				"given": "Jens J."
+			},
+			{
+				"family": "Thygesen",
+				"given": "Kristian S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					10,
+					3
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 990,
+		"type": "article-journal",
+		"title": "Beyond the Random-Phase Approximation for the Electron Correlation Energy: The Importance of Single Excitations",
+		"container-title": "Physical Review Letters",
+		"page": "153003",
+		"volume": "106",
+		"issue": "15",
+		"source": "APS",
+		"abstract": "The random-phase approximation (RPA) for the electron correlation energy, combined with the exact-exchange (EX) energy, represents the state-of-the-art exchange-correlation functional within density-functional theory. However, the standard RPA practice—evaluating both the EX and the RPA correlation energies using Kohn-Sham (KS) orbitals from local or semilocal exchange-correlation functionals—leads to a systematic underbinding of molecules and solids. Here we demonstrate that this behavior can be corrected by adding a “single excitation” contribution, so far not included in the standard RPA scheme. A similar improvement can also be achieved by replacing the non-self-consistent EX total energy by the corresponding self-consistent Hartree-Fock total energy, while retaining the RPA correlation energy evaluated using KS orbitals. Both schemes achieve chemical accuracy for a standard benchmark set of noncovalent intermolecular interactions.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.106.153003",
+		"DOI": "10.1103/PhysRevLett.106.153003",
+		"note": "bibtex: ren_randomphase_2011a",
+		"shortTitle": "Beyond the Random-Phase Approximation for the Electron Correlation Energy",
+		"journalAbbreviation": "Phys. Rev. Lett.",
+		"author": [
+			{
+				"family": "Ren",
+				"given": "Xinguo"
+			},
+			{
+				"family": "Tkatchenko",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Rinke",
+				"given": "Patrick"
+			},
+			{
+				"family": "Scheffler",
+				"given": "Matthias"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					4,
+					12
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 992,
+		"type": "article-journal",
+		"title": "Cohesive energy curves for noble gas solids calculated by adiabatic connection fluctuation-dissipation theory",
+		"container-title": "Physical Review B",
+		"page": "045136",
+		"volume": "77",
+		"issue": "4",
+		"source": "APS",
+		"abstract": "We present first-principles calculations for the fcc noble gas solids Ne, Ar, and Kr applying the adiabatic connection fluctuation-dissipation theorem (ACFDT) to evaluate the correlation energy. The ACFDT allows us to describe long-range correlation effects including London dispersion or van der Waals interaction on top of conventional density functional theory calculations. Even within the random phase approximation, the typical 1/V2 volume dependence for the cohesive energy of the noble gas solids is reproduced, and equilibrium cohesive energies and lattice constants are improved compared to density functional theory calculations. Furthermore, we present atomization energies for H2, N2, and O2 within the same post-density-functional-theory framework, finding an excellent agreement with previously published data.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.77.045136",
+		"DOI": "10.1103/PhysRevB.77.045136",
+		"note": "bibtex: harl_cohesive_2008",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Harl",
+				"given": "Judith"
+			},
+			{
+				"family": "Kresse",
+				"given": "Georg"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					1,
+					31
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 995,
+		"type": "article-journal",
+		"title": "Cohesive Properties and Asymptotics of the Dispersion Interaction in Graphite by the Random Phase Approximation",
+		"container-title": "Physical Review Letters",
+		"page": "196401",
+		"volume": "105",
+		"issue": "19",
+		"source": "APS",
+		"abstract": "The structural properties of graphite, such as the interlayer equilibrium distance, the elastic constant, and the net layer binding energy, are obtained using the adiabatic-connection fluctuation-dissipation theorem in the random phase approximation. Excellent agreement is found with the available experimental data; however, our computed binding energy of 48 meV per atom is somewhat smaller than the one obtained by quantum Monte Carlo methods. The asymptotic behavior of the interlayer dispersion interaction, previously derived from analytic approximations, is explicitly demonstrated to follow a d−3 behavior at very large distances.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.105.196401",
+		"DOI": "10.1103/PhysRevLett.105.196401",
+		"note": "bibtex: lebegue_cohesive_2010",
+		"journalAbbreviation": "Phys. Rev. Lett.",
+		"author": [
+			{
+				"family": "Lebègue",
+				"given": "S."
+			},
+			{
+				"family": "Harl",
+				"given": "J."
+			},
+			{
+				"family": "Gould",
+				"given": "Tim"
+			},
+			{
+				"family": "Ángyán",
+				"given": "J. G."
+			},
+			{
+				"family": "Kresse",
+				"given": "G."
+			},
+			{
+				"family": "Dobson",
+				"given": "J. F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					11,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 1003,
+		"type": "article-journal",
+		"title": "Molecular tests of the random phase approximation to the exchange-correlation energy functional",
+		"container-title": "Physical Review B",
+		"page": "195120",
+		"volume": "64",
+		"issue": "19",
+		"source": "APS",
+		"abstract": "The exchange-correlation energy functional within the random phase approximation (RPA) is recast into an explicitly orbital-dependent form. A method to evaluate the functional in finite basis sets is introduced. The basis set dependence of the RPA correlation energy is analyzed. Extrapolation using large, correlation-consistent basis sets is essential for accurate estimates of RPA correlation energies. The potential energy curve of N2 is discussed. The RPA is found to recover most of the strong static correlation at large bond distance. Atomization energies of main-group molecules are rather uniformly underestimated by the RPA. The method performs better than generalized-gradient-type approximations (GGA’s) only for some electron-rich systems. However, the RPA functional is free of error cancellation between exchange and correlation, and behaves qualitatively correct in the high-density limit, as is demonstrated by the coupling strength decomposition of the atomization energy of F2. The GGA short-range correlation correction to the RPA by Yan, Perdew, and Kurth [Phys. Rev. B 61, 16 430 (2000)] does not seem to improve atomization energies consistently.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.64.195120",
+		"DOI": "10.1103/PhysRevB.64.195120",
+		"note": "bibtex: furche_molecular_2001",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Furche",
+				"given": "Filipp"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					10,
+					19
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 1005,
+		"type": "article-journal",
+		"title": "The ground state correlation energy of the random phase approximation from a ring coupled cluster doubles approach",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "231101",
+		"volume": "129",
+		"issue": "23",
+		"source": "scitation.aip.org",
+		"abstract": "We present an analytic proof demonstrating the equivalence between the random phase approximation (RPA) to the ground statecorrelationenergy and a ring-diagram simplification of the coupled cluster doubles (CCD) equations. In the CCD framework, the RPA equations can be solved in O ( N 4 ) computational effort, where N is proportional to the number of basis functions.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/129/23/10.1063/1.3043729",
+		"DOI": "10.1063/1.3043729",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: scuseria_ground_2008",
+		"author": [
+			{
+				"family": "Scuseria",
+				"given": "Gustavo E."
+			},
+			{
+				"family": "Henderson",
+				"given": "Thomas M."
+			},
+			{
+				"family": "Sorensen",
+				"given": "Danny C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					12,
+					21
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 1007,
+		"type": "article-journal",
+		"title": "Ab initio Calculation of van der Waals Bonded Molecular Crystals",
+		"container-title": "Physical Review Letters",
+		"page": "206411",
+		"volume": "102",
+		"issue": "20",
+		"source": "APS",
+		"abstract": "Intermolecular interactions in the van der Waals bonded benzene crystal are studied from first principles, by combining exact exchange energies with correlation energies defined by the adiabatic connection fluctuation-dissipation theorem, within the random phase approximation. Correlation energies are evaluated using an iterative procedure to compute the eigenvalues of dielectric matrices, which eliminates the computation of unoccupied electronic states. Our results for the structural and binding properties of solid benzene are in very good agreement with experimental results and show that the framework adopted here is a very promising one to investigate molecular crystals and other condensed systems bound by dispersion forces.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.102.206411",
+		"DOI": "10.1103/PhysRevLett.102.206411",
+		"note": "bibtex: lu_ab_2009",
+		"journalAbbreviation": "Phys. Rev. Lett.",
+		"author": [
+			{
+				"family": "Lu",
+				"given": "Deyu"
+			},
+			{
+				"family": "Li",
+				"given": "Yan"
+			},
+			{
+				"family": "Rocca",
+				"given": "Dario"
+			},
+			{
+				"family": "Galli",
+				"given": "Giulia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					5,
+					22
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 1008,
+		"type": "article-journal",
+		"title": "Graphene on metals: A van der Waals density functional study",
+		"container-title": "Physical Review B",
+		"page": "081408",
+		"volume": "81",
+		"issue": "8",
+		"source": "APS",
+		"abstract": "We use density functional theory (DFT) with a recently developed van der Waals density functional (vdW-DF) to study the adsorption of graphene on Co, Ni, Pd, Ag, Au, Cu, Pt, and Al(111) surfaces. In contrast to the local-density approximation (LDA) which predicts relatively strong binding for Ni,Co, and Pd, the vdW-DF predicts weak binding for all metals and metal-graphene distances in the range 3.40–3.72 Å. At these distances the graphene band structure as calculated with DFT and the many-body G0W0 method is basically unaffected by the substrate, in particular there is no opening of a band gap at the K point.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.81.081408",
+		"DOI": "10.1103/PhysRevB.81.081408",
+		"note": "bibtex: vanin_graphene_2010",
+		"shortTitle": "Graphene on metals",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Vanin",
+				"given": "M."
+			},
+			{
+				"family": "Mortensen",
+				"given": "J. J."
+			},
+			{
+				"family": "Kelkkanen",
+				"given": "A. K."
+			},
+			{
+				"family": "Garcia-Lastra",
+				"given": "J. M."
+			},
+			{
+				"family": "Thygesen",
+				"given": "K. S."
+			},
+			{
+				"family": "Jacobsen",
+				"given": "K. W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					2,
+					23
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 1009,
+		"type": "article-journal",
+		"title": "Range-separated density-functional theory with random phase approximation applied to noncovalent intermolecular interactions",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "244108",
+		"volume": "132",
+		"issue": "24",
+		"source": "scitation.aip.org",
+		"abstract": "Range-separated methods combining a short-range density functional with long-range random phase approximations (RPAs) with or without exchange response kernel are tested on rare-gas dimers and the S22 benchmark set of weakly interacting complexes of Jurečka et al. [Phys. Chem. Chem. Phys.8, 1985 (2006)]. The methods are also compared to full-range RPA approaches. Both range separation and inclusion of the Hartree–Fock exchange kernel largely improve the accuracy of intermolecular interaction energies. The best results are obtained with the method called RSH + RPAx , which yields interaction energies for the S22 set with an estimated mean absolute error of about 0.5–0.6 kcal/mol, corresponding to a mean absolute percentage error of about 7%–9% depending on the reference interaction energies used. In particular, the RSH + RPAx method is found to be overall more accurate than the range-separated method based on long-range second-order Møller–Plesset (MP2) perturbation theory ( RSH + MP 2 ) .",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/132/24/10.1063/1.3431616",
+		"DOI": "10.1063/1.3431616",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: zhu_rangeseparated_2010",
+		"author": [
+			{
+				"family": "Zhu",
+				"given": "Wuming"
+			},
+			{
+				"family": "Toulouse",
+				"given": "Julien"
+			},
+			{
+				"family": "Savin",
+				"given": "Andreas"
+			},
+			{
+				"family": "Ángyán",
+				"given": "János G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					6,
+					28
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 1013,
+		"type": "article-journal",
+		"title": "On the accuracy of density-functional theory exchange-correlation functionals for H bonds in small water clusters. II. The water hexamer and van der Waals interactions",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "194111",
+		"volume": "129",
+		"issue": "19",
+		"source": "scitation.aip.org",
+		"abstract": "Second order Møller–Plesset perturbation theory at the complete basis set limit and diffusion quantum Monte Carlo are used to examine several low energy isomers of the water hexamer. Both approaches predict the so-called prism to be the lowest energy isomer, followed by cage, book, and cyclic isomers. The energies of the four isomers are very similar, all being within 10 – 15 meV / H 2 O . These reference data are then used to evaluate the performance of several density-functional theory exchange-correlation (xc) functionals. A subset of the xc functionals tested for smaller water clusters [I. Santra et al., J. Chem. Phys.127, 184104 (2007)] has been considered. While certain functionals do a reasonable job at predicting the absolute dissociation energies of the various isomers (coming within 10 – 20 meV / H 2 O ), none predict the correct energetic ordering of the four isomers nor does any predict the correct low total energy isomer. All xc functionals tested either predict the book or cyclic isomers to have the largest dissociation energies. A many-body decomposition of the total interactionenergies within the hexamers leads to the conclusion that the failure lies in the poor description of van der Waals (dispersion) forces in the xc functionals considered. It is shown that the addition of an empirical pairwise (attractive) C 6 R − 6 correction to certain functionals allows for an improved energetic ordering of the hexamers. The relevance of these results to density-functional simulations of liquid water is also briefly discussed.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/129/19/10.1063/1.3012573",
+		"DOI": "10.1063/1.3012573",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: santra_accuracy_2008",
+		"author": [
+			{
+				"family": "Santra",
+				"given": "Biswajit"
+			},
+			{
+				"family": "Michaelides",
+				"given": "Angelos"
+			},
+			{
+				"family": "Fuchs",
+				"given": "Martin"
+			},
+			{
+				"family": "Tkatchenko",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Filippi",
+				"given": "Claudia"
+			},
+			{
+				"family": "Scheffler",
+				"given": "Matthias"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					11,
+					21
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 1015,
+		"type": "article-journal",
+		"title": "Binding energies in benzene dimers: Nonlocal density functional calculations",
+		"container-title": "The Journal of Chemical Physics",
+		"page": "164105",
+		"volume": "124",
+		"issue": "16",
+		"source": "scitation.aip.org",
+		"abstract": "The interaction energy and minimum energy structure for different geometries of the benzene dimer have been calculated using the recently developed nonlocal correlationenergy functional for calculating dispersion interactions. The comparison of this straightforward and relatively quick density functional based method with recent calculations provides a promising first step to elucidate how the former, quicker method might be exploited in larger more complicated biological, organic, aromatic, and even infinite systems such as molecules physisorbed on surfaces and van der Waals crystals.",
+		"URL": "http://scitation.aip.org/content/aip/journal/jcp/124/16/10.1063/1.2189229",
+		"DOI": "10.1063/1.2189229",
+		"ISSN": "0021-9606, 1089-7690",
+		"note": "bibtex: puzder_binding_2006",
+		"shortTitle": "Binding energies in benzene dimers",
+		"author": [
+			{
+				"family": "Puzder",
+				"given": "Aaron"
+			},
+			{
+				"family": "Dion",
+				"given": "Maxime"
+			},
+			{
+				"family": "Langreth",
+				"given": "David C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					4,
+					28
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 1019,
+		"type": "article-journal",
+		"title": "Graphene on Ni(111): Strong interaction and weak adsorption",
+		"container-title": "Physical Review B",
+		"page": "201401",
+		"volume": "84",
+		"issue": "20",
+		"source": "APS",
+		"abstract": "The adsorption of graphene on Ni(111) has been investigated on the basis of the adiabatic-connection fluctuation-dissipation theorem in the random phase approximation (RPA). Although we find a significant hybridization between the graphene π orbitals and Ni dz2 states at a binding distance of 2.17 Å, the adsorption energy is still in the range of a typical physisorption (67 meV per carbon). An important contribution to the energy is related to a decrease in the exchange energy resulting from the adsorption-induced lower symmetry in the graphene layer. The energetics can be well reproduced using the computationally significantly cheaper van der Waals density functional theory with an appropriately chosen exchange-correlation functional.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevB.84.201401",
+		"DOI": "10.1103/PhysRevB.84.201401",
+		"note": "bibtex: mittendorfer_graphene_2011",
+		"shortTitle": "Graphene on Ni(111)",
+		"journalAbbreviation": "Phys. Rev. B",
+		"author": [
+			{
+				"family": "Mittendorfer",
+				"given": "F."
+			},
+			{
+				"family": "Garhofer",
+				"given": "A."
+			},
+			{
+				"family": "Redinger",
+				"given": "J."
+			},
+			{
+				"family": "Klimeš",
+				"given": "J."
+			},
+			{
+				"family": "Harl",
+				"given": "J."
+			},
+			{
+				"family": "Kresse",
+				"given": "G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					11,
+					21
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 1021,
+		"type": "article-journal",
+		"title": "Structure and Energetics of Azobenzene on Ag(111): Benchmarking Semiempirical Dispersion Correction Approaches",
+		"container-title": "Physical Review Letters",
+		"page": "036102",
+		"volume": "104",
+		"issue": "3",
+		"source": "APS",
+		"abstract": "We employ normal-incidence x-ray standing wave and temperature programed desorption spectroscopy to derive the adsorption geometry and energetics of the prototypical molecular switch azobenzene at Ag(111). This allows us to assess the accuracy of semiempirical correction schemes as a computationally efficient means to overcome the deficiency of semilocal density-functional theory with respect to long-range van der Waals (vdW) interactions. The obtained agreement underscores the significant improvement provided by the account of vdW interactions, with remaining differences mainly attributed to the neglect of electronic screening at the metallic surface.",
+		"URL": "http://link.aps.org/doi/10.1103/PhysRevLett.104.036102",
+		"DOI": "10.1103/PhysRevLett.104.036102",
+		"note": "bibtex: mercurio_structure_2010",
+		"shortTitle": "Structure and Energetics of Azobenzene on Ag(111)",
+		"journalAbbreviation": "Phys. Rev. Lett.",
+		"author": [
+			{
+				"family": "Mercurio",
+				"given": "G."
+			},
+			{
+				"family": "McNellis",
+				"given": "E. R."
+			},
+			{
+				"family": "Martin",
+				"given": "I."
+			},
+			{
+				"family": "Hagen",
+				"given": "S."
+			},
+			{
+				"family": "Leyssner",
+				"given": "F."
+			},
+			{
+				"family": "Soubatch",
+				"given": "S."
+			},
+			{
+				"family": "Meyer",
+				"given": "J."
+			},
+			{
+				"family": "Wolf",
+				"given": "M."
+			},
+			{
+				"family": "Tegeder",
+				"given": "P."
+			},
+			{
+				"family": "Tautz",
+				"given": "F. S."
+			},
+			{
+				"family": "Reuter",
+				"given": "K."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010",
+					1,
+					19
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 1026,
+		"type": "article-journal",
+		"title": "Benchmark Assessment of the Accuracy of Several van der Waals Density Functionals",
+		"container-title": "Journal of Chemical Theory and Computation",
+		"page": "1929-1934",
+		"volume": "8",
+		"issue": "6",
+		"source": "ACS Publications",
+		"abstract": "The nonlocal correlation functional VV10, developed recently in our group, describes the whole range of dispersion interactions in a seamless and general fashion using only the electron density as input. The VV10 functional has a simple analytic form that can be adjusted for pairing with the exchange functional of choice. In this paper, we use several benchmark data sets of weakly interacting molecular complexes to test the accuracy of two VV10 variants, differing in their treatment of the exchange component. For the sake of comparison, several other density functionals suitable for noncovalent interactions were also tested against the same benchmarks. We find that the ?default?? version of VV10 with semilocal exchange gives very accurate geometries and binding energies for most van der Waals complexes but systematically overbinds hydrogen-bonded complexes. The alternative variant of VV10 with long-range corrected hybrid exchange performs exceptionally well for all types of weak bonding sampled in this study, including hydrogen bonds.",
+		"URL": "http://dx.doi.org/10.1021/ct300081y",
+		"DOI": "10.1021/ct300081y",
+		"ISSN": "1549-9618",
+		"note": "bibtex: vydrov_benchmark_2012",
+		"journalAbbreviation": "J. Chem. Theory Comput.",
+		"author": [
+			{
+				"family": "Vydrov",
+				"given": "Oleg A."
+			},
+			{
+				"family": "Van Voorhis",
+				"given": "Troy"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					6,
+					12
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": 1247,
+		"type": "article-journal",
+		"title": "Performance of the van der Waals Density Functional VV10 and (hybrid)GGA Variants for Thermochemistry and Noncovalent Interactions",
+		"container-title": "Journal of Chemical Theory and Computation",
+		"page": "3866-3871",
+		"volume": "7",
+		"issue": "12",
+		"source": "ACS Publications",
+		"abstract": "The nonlocal van der Waals density functional VV10 (Vydrov, O. A.; Van Voorhis, T. J. Chem. Phys.2010, 133, 244103) is tested for the thermochemical properties of 1200+ atoms and molecules in the GMTKN30 database in order to assess its global accuracy. Five GGA and hybrid functionals in unmodified form are augmented by the nonlocal (NL) part of the VV10 functional (one parameter adjusted). The addition of the NL dispersion energy definitely improves the results of all tested functionals. On the basis of little empiricism and basic physical insight, DFT-NL can be recommended as a fully electronic, robust electronic structure method.",
+		"URL": "http://dx.doi.org/10.1021/ct200644w",
+		"DOI": "10.1021/ct200644w",
+		"ISSN": "1549-9618",
+		"note": "bibtex: hujo_performance_2011",
+		"journalAbbreviation": "J. Chem. Theory Comput.",
+		"author": [
+			{
+				"family": "Hujo",
+				"given": "Waldemar"
+			},
+			{
+				"family": "Grimme",
+				"given": "Stefan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					12,
+					13
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": 1249,
+		"type": "article-journal",
+		"title": "A density functional for sparse matter",
+		"container-title": "Journal of Physics: Condensed Matter",
+		"page": "084203",
+		"volume": "21",
+		"issue": "8",
+		"source": "Institute of Physics",
+		"abstract": "Sparse matter is abundant and has both strong local bonds and weak nonbonding forces, in particular nonlocal van der Waals (vdW) forces between atoms separated by empty space. It encompasses a broad spectrum of systems, like soft matter, adsorption systems and biostructures. Density-functional theory (DFT), long since proven successful for dense matter, seems now to have come to a point, where useful extensions to sparse matter are available. In particular, a functional form, vdW-DF (Dion et al 2004 Phys. Rev. Lett. 92 246401; Thonhauser et al 2007 Phys. Rev. B 76 125112), has been proposed for the nonlocal correlations between electrons and applied to various relevant molecules and materials, including to those layered systems like graphite, boron nitride and molybdenum sulfide, to dimers of benzene, polycyclic aromatic hydrocarbons (PAHs), doped benzene, cytosine and DNA base pairs, to nonbonding forces in molecules, to adsorbed molecules, like benzene, naphthalene, phenol and adenine on graphite, alumina and metals, to polymer and carbon nanotube (CNT) crystals, and hydrogen storage in graphite and metal–organic frameworks (MOFs), and to the structure of DNA and of DNA with intercalators. Comparison with results from wavefunction calculations for the smaller systems and with experimental data for the extended ones show the vdW-DF path to be promising. This could have great ramifications.",
+		"URL": "http://iopscience.iop.org/0953-8984/21/8/084203",
+		"DOI": "10.1088/0953-8984/21/8/084203",
+		"ISSN": "0953-8984",
+		"note": "bibtex: langreth_density_2009",
+		"journalAbbreviation": "J. Phys.: Condens. Matter",
+		"language": "en",
+		"author": [
+			{
+				"family": "Langreth",
+				"given": "D. C."
+			},
+			{
+				"family": "Lundqvist",
+				"given": "B. I."
+			},
+			{
+				"family": "Chakarova-Käck",
+				"given": "S. D."
+			},
+			{
+				"family": "Cooper",
+				"given": "V. R."
+			},
+			{
+				"family": "Dion",
+				"given": "M."
+			},
+			{
+				"family": "Hyldgaard",
+				"given": "P."
+			},
+			{
+				"family": "Kelkkanen",
+				"given": "A."
+			},
+			{
+				"family": "Kleis",
+				"given": "J."
+			},
+			{
+				"family": "Kong",
+				"given": "Lingzhu"
+			},
+			{
+				"family": "Li",
+				"given": "Shen"
+			},
+			{
+				"family": "Moses",
+				"given": "P. G."
+			},
+			{
+				"family": "Murray",
+				"given": "E."
+			},
+			{
+				"family": "Puzder",
+				"given": "A."
+			},
+			{
+				"family": "Rydberg",
+				"given": "H."
+			},
+			{
+				"family": "Schröder",
+				"given": "E."
+			},
+			{
+				"family": "Thonhauser",
+				"given": "T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					2,
+					25
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2015",
+					6,
+					26
+				]
+			]
+		}
+	}
+]
