@@ -4,6 +4,7 @@ import sqlite3 as sql
 import sys
 from collections import namedtuple
 import re
+import os
 
 
 ignored = ['of', 'the']
@@ -14,7 +15,7 @@ corrections = {
 
 Recd = namedtuple('Recd', ('full', 'abbr', 'lang', 'type'))
 
-db_path = 'jabbrv.db'
+db_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'jabbrv.db')
 conn = sql.connect(db_path)
 cur = conn.cursor()
 
