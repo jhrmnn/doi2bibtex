@@ -5,5 +5,5 @@ cat \
     | python3 $dir/get_bibtex.py \
     | $dir/unicode2latex/unicode2latex.py -rb \
     | python3 $dir/do_abbrv.py \
-    | bibtool -r $dir/bibtool.conf
+    | python3 $dir/gen_keys.py \
     | $dir/unicode2latex/unicode2latex.py -b
