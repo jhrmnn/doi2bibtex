@@ -53,3 +53,9 @@ $ doi2bibtex.sh <dois.txt >references.bib
 
 - Whenever pushing changes to `download_abbrv.py` or `process.sql`, also update 
 	the `abbrv.db` file if it changes.
+
+### TODO
+
+- Describe functionality in README.
+- Put the separation of suffixes in words before abbreviation from `sciabbr` in 
+	`do_abbrv.py`.
