@@ -9,13 +9,13 @@ convert a list of DOIs into a useful bibtex file. This means that:
 - Journal titles need to be consistently abbreviated.
 - Unicode needs to be consistently encoded in latex commands.
 
-## Dependencies
+## Prerequisites
 
 - Python 3 with [BeautifulSoup][bs], [bibtexparser][bibparser] and 
 	[python-slugify][slugify]. The modules can be installed with
 
 	```bash
-	$ pip3 install beautifulsoup4 bibtexparser python-slugify
+	pip3 install beautifulsoup4 bibtexparser python-slugify
 	```
 
 - GNU `realpath`
@@ -23,13 +23,13 @@ convert a list of DOIs into a useful bibtex file. This means that:
 ## Installation
 
 ```bash
-$ make
+make
 ```
 
 This builds a couple of tools within the repository directory.
 
 ```bash
-$ make test
+make test
 ```
 
 This should print
@@ -39,13 +39,10 @@ This should print
 ## Usage
 
 ```bash
-$ doi2bibtex.sh <dois.txt >references.bib
+doi2bibtex.sh <dois.txt >references.bib
 ```
 
-[bibparser]: https://github.com/sciunto-org/python-bibtexparser
-[bs]: http://www.crummy.com/software/BeautifulSoup/
-[bibtool]: http://www.gerd-neugebauer.de/software/TeX/BibTool/index.en.html
-[slugify]: https://github.com/un33k/python-slugify
+`dois.txt` is a text file with one DOI per line.
 
 ## Notes
 
@@ -59,3 +56,8 @@ $ doi2bibtex.sh <dois.txt >references.bib
 - Describe functionality in README.
 - Put the separation of suffixes in words before abbreviation from `sciabbr` in 
 	`do_abbrv.py`.
+
+[bibparser]: https://github.com/sciunto-org/python-bibtexparser
+[bs]: http://www.crummy.com/software/BeautifulSoup/
+[bibtool]: http://www.gerd-neugebauer.de/software/TeX/BibTool/index.en.html
+[slugify]: https://github.com/un33k/python-slugify
