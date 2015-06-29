@@ -11,6 +11,6 @@ $(dbname): process.sql
 ifeq ("$(wildcard $(dbname).downloaded)", "")
 	$(error "File $(dbname).downloaded missing. Run `make download`.")
 endif
-	cp $@.downloaded $@
-	sqlite3 $@ <$(word 2, $^)
+	rsync -a $@.downloaded $@
+	sqlite3 $@ <$<
 
