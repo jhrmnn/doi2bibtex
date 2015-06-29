@@ -14,5 +14,5 @@ for item in bib.entries:
     journal = slugify(''.join(w[0] for w in item['journal'].split())).upper()
     year = item['year'][-2:]
     doihash = hashlib.sha1(item['doi'].encode()).hexdigest()[-2:]
-    item['id'] = '{}{}{}.{}'.format(last, journal, year, doihash)
+    item['id'] = '{}{}{}*{}'.format(last, journal, year, doihash)
 bibtex.dump(bib, sys.stdout)
