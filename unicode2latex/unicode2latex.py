@@ -4,6 +4,7 @@ import bibtexparser as bibtex
 import sys
 import os
 import re
+import unicodedata
 
 
 db_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'unicode2latex.db')
@@ -19,6 +20,7 @@ def l2u(text):
         return unic
 
     text = re.sub(r'{(\\[^}]*}?)}', replace, text)
+    text = unicodedata.normalize('NFC', text)
     conn.close()
     return text
 
