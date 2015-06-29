@@ -51,7 +51,7 @@ The conversion from DOI to bibtex consists of five steps:
 1. DOI is converted to raw bibtex using a HTTP resolver
 
 	```bash
-	curl -LH 'Accept: application/x-bibtex' http://data.crossref.org/10.1002/qua.0315
+	curl -LH 'Accept: application/x-bibtex' http://data.crossref.org/10.1002/qua.20315
 	```
 
 2. Fields `author`, `title` and `journal` in raw bibtex are converted from latex 
