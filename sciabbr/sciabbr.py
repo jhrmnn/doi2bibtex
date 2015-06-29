@@ -1,6 +1,5 @@
 import os
 import sqlite3 as sql
-import re
 from collections import namedtuple
 
 
@@ -13,7 +12,6 @@ cur = conn.cursor()
 
 
 def abbreviate(word):
-    word, suff = re.findall(r'([^:]+)(.*)', word)[0]
     is_capital = word[0].isupper()
     recds = [Recd(*abbr) for abbr in
              cur.execute('select * from abbrvs where ? like full', (word,))]
@@ -33,4 +31,4 @@ def abbreviate(word):
         abbr = recds[0].abbr
         if abbr != 'n.a.':
             word = abbr
-    return (word.capitalize() if is_capital else word) + suff
+    return word.capitalize() if is_capital else word

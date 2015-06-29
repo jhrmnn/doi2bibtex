@@ -54,8 +54,6 @@ doi2bibtex.sh <dois.txt >references.bib
 ### TODO
 
 - Describe functionality in README.
-- Put the separation of suffixes in words before abbreviation from `sciabbr` in 
-	`do_abbrv.py`.
 
 [bibparser]: https://github.com/sciunto-org/python-bibtexparser
 [bs]: http://www.crummy.com/software/BeautifulSoup/

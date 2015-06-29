@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import bibtexparser as bibtex
 import sys
+import re
 from sciabbr import abbreviate
 
 
@@ -11,11 +12,16 @@ corrections = {
 }
 
 
+def shorten(word):
+    word, suff = re.findall(r'([^:]+)(.*)', word)[0]
+    return abbreviate(word) + suff
+
+
 def process(title):
     words = [corrections.get(w, w) for w in title.split()
              if w.lower() not in ignored]
     if len(words) > 1:
-        words = [abbreviate(word) if not word.endswith('.') else word
+        words = [shorten(word) if not word.endswith('.') else word
                  for word in words]
     return ' '.join(words)
 
