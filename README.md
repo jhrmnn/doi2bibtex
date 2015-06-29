@@ -55,7 +55,7 @@ The conversion from DOI to bibtex consists of five steps:
 	```
 
 2. Fields `author`, `title` and `journal` in raw bibtex are converted from latex 
-   to Unicode.
+   to Unicode using the definitions from [W3C][unicode] [large XML].
 3. Journal names are abbreviated using the [List of Title Word 
    Abbreviations][ltwa] which was scraped and is stored locally.
 4. Pseudo-unique ASCII-converted bibtex keys are generated in format
@@ -77,3 +77,4 @@ The conversion from DOI to bibtex consists of five steps:
 [bibtool]: http://www.gerd-neugebauer.de/software/TeX/BibTool/index.en.html
 [slugify]: https://github.com/un33k/python-slugify
 [ltwa]: http://www.issn.org/services/online-services/access-to-the-ltwa/
+[unicode]: http://www.w3.org/Math/characters/unicode.xml
