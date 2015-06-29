@@ -72,6 +72,11 @@ The conversion from DOI to bibtex consists of five steps:
 - Whenever pushing changes to `download_abbrv.py` or `process.sql`, also update 
 	the `abbrv.db` file if it changes.
 
+### TODO
+
+- Add caching of response from DOI resolver.
+
+
 [bibparser]: https://github.com/sciunto-org/python-bibtexparser
 [bs]: http://www.crummy.com/software/BeautifulSoup/
 [bibtool]: http://www.gerd-neugebauer.de/software/TeX/BibTool/index.en.html
