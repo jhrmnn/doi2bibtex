@@ -1,4 +1,4 @@
-@article{AmbrosettiJCP14.70,
+@article{AmbrosettiJCP14*70,
  author = {Alberto Ambrosetti and Anthony M. Reilly and Robert A. DiStasio and Alexandre Tkatchenko},
  doi = {10.1063/1.4865104},
  journal = {J. Chem. Phys.},
@@ -12,7 +12,7 @@
  year = {2014}
 }
 
-@article{AnderssonPRL96.36,
+@article{AnderssonPRL96*36,
  author = {Y. Andersson and D. C. Langreth and B. I. Lundqvist},
  doi = {10.1103/physrevlett.76.102},
  journal = {Phys. Rev. Lett.},
@@ -26,7 +26,7 @@
  year = {1996}
 }
 
-@article{AustinJCTC12.02,
+@article{AustinJCTC12*02,
  author = {Amy Austin and George A. Petersson and Michael J. Frisch and Frank J. Dobek and Giovanni Scalmani and Kyle Throssell},
  doi = {10.1021/ct300778e},
  journal = {J. Chem. Theory Comput.},
@@ -40,7 +40,7 @@
  year = {2012}
 }
 
-@article{BeckeJCP05.67,
+@article{BeckeJCP05*67,
  author = {Axel D. Becke and Erin R. Johnson},
  doi = {10.1063/1.2065267},
  journal = {J. Chem. Phys.},
@@ -53,7 +53,7 @@
  year = {2005}
 }
 
-@article{BeckeJCP05.c5,
+@article{BeckeJCP05*c5,
  author = {Axel D. Becke and Erin R. Johnson},
  doi = {10.1063/1.1884601},
  journal = {J. Chem. Phys.},
@@ -66,7 +66,7 @@
  year = {2005}
 }
 
-@article{BeckeJCP07.6d,
+@article{BeckeJCP07*6d,
  author = {Axel D. Becke and Erin R. Johnson},
  doi = {10.1063/1.2795701},
  journal = {J. Chem. Phys.},
@@ -79,7 +79,7 @@
  year = {2007}
 }
 
-@article{BuckoJCP14.64,
+@article{BuckoJCP14*64,
  author = {Tom{\'{a}}{\v{s}} Bu{\v{c}}ko and S{\'{e}}bastien Leb{\`{e}}gue and J{\'{a}}nos G. {\'{A}}ngy{\'{a}}n and J{\"{u}}rgen Hafner},
  doi = {10.1063/1.4890003},
  journal = {J. Chem. Phys.},
@@ -93,7 +93,7 @@
  year = {2014}
 }
 
-@article{BuckoJCTC13.67,
+@article{BuckoJCTC13*67,
  author = {Tom{\'{a}}{\v{s}} Bu{\v{c}}ko and S{\'{e}}bastien Leb{\`{e}}gue and J{\"{u}}rgen Hafner and J{\'{a}}nos G. {\'{A}}ngy{\'{a}}n},
  doi = {10.1021/ct400694h},
  journal = {J. Chem. Theory Comput.},
@@ -107,7 +107,7 @@
  year = {2013}
 }
 
-@article{BuckoPRB13.93,
+@article{BuckoPRB13*93,
  author = {Tom{\'{a}}{\v{s}} Bu{\v{c}}ko and S. Leb{\`{e}}gue and J{\"{u}}rgen Hafner and J. G. {\'{A}}ngy{\'{a}}n},
  doi = {10.1103/physrevb.87.064110},
  journal = {Phys. Rev. B},
@@ -120,7 +120,7 @@
  year = {2013}
 }
 
-@article{BurkeJCP12.31,
+@article{BurkeJCP12*31,
  author = {Kieron Burke},
  doi = {10.1063/1.4704546},
  journal = {J. Chem. Phys.},
@@ -133,8 +133,8 @@
  year = {2012}
 }
 
-@article{BurnsJCP11.67,
- author = {Lori A. Burns and A{\'}lvaro Va{\'}zquez- Mayagoitia and Bobby G. Sumpter and C. David Sherrill},
+@article{BurnsJCP11*67,
+ author = {Lori A. Burns and {\'{A}}lvaro V{\'{a}}zquez- Mayagoitia and Bobby G. Sumpter and C. David Sherrill},
  doi = {10.1063/1.3545971},
  journal = {J. Chem. Phys.},
  link = {http://dx.doi.org/10.1063/1.3545971},
@@ -146,7 +146,7 @@
  year = {2011}
 }
 
-@article{Chakarova-KackPRL06.94,
+@article{Chakarova-KackPRL06*94,
  author = {Svetla D. Chakarova-K{\"{a}}ck and Elsebeth Schr{\"{o}}der and Bengt I. Lundqvist and David C. Langreth},
  doi = {10.1103/physrevlett.96.146107},
  journal = {Phys. Rev. Lett.},
@@ -159,7 +159,7 @@
  year = {2006}
 }
 
-@article{CohenCR12.71,
+@article{CohenCR12*71,
  author = {Aron J. Cohen and Paula Mori-S{\'{a}}nchez and Weitao Yang},
  doi = {10.1021/cr200107z},
  journal = {Chem. Rev.},
@@ -173,7 +173,7 @@
  year = {2012}
 }
 
-@article{CooperPRB10.26,
+@article{CooperPRB10*26,
  author = {Valentino R. Cooper},
  doi = {10.1103/physrevb.81.161104},
  journal = {Phys. Rev. B},
@@ -186,7 +186,7 @@
  year = {2010}
 }
 
-@article{DiLabioCPL08.b8,
+@article{DiLabioCPL08*b8,
  author = {Gino A. DiLabio},
  doi = {10.1016/j.cplett.2008.02.110},
  journal = {Chem. Phys. Lett.},
@@ -200,7 +200,7 @@
  year = {2008}
 }
 
-@article{DionPRL04.1b,
+@article{DionPRL04*1b,
  author = {M. Dion and H. Rydberg and E. Schr{\"{o}}der and D. C. Langreth and B. I. Lundqvist},
  doi = {10.1103/physrevlett.92.246401},
  journal = {Phys. Rev. Lett.},
@@ -213,7 +213,7 @@
  year = {2004}
 }
 
-@article{DiStasioJPCM14.ef,
+@article{DiStasioJPCM14*ef,
  author = {Robert A DiStasio and Vivekanand V Gobre and Alexandre Tkatchenko},
  doi = {10.1088/0953-8984/26/21/213202},
  journal = {J. Phys.: Condens. Matter},
@@ -227,7 +227,7 @@
  year = {2014}
 }
 
-@article{DobsonIJQC14.07,
+@article{DobsonIJQC14*07,
  author = {John F. Dobson},
  doi = {10.1002/qua.24635},
  journal = {Int. J. Quantum Chem.},
@@ -241,7 +241,7 @@
  year = {2014}
 }
 
-@article{DobsonJPCM12.c8,
+@article{DobsonJPCM12*c8,
  author = {John F Dobson and Tim Gould},
  doi = {10.1088/0953-8984/24/7/073201},
  journal = {J. Phys.: Condens. Matter},
@@ -255,7 +255,7 @@
  year = {2012}
 }
 
-@article{DobsonPRL06.4c,
+@article{DobsonPRL06*4c,
  author = {John F. Dobson and Angela White and Angel Rubio},
  doi = {10.1103/physrevlett.96.073201},
  journal = {Phys. Rev. Lett.},
@@ -268,7 +268,7 @@
  year = {2006}
 }
 
-@article{FeynmanPR39.94,
+@article{FeynmanPR39*94,
  author = {R. P. Feynman},
  doi = {10.1103/physrev.56.340},
  journal = {Phys. Rev.},
@@ -282,7 +282,7 @@
  year = {1939}
 }
 
-@article{FurchePRB01.4b,
+@article{FurchePRB01*4b,
  author = {Filipp Furche},
  doi = {10.1103/physrevb.64.195120},
  journal = {Phys. Rev. B},
@@ -295,7 +295,7 @@
  year = {2001}
 }
 
-@article{GobreNC13.b8,
+@article{GobreNC13*b8,
  author = {Vivekanand V. Gobre and Alexandre Tkatchenko},
  doi = {10.1038/ncomms3341},
  journal = {Nat. Commun.},
@@ -307,7 +307,7 @@
  year = {2013}
 }
 
-@article{GrazianoJPCM12.bf,
+@article{GrazianoJPCM12*bf,
  author = {Gabriella Graziano and Ji{\v{r}}{\'{\i}} Klime{\v{s}} and Felix Fernandez-Alonso and Angelos Michaelides},
  doi = {10.1088/0953-8984/24/42/424216},
  journal = {J. Phys.: Condens. Matter},
@@ -321,7 +321,7 @@
  year = {2012}
 }
 
-@article{GulansPRB09.27,
+@article{GulansPRB09*27,
  author = {Andris Gulans and Martti J. Puska and Risto M. Nieminen},
  doi = {10.1103/physrevb.79.201105},
  journal = {Phys. Rev. B},
@@ -334,7 +334,7 @@
  year = {2009}
 }
 
-@article{HamadaPRB10.a2,
+@article{HamadaPRB10*a2,
  author = {Ikutaro Hamada and Minoru Otani},
  doi = {10.1103/physrevb.82.153412},
  journal = {Phys. Rev. B},
@@ -347,7 +347,7 @@
  year = {2010}
 }
 
-@article{HamadaPRB14.be,
+@article{HamadaPRB14*be,
  author = {Ikutaro Hamada},
  doi = {10.1103/physrevb.89.121103},
  journal = {Phys. Rev. B},
@@ -360,7 +360,7 @@
  year = {2014}
 }
 
-@article{HarlPRB08.23,
+@article{HarlPRB08*23,
  author = {Judith Harl and Georg Kresse},
  doi = {10.1103/physrevb.77.045136},
  journal = {Phys. Rev. B},
@@ -373,8 +373,8 @@
  year = {2008}
 }
 
-@article{HermannJCP13.3e,
- author = {Jan Hermann and Ota Bludsky{\'}},
+@article{HermannJCP13*3e,
+ author = {Jan Hermann and Ota Bludsk{\'{y}}},
  doi = {10.1063/1.4813826},
  journal = {J. Chem. Phys.},
  link = {http://dx.doi.org/10.1063/1.4813826},
@@ -386,7 +386,7 @@
  year = {2013}
 }
 
-@article{HesselmanJCTC13.08,
+@article{HesselmanJCTC13*08,
  author = {Andreas He{\ss}elmann},
  doi = {10.1021/ct300735g},
  journal = {J. Chem. Theory Comput.},
@@ -400,7 +400,7 @@
  year = {2013}
 }
 
-@article{HujoJCTC11.e9,
+@article{HujoJCTC11*e9,
  author = {Waldemar Hujo and Stefan Grimme},
  doi = {10.1021/ct200644w},
  journal = {J. Chem. Theory Comput.},
@@ -414,7 +414,7 @@
  year = {2011}
 }
 
-@article{JacobCMS14.f0,
+@article{JacobCMS14*f0,
  author = {Christoph R. Jacob and Johannes Neugebauer},
  doi = {10.1002/wcms.1175},
  journal = {{WIREs} Comput. Mol Sci},
@@ -428,7 +428,7 @@
  year = {2014}
 }
 
-@article{JohnsonJCP05.86,
+@article{JohnsonJCP05*86,
  author = {Erin R. Johnson and Axel D. Becke},
  doi = {10.1063/1.1949201},
  journal = {J. Chem. Phys.},
@@ -441,7 +441,7 @@
  year = {2005}
 }
 
-@article{JohnsonJCP06.59,
+@article{JohnsonJCP06*59,
  author = {Erin R. Johnson and Axel D. Becke},
  doi = {10.1063/1.2190220},
  journal = {J. Chem. Phys.},
@@ -454,7 +454,7 @@
  year = {2006}
 }
 
-@article{JohnsonJPOC09.08,
+@article{JohnsonJPOC09*08,
  author = {Erin R. Johnson and Iain D. Mackie and Gino A. DiLabio},
  doi = {10.1002/poc.1606},
  journal = {J. Phys. Org. Chem.},
@@ -468,7 +468,7 @@
  year = {2009}
 }
 
-@article{KannemannJCTC10.50,
+@article{KannemannJCTC10*50,
  author = {Felix O. Kannemann and Axel D. Becke},
  doi = {10.1021/ct900699r},
  journal = {J. Chem. Theory Comput.},
@@ -482,7 +482,7 @@
  year = {2010}
 }
 
-@article{KevorkyantsJCP14.6d,
+@article{KevorkyantsJCP14*6d,
  author = {Ruslan Kevorkyants and Henk Eshuis and Michele Pavanello},
  doi = {10.1063/1.4890839},
  journal = {J. Chem. Phys.},
@@ -496,8 +496,8 @@
  year = {2014}
 }
 
-@article{KlimesJCP12.a8,
- author = {Jir{\v}i{\'} Klimes{\v} and Angelos Michaelides},
+@article{KlimesJCP12*a8,
+ author = {Ji{\v{r}}{\'{\i}} Klime{\v{s}} and Angelos Michaelides},
  doi = {10.1063/1.4754130},
  journal = {J. Chem. Phys.},
  link = {http://dx.doi.org/10.1063/1.4754130},
@@ -509,7 +509,7 @@
  year = {2012}
 }
 
-@article{KlimesJPCM09.91,
+@article{KlimesJPCM09*91,
  author = {Ji{\v{r}}{\'{\i}} Klime{\v{s}} and David R Bowler and Angelos Michaelides},
  doi = {10.1088/0953-8984/22/2/022201},
  journal = {J. Phys.: Condens. Matter},
@@ -523,7 +523,7 @@
  year = {2009}
 }
 
-@article{KlimesPRB11.b3,
+@article{KlimesPRB11*b3,
  author = {Ji{\v{r}}{\'{\i}} Klime{\v{s}} and David R. Bowler and Angelos Michaelides},
  doi = {10.1103/physrevb.83.195131},
  journal = {Phys. Rev. B},
@@ -536,7 +536,7 @@
  year = {2011}
 }
 
-@article{KummelRMP08.93,
+@article{KummelRMP08*93,
  author = {Stephan K{\"{u}}mmel and Leeor Kronik},
  doi = {10.1103/revmodphys.80.3},
  journal = {Rev. Mod. Phys.},
@@ -550,7 +550,7 @@
  year = {2008}
 }
 
-@article{LangrethIJQC04.08,
+@article{LangrethIJQC04*08,
  author = {D. C. Langreth and M. Dion and H. Rydberg and E. Schrder and P. Hyldgaard and B. I. Lundqvist},
  doi = {10.1002/qua.20315},
  journal = {Int. J. Quantum Chem.},
@@ -563,7 +563,7 @@
  year = {2004}
 }
 
-@article{LangrethJPCM09.66,
+@article{LangrethJPCM09*66,
  author = {D C Langreth and B I Lundqvist and S D Chakarova-K{\"{a}}ck and V R Cooper and M Dion and P Hyldgaard and A Kelkkanen and J Kleis and Lingzhu Kong and Shen Li and P G Moses and E Murray and A Puzder and H Rydberg and E Schr{\"{o}}der and T Thonhauser},
  doi = {10.1088/0953-8984/21/8/084203},
  journal = {J. Phys.: Condens. Matter},
@@ -577,7 +577,7 @@
  year = {2009}
 }
 
-@article{LangrethPRL10.3f,
+@article{LangrethPRL10*3f,
  author = {David C. Langreth and Bengt I. Lundqvist},
  doi = {10.1103/physrevlett.104.099303},
  journal = {Phys. Rev. Lett.},
@@ -590,7 +590,7 @@
  year = {2010}
 }
 
-@article{LebeguePRL10.db,
+@article{LebeguePRL10*db,
  author = {S. Leb{\`{e}}gue and J. Harl and Tim Gould and J. G. {\'{A}}ngy{\'{a}}n and G. Kresse and J. F. Dobson},
  doi = {10.1103/physrevlett.105.196401},
  journal = {Phys. Rev. Lett.},
@@ -603,7 +603,7 @@
  year = {2010}
 }
 
-@article{LeePRB10.c2,
+@article{LeePRB10*c2,
  author = {Kyuho Lee and {\'{E}}amonn D. Murray and Lingzhu Kong and Bengt I. Lundqvist and David C. Langreth},
  doi = {10.1103/physrevb.82.081101},
  journal = {Phys. Rev. B},
@@ -616,7 +616,7 @@
  year = {2010}
 }
 
-@article{LilienfeldPRB05.49,
+@article{LilienfeldPRB05*49,
  author = {O. Anatole von Lilienfeld and Ivano Tavernelli and Ursula Rothlisberger and Daniel Sebastiani},
  doi = {10.1103/physrevb.71.195119},
  journal = {Phys. Rev. B},
@@ -629,7 +629,7 @@
  year = {2005}
 }
 
-@article{LilienfeldPRL04.4f,
+@article{LilienfeldPRL04*4f,
  author = {O. Anatole von Lilienfeld and Ivano Tavernelli and Ursula Rothlisberger and Daniel Sebastiani},
  doi = {10.1103/physrevlett.93.153004},
  journal = {Phys. Rev. Lett.},
@@ -642,7 +642,7 @@
  year = {2004}
 }
 
-@article{LuPRL09.1f,
+@article{LuPRL09*1f,
  author = {Deyu Lu and Yan Li and Dario Rocca and Giulia Galli},
  doi = {10.1103/physrevlett.102.206411},
  journal = {Phys. Rev. Lett.},
@@ -655,7 +655,7 @@
  year = {2009}
 }
 
-@article{MaromJCTC11.8d,
+@article{MaromJCTC11*8d,
  author = {Noa Marom and Alexandre Tkatchenko and Mariana Rossi and Vivekanand V. Gobre and Oded Hod and Matthias Scheffler and Leeor Kronik},
  doi = {10.1021/ct2005616},
  journal = {J. Chem. Theory Comput.},
@@ -669,7 +669,7 @@
  year = {2011}
 }
 
-@article{MarzariRMP12.14,
+@article{MarzariRMP12*14,
  author = {Nicola Marzari and Arash A. Mostofi and Jonathan R. Yates and Ivo Souza and David Vanderbilt},
  doi = {10.1103/revmodphys.84.1419},
  journal = {Rev. Mod. Phys.},
@@ -683,7 +683,7 @@
  year = {2012}
 }
 
-@article{MercurioPRL10.3c,
+@article{MercurioPRL10*3c,
  author = {G. Mercurio and E. R. McNellis and I. Martin and S. Hagen and F. Leyssner and S. Soubatch and J. Meyer and M. Wolf and P. Tegeder and F. S. Tautz and K. Reuter},
  doi = {10.1103/physrevlett.104.036102},
  journal = {Phys. Rev. Lett.},
@@ -696,7 +696,7 @@
  year = {2010}
 }
 
-@article{MittendorferPRB11.ba,
+@article{MittendorferPRB11*ba,
  author = {F. Mittendorfer and A. Garhofer and J. Redinger and J. Klime{\v{s}} and J. Harl and G. Kresse},
  doi = {10.1103/physrevb.84.201401},
  journal = {Phys. Rev. B},
@@ -709,8 +709,8 @@
  year = {2011}
 }
 
-@article{MurrayJCTC09.62,
- author = {E{\'}amonn D. Murray and Kyuho Lee and David C. Langreth},
+@article{MurrayJCTC09*62,
+ author = {{\'{E}}amonn D. Murray and Kyuho Lee and David C. Langreth},
  doi = {10.1021/ct900365q},
  journal = {J. Chem. Theory Comput.},
  link = {http://dx.doi.org/10.1021/ct900365q},
@@ -723,7 +723,7 @@
  year = {2009}
 }
 
-@article{OlsenPRB12.6f,
+@article{OlsenPRB12*6f,
  author = {Thomas Olsen and Kristian S. Thygesen},
  doi = {10.1103/physrevb.86.081103},
  journal = {Phys. Rev. B},
@@ -736,7 +736,7 @@
  year = {2012}
 }
 
-@article{OlsenPRB13.3c,
+@article{OlsenPRB13*3c,
  author = {Thomas Olsen and Kristian S. Thygesen},
  doi = {10.1103/physrevb.87.075111},
  journal = {Phys. Rev. B},
@@ -749,7 +749,7 @@
  year = {2013}
 }
 
-@article{OlsenPRB13.63,
+@article{OlsenPRB13*63,
  author = {Thomas Olsen and Kristian S. Thygesen},
  doi = {10.1103/physrevb.88.115131},
  journal = {Phys. Rev. B},
@@ -762,7 +762,7 @@
  year = {2013}
 }
 
-@article{OlsenPRL11.01,
+@article{OlsenPRL11*01,
  author = {Thomas Olsen and Jun Yan and Jens J. Mortensen and Kristian S. Thygesen},
  doi = {10.1103/physrevlett.107.156401},
  journal = {Phys. Rev. Lett.},
@@ -775,7 +775,7 @@
  year = {2011}
 }
 
-@article{Otero-de-la-RozaJCP12.6e,
+@article{Otero-de-la-RozaJCP12*6e,
  author = {A. Otero-de-la-Roza and Erin R. Johnson},
  doi = {10.1063/1.4705760},
  journal = {J. Chem. Phys.},
@@ -788,7 +788,7 @@
  year = {2012}
 }
 
-@article{Otero-de-la-RozaJCP12.84,
+@article{Otero-de-la-RozaJCP12*84,
  author = {A. Otero-de-la-Roza and Erin R. Johnson},
  doi = {10.1063/1.4738961},
  journal = {J. Chem. Phys.},
@@ -801,7 +801,7 @@
  year = {2012}
 }
 
-@article{PuzderJCP06.ef,
+@article{PuzderJCP06*ef,
  author = {Aaron Puzder and Maxime Dion and David C. Langreth},
  doi = {10.1063/1.2189229},
  journal = {J. Chem. Phys.},
@@ -814,7 +814,7 @@
  year = {2006}
 }
 
-@article{ReillyCS15.4d,
+@article{ReillyCS15*4d,
  author = {Anthony M. Reilly and Alexandre Tkatchenko},
  doi = {10.1039/c5sc00410a},
  journal = {Chem. Sci.},
@@ -827,7 +827,7 @@
  year = {2015}
 }
 
-@article{ReillyJCP13.29,
+@article{ReillyJCP13*29,
  author = {Anthony M. Reilly and Alexandre Tkatchenko},
  doi = {10.1063/1.4812819},
  journal = {J. Chem. Phys.},
@@ -840,7 +840,7 @@
  year = {2013}
 }
 
-@article{RenJMS12.12,
+@article{RenJMS12*12,
  author = {Xinguo Ren and Patrick Rinke and Christian Joas and Matthias Scheffler},
  doi = {10.1007/s10853-012-6570-4},
  journal = {J. Mater. Sci.},
@@ -854,7 +854,7 @@
  year = {2012}
 }
 
-@article{RenPRL11.43,
+@article{RenPRL11*43,
  author = {Xinguo Ren and Alexandre Tkatchenko and Patrick Rinke and Matthias Scheffler},
  doi = {10.1103/physrevlett.106.153003},
  journal = {Phys. Rev. Lett.},
@@ -867,8 +867,8 @@
  year = {2011}
 }
 
-@article{RezacJCTC11.76,
- author = {Jan R{\v}eza{\'}c{\v} and Kevin E. Riley and Pavel Hobza},
+@article{RezacJCTC11*76,
+ author = {Jan {\v{R}}ez{\'{a}}{\v{c}} and Kevin E. Riley and Pavel Hobza},
  doi = {10.1021/ct2002946},
  journal = {J. Chem. Theory Comput.},
  link = {http://dx.doi.org/10.1021/ct2002946},
@@ -881,7 +881,7 @@
  year = {2011}
 }
 
-@article{RisthausJCTC13.93,
+@article{RisthausJCTC13*93,
  author = {Tobias Risthaus and Stefan Grimme},
  doi = {10.1021/ct301081n},
  journal = {J. Chem. Theory Comput.},
@@ -895,7 +895,7 @@
  year = {2013}
 }
 
-@article{Roman-PerezPRL09.13,
+@article{Roman-PerezPRL09*13,
  author = {Guillermo Rom{\'{a}}n-P{\'{e}}rez and Jos{\'{e}} M. Soler},
  doi = {10.1103/physrevlett.103.096102},
  journal = {Phys. Rev. Lett.},
@@ -908,7 +908,7 @@
  year = {2009}
 }
 
-@article{RuizPRL12.d3,
+@article{RuizPRL12*d3,
  author = {Victor G. Ruiz and Wei Liu and Egbert Zojer and Matthias Scheffler and Alexandre Tkatchenko},
  doi = {10.1103/physrevlett.108.146103},
  journal = {Phys. Rev. Lett.},
@@ -921,7 +921,7 @@
  year = {2012}
 }
 
-@article{RuzsinszkyCTC11.4b,
+@article{RuzsinszkyCTC11*4b,
  author = {Adrienn Ruzsinszky and John P. Perdew},
  doi = {10.1016/j.comptc.2010.09.002},
  journal = {Comput. Theor. Chem.},
@@ -935,7 +935,7 @@
  year = {2011}
 }
 
-@article{SabatiniPRB13.8f,
+@article{SabatiniPRB13*8f,
  author = {Riccardo Sabatini and Tommaso Gorni and Stefano de Gironcoli},
  doi = {10.1103/physrevb.87.041108},
  journal = {Phys. Rev. B},
@@ -948,7 +948,7 @@
  year = {2013}
 }
 
-@article{SantraJCP08.a7,
+@article{SantraJCP08*a7,
  author = {Biswajit Santra and Angelos Michaelides and Martin Fuchs and Alexandre Tkatchenko and Claudia Filippi and Matthias Scheffler},
  doi = {10.1063/1.3012573},
  journal = {J. Chem. Phys.},
@@ -961,7 +961,7 @@
  year = {2008}
 }
 
-@article{SatoJCP05.d0,
+@article{SatoJCP05*d0,
  author = {Takeshi Sato and Takao Tsuneda and Kimihiko Hirao},
  doi = {10.1063/1.2011396},
  journal = {J. Chem. Phys.},
@@ -974,7 +974,7 @@
  year = {2005}
 }
 
-@article{SatoJCP09.df,
+@article{SatoJCP09*df,
  author = {Takeshi Sato and Hiromi Nakai},
  doi = {10.1063/1.3269802},
  journal = {J. Chem. Phys.},
@@ -987,7 +987,7 @@
  year = {2009}
 }
 
-@article{ScuseriaJCP08.90,
+@article{ScuseriaJCP08*90,
  author = {Gustavo E. Scuseria and Thomas M. Henderson and Danny C. Sorensen},
  doi = {10.1063/1.3043729},
  journal = {J. Chem. Phys.},
@@ -1000,7 +1000,7 @@
  year = {2008}
 }
 
-@article{SilvestrelliJCP09.fd,
+@article{SilvestrelliJCP09*fd,
  author = {Pier Luigi Silvestrelli and Karima Benyahia and Sonja Grubisic^ and Francesco Ancilotto and Flavio Toigo},
  doi = {10.1063/1.3077288},
  journal = {J. Chem. Phys.},
@@ -1013,7 +1013,7 @@
  year = {2009}
 }
 
-@article{SilvestrelliJPCA09.6e,
+@article{SilvestrelliJPCA09*6e,
  author = {Pier Luigi Silvestrelli},
  doi = {10.1021/jp811138n},
  journal = {J. Phys. Chem. A},
@@ -1027,7 +1027,7 @@
  year = {2009}
 }
 
-@article{SilvestrelliPRB12.f0,
+@article{SilvestrelliPRB12*f0,
  author = {Pier Luigi Silvestrelli and Alberto Ambrosetti and Sonja Grubisi{\^{c}} and Francesco Ancilotto},
  doi = {10.1103/physrevb.85.165405},
  journal = {Phys. Rev. B},
@@ -1040,7 +1040,7 @@
  year = {2012}
 }
 
-@article{SilvestrelliPRL08.b0,
+@article{SilvestrelliPRL08*b0,
  author = {Pier Luigi Silvestrelli},
  doi = {10.1103/physrevlett.100.053002},
  journal = {Phys. Rev. Lett.},
@@ -1053,7 +1053,7 @@
  year = {2008}
 }
 
-@article{TaoPNAS11.20,
+@article{TaoPNAS11*20,
  author = {J. Tao and J. P. Perdew and A. Ruzsinszky},
  doi = {10.1073/pnas.1118245108},
  journal = {Proc. Natl. Acad. Sci.},
@@ -1067,7 +1067,7 @@
  year = {2011}
 }
 
-@article{TaoPRB10.5b,
+@article{TaoPRB10*5b,
  author = {Jianmin Tao and John P. Perdew and Adrienn Ruzsinszky},
  doi = {10.1103/physrevb.81.233102},
  journal = {Phys. Rev. B},
@@ -1080,7 +1080,7 @@
  year = {2010}
 }
 
-@article{ThonhauserPRB07.b8,
+@article{ThonhauserPRB07*b8,
  author = {T. Thonhauser and Valentino R. Cooper and Shen Li and Aaron Puzder and Per Hyldgaard and David C. Langreth},
  doi = {10.1103/physrevb.76.125112},
  journal = {Phys. Rev. B},
@@ -1093,7 +1093,7 @@
  year = {2007}
 }
 
-@article{TkatchenkoAFM14.ea,
+@article{TkatchenkoAFM14*ea,
  author = {Alexandre Tkatchenko},
  doi = {10.1002/adfm.201403029},
  journal = {Adv. Funct. Mater.},
@@ -1107,7 +1107,7 @@
  year = {2014}
 }
 
-@article{TkatchenkoJCP13.dc,
+@article{TkatchenkoJCP13*dc,
  author = {Alexandre Tkatchenko and Alberto Ambrosetti and Robert A. DiStasio},
  doi = {10.1063/1.4789814},
  journal = {J. Chem. Phys.},
@@ -1120,7 +1120,7 @@
  year = {2013}
 }
 
-@article{TkatchenkoPRL09.03,
+@article{TkatchenkoPRL09*03,
  author = {Alexandre Tkatchenko and Matthias Scheffler},
  doi = {10.1103/physrevlett.102.073005},
  journal = {Phys. Rev. Lett.},
@@ -1133,7 +1133,7 @@
  year = {2009}
 }
 
-@article{TkatchenkoPRL12.a2,
+@article{TkatchenkoPRL12*a2,
  author = {Alexandre Tkatchenko and Robert A. DiStasio and Roberto Car and Matthias Scheffler},
  doi = {10.1103/physrevlett.108.236402},
  journal = {Phys. Rev. Lett.},
@@ -1146,7 +1146,7 @@
  year = {2012}
 }
 
-@article{ToulousePRL09.a9,
+@article{ToulousePRL09*a9,
  author = {Julien Toulouse and Iann C. Gerber and Georg Jansen and Andreas Savin and J{\'{a}}nos G. {\'{A}}ngy{\'{a}}n},
  doi = {10.1103/physrevlett.102.096404},
  journal = {Phys. Rev. Lett.},
@@ -1159,7 +1159,7 @@
  year = {2009}
 }
 
-@article{VaninPRB10.59,
+@article{VaninPRB10*59,
  author = {M. Vanin and J. J. Mortensen and A. K. Kelkkanen and J. M. Garcia-Lastra and K. S. Thygesen and K. W. Jacobsen},
  doi = {10.1103/physrevb.81.081408},
  journal = {Phys. Rev. B},
@@ -1172,7 +1172,7 @@
  year = {2010}
 }
 
-@article{VydrovJCP08.f6,
+@article{VydrovJCP08*f6,
  author = {Oleg A. Vydrov and Qin Wu and Troy Van Voorhis},
  doi = {10.1063/1.2948400},
  journal = {J. Chem. Phys.},
@@ -1185,7 +1185,7 @@
  year = {2008}
 }
 
-@article{VydrovJCP09.00,
+@article{VydrovJCP09*00,
  author = {Oleg A. Vydrov and Troy Van Voorhis},
  doi = {10.1063/1.3079684},
  journal = {J. Chem. Phys.},
@@ -1198,7 +1198,7 @@
  year = {2009}
 }
 
-@article{VydrovJCP10.20,
+@article{VydrovJCP10*20,
  author = {Oleg A. Vydrov and Troy Van Voorhis},
  doi = {10.1063/1.3521275},
  journal = {J. Chem. Phys.},
@@ -1211,7 +1211,7 @@
  year = {2010}
 }
 
-@article{VydrovJCTC12.5c,
+@article{VydrovJCTC12*5c,
  author = {Oleg A. Vydrov and Troy Van Voorhis},
  doi = {10.1021/ct300081y},
  journal = {J. Chem. Theory Comput.},
@@ -1225,7 +1225,7 @@
  year = {2012}
 }
 
-@article{VydrovPRA10.f6,
+@article{VydrovPRA10*f6,
  author = {Oleg A. Vydrov and Troy Van Voorhis},
  doi = {10.1103/physreva.81.062708},
  journal = {Phys. Rev. A},
@@ -1238,7 +1238,7 @@
  year = {2010}
 }
 
-@article{VydrovPRL09.f8,
+@article{VydrovPRL09*f8,
  author = {Oleg A. Vydrov and Troy Van Voorhis},
  doi = {10.1103/physrevlett.103.063004},
  journal = {Phys. Rev. Lett.},
@@ -1251,7 +1251,7 @@
  year = {2009}
 }
 
-@article{VydrovPRL10.1e,
+@article{VydrovPRL10*1e,
  author = {Oleg A. Vydrov and Troy Van Voorhis},
  doi = {10.1103/physrevlett.104.099304},
  journal = {Phys. Rev. Lett.},
@@ -1264,8 +1264,8 @@
  year = {2010}
 }
 
-@article{WangJCP11.9e,
- author = {Jue Wang and G. Roma{\'}n-Pe{\'}rez and Jose M. Soler and Emilio Artacho and M.-V. Ferna{\'}ndez-Serra},
+@article{WangJCP11*9e,
+ author = {Jue Wang and G. Rom{\'{a}}n-P{\'{e}}rez and Jose M. Soler and Emilio Artacho and M.-V. Fern{\'{a}}ndez-Serra},
  doi = {10.1063/1.3521268},
  journal = {J. Chem. Phys.},
  link = {http://dx.doi.org/10.1063/1.3521268},
@@ -1277,7 +1277,7 @@
  year = {2011}
 }
 
-@article{WellendorffPRB12.e2,
+@article{WellendorffPRB12*e2,
  author = {Jess Wellendorff and Keld T. Lundgaard and Andreas M{\o}gelh{\o}j and Vivien Petzold and David D. Landis and Jens K. N{\o}rskov and Thomas Bligaard and Karsten W. Jacobsen},
  doi = {10.1103/physrevb.85.235149},
  journal = {Phys. Rev. B},
@@ -1290,7 +1290,7 @@
  year = {2012}
 }
 
-@article{WesolowskiJPC93.8b,
+@article{WesolowskiJPC93*8b,
  author = {Tomasz Adam Wesolowski and Arieh Warshel},
  doi = {10.1021/j100132a040},
  journal = {J. Phys. Chem.},
@@ -1304,7 +1304,7 @@
  year = {1993}
 }
 
-@article{ZhangPRL11.8f,
+@article{ZhangPRL11*8f,
  author = {Guo-Xu Zhang and Alexandre Tkatchenko and Joachim Paier and Heiko Appel and Matthias Scheffler},
  doi = {10.1103/physrevlett.107.245501},
  journal = {Phys. Rev. Lett.},
@@ -1317,8 +1317,8 @@
  year = {2011}
 }
 
-@article{ZhuJCP10.85,
- author = {Wuming Zhu and Julien Toulouse and Andreas Savin and Ja{\'}nos G. A{\'}ngya{\'}n},
+@article{ZhuJCP10*85,
+ author = {Wuming Zhu and Julien Toulouse and Andreas Savin and J{\'{a}}nos G. {\'{A}}ngy{\'{a}}n},
  doi = {10.1063/1.3431616},
  journal = {J. Chem. Phys.},
  link = {http://dx.doi.org/10.1063/1.3431616},
