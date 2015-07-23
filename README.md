@@ -75,6 +75,7 @@ The conversion from DOI to bibtex consists of five steps:
 ### TODO
 
 - Add caching of response from DOI resolver.
+- Convert *all* bibtex fields to latex.
 
 
 [bibparser]: https://github.com/sciunto-org/python-bibtexparser
