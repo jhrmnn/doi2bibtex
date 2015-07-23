@@ -43,12 +43,13 @@ def u2l(text):
 
 
 def proc_bibtex(text, reverse=False):
-    targets = ['author', 'title', 'journal']
+    targets = ['author', 'title', 'journal', 'journaltitle']
     converter = l2u if reverse else u2l
     bib = bibtex.loads(text)
     for item in bib.entries:
         for target in targets:
-            item[target] = converter(item[target])
+            if target in item:
+                item[target] = converter(item[target])
     return bibtex.dumps(bib)
 
 
