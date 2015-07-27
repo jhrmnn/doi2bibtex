@@ -9,8 +9,7 @@ def worker(queue, results):
     root = 'http://data.crossref.org/'
     while not queue.empty():
         doi = queue.get()
-        req = Request(root + doi,
-                      headers={'Accept': 'application/x-bibtex'})
+        req = Request(root + doi, headers={'Accept': 'application/x-bibtex'})
         with urlopen(req) as rsp:
             response = rsp.read().decode()
         results.append(response)

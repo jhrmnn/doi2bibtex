@@ -18,15 +18,13 @@ def shorten(word):
 
 
 def process(title):
-    words = [corrections.get(w, w) for w in title.split()
-             if w.lower() not in ignored]
+    words = [corrections.get(w, w) for w in title.split() if w.lower() not in ignored]
     if len(words) > 1:
-        words = [shorten(word) if not word.endswith('.') else word
-                 for word in words]
+        words = [word if word.endswith('.') else shorten(word) for word in words]
     return ' '.join(words)
 
 
 bib = bibtex.load(sys.stdin)
 for item in bib.entries:
-    item['journal'] = process(item.get('journal', item['journaltitle']))
+    item['journal'] = process(item['journal'])
 bibtex.dump(bib, sys.stdout)
