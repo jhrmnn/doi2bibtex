@@ -27,8 +27,10 @@ def l2u(text):
 
     def replace(mobj):
         latex = mobj.group(1)
-        unic = cur.execute('select unicode from transl where latex = ?', (latex,)).fetchone()[0]
-        return unic
+        unic = cur.execute('select unicode from transl where latex = ?', (latex,)).fetchone()
+        if not unic:
+            raise RuntimeError('Unknown latex sequence: {}'.format(latex))
+        return unic[0]
 
     text = re.sub(r'{(\\[^}]*}?)}', replace, text)
     text = unicodedata.normalize('NFC', text)
@@ -63,6 +65,16 @@ def proc_bibtex(text, reverse=False):
     bib = bibtex.loads(text, parser)
     for item in bib.entries:
         for target in targets:
+            if target not in item:
+                continue
+            if '\$' in item[target]:
+                sys.stderr.write('error: quoted latex math expression in {}:{}, abort\n'
+                                 .format(item['id'], target))
+                sys.exit(1)
+            elif '$' in item[target]:
+                sys.stderr.write('warning: latex math expression in {}:{}, skipping\n'
+                                 .format(item['id'], target))
+                continue
             item[target] = converter(item[target])
     return bibtex.dumps(bib)
 
