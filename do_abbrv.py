@@ -5,10 +5,13 @@ import re
 from sciabbr import abbreviate
 
 
-ignored = ['of', 'the', 'and']
+ignored = ['of', 'the', 'and', 'on', 'für', 'in', 'a', '-', '–']
 corrections = {
     'Nat': 'Nature',
-    'Comms': 'Communications'
+    'Comms': 'Communications',
+    'chemical': 'Chemical',
+    'physics': 'Physics'
+}
 }
 
 
