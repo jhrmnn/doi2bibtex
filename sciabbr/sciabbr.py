@@ -31,4 +31,6 @@ def abbreviate(word):
         abbr = recds[0].abbr
         if abbr != 'n.a.':
             word = abbr
-    return word.capitalize() if is_capital else word
+        return word.capitalize() if is_capital else word
+    else:
+        return word
