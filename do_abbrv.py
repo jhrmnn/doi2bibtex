@@ -33,5 +33,6 @@ def process(title):
 
 bib = bibtex.load(sys.stdin)
 for item in bib.entries:
-    item['journal'] = process(item['journal'])
+    if 'journal' in item:
+        item['journal'] = process(item['journal'])
 bibtex.dump(bib, sys.stdout)
