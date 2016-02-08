@@ -12,6 +12,8 @@ corrections = {
     'chemical': 'Chemical',
     'physics': 'Physics'
 }
+special = {
+    'United States of America': 'U. S. A.'
 }
 
 
@@ -21,6 +23,8 @@ def shorten(word):
 
 
 def process(title):
+    for full, abbr in special.items():
+        title = title.replace(full, abbr)
     words = [corrections.get(w, w) for w in title.split() if w.lower() not in ignored]
     if len(words) > 1:
         words = [word if word.endswith('.') else shorten(word) for word in words]
