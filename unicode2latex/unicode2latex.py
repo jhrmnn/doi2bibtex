@@ -31,10 +31,12 @@ def u2l(text):
 
     def replace(mobj):
         unic = mobj.group(0)
-        latex = cur.execute('select latex from transl where unicode = ?', (unic,)).fetchone()
+        latex = cur.execute('select latex, mode from transl where unicode = ?', (unic,)).fetchone()
         if not latex:
-            return ''
-        latex = '{' + latex[0] + '}'
+            raise RuntimeError('Unknown Unicode character: {}'.format(unic))
+        latex, mode = latex
+        sep = '$' if mode == 'math' else ''
+        latex = '{' + sep + latex + sep + '}'
         return latex
 
     text = re.sub(r'[^\x00-\x7f]', replace, text)

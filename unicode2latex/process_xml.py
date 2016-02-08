@@ -11,19 +11,20 @@ def process():
     root = tree.getroot()
     db = []
     for char in root.findall('character'):
+        mode = char.attrib.get('mode')
         latex = char.find('latex')
         if latex is not None:
             try:
                 unic = unicodedata.lookup(char.find('description').text.strip())
             except KeyError:
                 continue
-            db.append((unic, latex.text.strip()))
+            db.append((unic, latex.text.strip(), mode))
     conn = sql.connect(db_path)
     cur = conn.cursor()
     cur.execute('drop table if exists transl')
-    cur.execute('create table transl (unicode text, latex text)')
+    cur.execute('create table transl (unicode text, latex text, mode text)')
     conn.commit()
-    cur.executemany('insert into transl values (?,?)', db)
+    cur.executemany('insert into transl values (?,?,?)', db)
     conn.commit()
     conn.close()
 
