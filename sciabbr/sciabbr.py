@@ -15,6 +15,9 @@ def abbreviate(word):
     is_capital = word[0].isupper()
     recds = [Recd(*abbr) for abbr in
              cur.execute('select * from abbrvs where ? like full', (word,))]
+    if not recds and word[-1] == 's':
+        recds = [Recd(*abbr) for abbr in
+                 cur.execute('select * from abbrvs where ? like full', (word[:-1],))]
     if recds:
         if len(recds) > 1:
             fulls = [r for r in recds if r.type == 0]
