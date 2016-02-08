@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import sqlite3 as sql
 import bibtexparser as bibtex
+from bibtexparser.bparser import BibTexParser
 import sys
 import os
 import re
@@ -47,7 +48,9 @@ def u2l(text):
 def proc_bibtex(text, reverse=False):
     targets = ['author', 'title', 'journal']
     converter = l2u if reverse else u2l
-    bib = bibtex.loads(text)
+    parser = BibTexParser()
+    parser.homogenise_fields = False
+    bib = bibtex.loads(text, parser)
     for item in bib.entries:
         for target in targets:
             item[target] = converter(item[target])
