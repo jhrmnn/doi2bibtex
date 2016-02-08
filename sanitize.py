@@ -5,8 +5,11 @@ import sys
 
 allowed_keys = [
     'doi', 'url', 'year', 'volume', 'number', 'pages',
-    'author', 'title', 'journal', 'id', 'type'
+    'author', 'title', 'journal', 'id', 'type', 'ENTRYTYPE', 'ID',
+    'publisher'
 ]
+if '--file' in ''.join(sys.argv):
+    allowed_keys.append('file')
 
 bib = bibtex.load(sys.stdin)
 for item in bib.entries:
