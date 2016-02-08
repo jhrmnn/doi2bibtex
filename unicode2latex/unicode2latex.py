@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+"""Converts Unicode letters to Latex escape codes.
+
+Usage:
+    unicode2latex.py [-r] [-b]
+
+Options:
+    -r, --reverse             Convert Latex to Unicode.
+    -b, --bibtex              Assume the input stream is Bibtex.
+"""
+from docopt import docopt
 import sqlite3 as sql
 import bibtexparser as bibtex
 from bibtexparser.bparser import BibTexParser
@@ -58,18 +68,10 @@ def proc_bibtex(text, reverse=False):
 
 
 if __name__ == '__main__':
-    from argparse import ArgumentParser
-    prs = ArgumentParser()
-    prs.add_argument('-r', '--reverse',
-                     action='store_true',
-                     help='convert latex to unicode')
-    prs.add_argument('-b', '--bibtex',
-                     action='store_true',
-                     help='process a bibtex database')
-    args = prs.parse_args()
+    args = docopt(__doc__)
     text = sys.stdin.read()
-    if args.bibtex:
-        print(proc_bibtex(text, reverse=args.reverse))
+    if args['--bibtex']:
+        print(proc_bibtex(text, reverse=args['--reverse']))
     else:
-        converter = l2u if args.reverse else u2l
+        converter = l2u if args['--reverse'] else u2l
         print(converter(text))
