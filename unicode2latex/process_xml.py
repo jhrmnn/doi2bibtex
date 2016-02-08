@@ -3,7 +3,7 @@ import sqlite3 as sql
 import sys
 import unicodedata
 
-db_path = 'unicode2latex.db'
+db_path = sys.argv[1]
 
 
 def process():
