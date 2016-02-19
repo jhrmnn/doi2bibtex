@@ -5,7 +5,7 @@ import re
 from sciabbr import abbreviate
 
 
-ignored = ['of', 'the', 'and', 'on', 'für', 'in', 'a', '-', '–']
+ignored = ['of', 'the', 'and', 'on', 'für', 'in', '-', '–']
 corrections = {
     'Nat': 'Nature',
     'Comms': 'Communications',
@@ -13,7 +13,8 @@ corrections = {
     'physics': 'Physics'
 }
 special = {
-    'United States of America': 'U. S. A.'
+    'United States of America': 'U. S. A.',
+    'A European Journal': 'European Journal'
 }
 
 
