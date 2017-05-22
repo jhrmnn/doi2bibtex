@@ -1,3 +1,6 @@
+/* This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
 alter table abbrvs add column type integer check (type in (0, 1, 2, 3));
 update abbrvs set type = 0 where full not like "%-" and full not like "-%";
 update abbrvs set type = 1, full = rtrim(full, "-") || "%", abbr = rtrim(abbr, "-")
